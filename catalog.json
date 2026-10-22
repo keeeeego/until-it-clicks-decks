@@ -5,7 +5,7 @@
     "note": "AIの歴史・機械学習・法律倫理の最重要50選",
     "cardCount": 50,
     "category": "資格・AI",
-    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_50.json"
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_50_1.json"
   },
   {
     "id": "junior_high_100",
@@ -13,6 +13,6 @@
     "note": "中学3年間の重要単語100選（例文・小話付き）",
     "cardCount": 100,
     "category": "語学",
-    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/junior_high_100.json"
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/junior_high_100_1.json"
   }
 ]
