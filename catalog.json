@@ -14,5 +14,14 @@
     "cardCount": 100,
     "category": "語学",
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/junior_high_100_1.json"
+  },
+  {
+    "id": "niigata_dialect_basic_1",
+    "title": "🌾 新潟弁・日常キホン会話（初級 Vol.1）",
+    "note": "日常でそのまま使える定番の一言・短文フレーズ20選",
+    "category": "教養・カルチャー",
+    "subCategory": "方言",
+    "cardCount": 20,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/niigata_dialect_basic_1.json"
   }
 ]
