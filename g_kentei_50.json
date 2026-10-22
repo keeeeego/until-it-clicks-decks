@@ -1,0 +1,18 @@
+[
+  {
+    "id": "g_kentei_50",
+    "title": "🤖 G検定・頻出重要キーワード50",
+    "note": "AIの歴史・機械学習・法律倫理の最重要50選",
+    "cardCount": 50,
+    "category": "資格・AI",
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_50.json"
+  },
+  {
+    "id": "junior_high_100",
+    "title": "🏫 中学レベル・必須キホン英単語100",
+    "note": "中学3年間の重要単語100選（例文・小話付き）",
+    "cardCount": 100,
+    "category": "語学",
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/junior_high_100.json"
+  }
+]
