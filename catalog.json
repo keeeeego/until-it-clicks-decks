@@ -23,5 +23,23 @@
     "subCategory": "方言",
     "cardCount": 20,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/niigata_dialect_basic_1.json"
+  },
+  {
+    "id": "kobun_vocab_basic_1",
+    "title": "📜 古文単語・初級 (Vol.1) 超必須キホン50",
+    "note": "現代語トラップ＆超頻出の最重要古語50選",
+    "category": "語学",
+    "subCategory": "古文",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_basic_1.json"
+  },
+  {
+    "id": "kobun_vocab_basic_2",
+    "title": "📜 古文単語・初級 (Vol.2) 頻出基礎50",
+    "note": "共通テスト頻出！確実に得点源にする基礎50選",
+    "category": "語学",
+    "subCategory": "古文",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_basic_2.json"
   }
 ]
