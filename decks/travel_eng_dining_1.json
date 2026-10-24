@@ -1,0 +1,159 @@
+{
+  "deckId": "travel_eng_dining_1",
+  "title": "🍽️ 旅行英語 (Vol.3) レストラン・カフェ・食事",
+  "note": "入店から注文、カスタムオーダー、お会計まで",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "tr_din_001",
+      "front": "2名です。席は空いていますか？",
+      "back": "A table for two, please. Do you have any seats available?",
+      "story": "解説: 店員さんに人数を聞かれたら「Table for two（2人）」「Table for three（3人）」と答えます。"
+    },
+    {
+      "id": "tr_din_002",
+      "front": "予約している佐藤です。",
+      "back": "I have a reservation under Sato.",
+      "story": "解説: レストラン予約の到着時。「At 7:00 under Sato」のように予約時間を添えるとスムーズ。"
+    },
+    {
+      "id": "tr_din_003",
+      "front": "テラス席（屋外の席）は利用できますか？",
+      "back": "Can we sit outside on the patio?",
+      "story": "解説: 眺めの良いテラス席を希望する時。窓際なら「by the window」、静かな席なら「a quiet table」です。"
+    },
+    {
+      "id": "tr_din_004",
+      "front": "英語のメニューはありますか？",
+      "back": "Do you have an English menu?",
+      "story": "解説: 現地語のメニューしか置かれていない場合、聞くと英語メニューを出してくれる店は多いです。"
+    },
+    {
+      "id": "tr_din_005",
+      "front": "注文をお願いします。（店員さんを呼ぶ）",
+      "back": "Excuse me, we're ready to order.",
+      "story": "解説: 海外では大声で呼ぶのではなく、担当サーバーとアイコンタクトを取りながら小さく手を上げて合図します。"
+    },
+    {
+      "id": "tr_din_006",
+      "front": "もう少し時間をいただけますか？（まだ決まってない）",
+      "back": "Could you give us a few more minutes?",
+      "story": "解説: 店員がオーダーを取りに来たがまだメニューを選んでいる最中の時、焦らずこう伝えましょう。"
+    },
+    {
+      "id": "tr_din_007",
+      "front": "この店のおすすめは何ですか？",
+      "back": "What do you recommend here?",
+      "story": "解説: 「What is your signature dish?（看板料理は何？）」や「What's popular?」と聞くのもおすすめ。"
+    },
+    {
+      "id": "tr_din_008",
+      "front": "これと同じものをください。（隣の席の料理を指して）",
+      "back": "I'll have the same dish as that one.",
+      "story": "解説: メニュー名が読めないが隣のテーブルの料理が美味しそうな時の魔法のフレーズ。"
+    },
+    {
+      "id": "tr_din_009",
+      "front": "これをお願いします。（メニューを指差しながら）",
+      "back": "I'd like this one, please.",
+      "story": "解説: 発音がわからない料理はメニューを指差しながら「This one, please」で100%通じます。"
+    },
+    {
+      "id": "tr_din_010",
+      "front": "タップウォーター（水道水・無料の水）をお願いします。",
+      "back": "Tap water is fine, please.",
+      "story": "解説: 「Water?」と聞かれて「Yes」と答えると高いミネラルウォーターが出てくる国が多いので、無料の水でいい時はこう言います。"
+    },
+    {
+      "id": "tr_din_011",
+      "front": "炭酸なしの水をお願いします。",
+      "back": "Still water, please.",
+      "story": "解説: 海外の水は「Still（炭酸なし）」と「Sparkling（炭酸入り）」に分かれます。普通の水なら「Still」です。"
+    },
+    {
+      "id": "tr_din_012",
+      "front": "（ステーキの焼き加減）ミディアムレアでお願いします。",
+      "back": "Medium-rare, please.",
+      "story": "解説: レア（Rare）、ミディアムレア（Medium-rare）、ミディアム（Medium）、ウェルダン（Well-done）から選びます。"
+    },
+    {
+      "id": "tr_din_013",
+      "front": "パクチー（ナッツ）を抜いていただけますか？",
+      "back": "Could you make it without cilantro (nuts)?",
+      "story": "解説: パクチーは米語でcilantro、英語でcoriander。「without 〜（〜抜きで）」はアレルギー対策に必須。"
+    },
+    {
+      "id": "tr_din_014",
+      "front": "私は甲殻類（エビ・カニ）アレルギーです。",
+      "back": "I'm allergic to shellfish.",
+      "story": "解説: アレルギーは命に関わるため「I'm allergic to 〜」を正確に伝えましょう。小麦なら「wheat/gluten」、卵なら「eggs」。"
+    },
+    {
+      "id": "tr_din_015",
+      "front": "ドレッシングは別添えにしてください。",
+      "back": "Could I have the dressing on the side?",
+      "story": "解説: 「on the side」でソースやドレッシングを料理にかけず、小皿で分けて持ってきてくれます。"
+    },
+    {
+      "id": "tr_din_016",
+      "front": "料理をシェアしたいので、取り分け皿を2枚ください。",
+      "back": "Could we have two extra plates for sharing?",
+      "story": "解説: 大皿料理をみんなで取り分けたい時にサーバーにお願いする表現。"
+    },
+    {
+      "id": "tr_din_017",
+      "front": "注文した料理がまだ来ていません。",
+      "back": "Excuse me, our food hasn't arrived yet.",
+      "story": "解説: 忘れられている可能性がある時、サーバーに確認してもらう丁寧な催促フレーズ。"
+    },
+    {
+      "id": "tr_din_018",
+      "front": "これは注文したものと違います。",
+      "back": "Sorry, but this isn't what I ordered.",
+      "story": "解説: 違うテーブルの料理が間違えて運ばれてきた時、手をつけずにすぐに伝えましょう。"
+    },
+    {
+      "id": "tr_din_019",
+      "front": "とても美味しいです！",
+      "back": "Everything is delicious!",
+      "story": "解説: 食事中にサーバーが「How is everything?」と様子を見に来た際のベストな返答。"
+    },
+    {
+      "id": "tr_din_020",
+      "front": "お会計をお願いします。",
+      "back": "Could we have the check (bill), please?",
+      "story": "解説: アメリカでは「Check」、イギリス・欧州では「Bill」が一般的。テーブル会計が基本です。"
+    },
+    {
+      "id": "tr_din_021",
+      "front": "別々でお会計できますか？",
+      "back": "Can we pay separately?",
+      "story": "解説: 割り勘（個別会計）にしたい時。店によっては断られることもあるので断られたら代表者が払って後で精算。"
+    },
+    {
+      "id": "tr_din_022",
+      "front": "クレジットカードで支払えますか？",
+      "back": "Do you accept credit cards?",
+      "story": "解説: 個人経営のカフェや屋台では現金のみ（Cash only）の場合もあるので、事前に確認しておくと安心。"
+    },
+    {
+      "id": "tr_din_023",
+      "front": "チップは含まれていますか？",
+      "back": "Is the tip (service charge) included?",
+      "story": "解説: レシートの「Gratuity」や「Service Charge」の欄を確認。すでに含まれていれば二重に払う必要はありません。"
+    },
+    {
+      "id": "tr_din_024",
+      "front": "お釣りは取っておいてください（チップです）。",
+      "back": "Keep the change, please.",
+      "story": "解説: 現金で払って、お釣りの小銭をそのままチップとして店員に渡したい時のかっこいい決め台詞。"
+    },
+    {
+      "id": "tr_din_025",
+      "front": "残りを持ち帰りたいので容器をいただけますか？",
+      "back": "Could I get a to-go box (doggy bag), please?",
+      "story": "解説: 欧米のレストランは量が多いのが当たり前なので、持ち帰り（To-go）を頼むのは普通のことです。"
+    }
+  ]
+}

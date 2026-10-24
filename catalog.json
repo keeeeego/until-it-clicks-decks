@@ -69,5 +69,50 @@
     "subCategory": "古文",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_advanced_2.json"
+  },
+  {
+    "id": "travel_eng_airport_1",
+    "title": "🛫 旅行英語 (Vol.1) 空港・機内・入国審査",
+    "note": "出国から入国審査、機内・乗継ぎの必須フレーズ",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 25,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_airport_1.json"
+  },
+  {
+    "id": "travel_eng_hotel_1",
+    "title": "🏨 旅行英語 (Vol.2) ホテル・滞在チェックイン",
+    "note": "チェックイン/アウト、備品リクエスト、荷物預け",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 25,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_hotel_1.json"
+  },
+  {
+    "id": "travel_eng_dining_1",
+    "title": "🍽️ 旅行英語 (Vol.3) レストラン・カフェ・食事",
+    "note": "入店から注文、カスタムオーダー、お会計まで",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 25,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_dining_1.json"
+  },
+  {
+    "id": "travel_eng_shopping_1",
+    "title": "🛍️ 旅行英語 (Vol.4) ショッピング・買い物",
+    "note": "試着、サイズ・色違い確認、免税手続き",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 25,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_shopping_1.json"
+  },
+  {
+    "id": "travel_eng_transit_trouble_1",
+    "title": "🚨 旅行英語 (Vol.5) 街歩き・交通・緊急トラブル",
+    "note": "タクシー・電車の乗り方、道案内、体調不良・紛失",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 25,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_transit_trouble_1.json"
   }
 ]

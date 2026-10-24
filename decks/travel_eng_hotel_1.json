@@ -1,0 +1,159 @@
+{
+  "deckId": "travel_eng_hotel_1",
+  "title": "🏨 旅行英語 (Vol.2) ホテル・滞在チェックイン",
+  "note": "チェックイン/アウト、備品リクエスト、荷物預け",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "tr_hot_001",
+      "front": "チェックインをお願いします。予約してあります。",
+      "back": "Check-in, please. I have a reservation.",
+      "story": "解説: フロントで予約者のパスポートと予約完了画面（バウチャー）を見せながら伝えます。"
+    },
+    {
+      "id": "tr_hot_002",
+      "front": "田中という名前で予約しています。",
+      "back": "I have a reservation under the name Tanaka.",
+      "story": "解説: 「under the name 〜（〜の名前で）」はホテルやレストランの予約確認で最もよく使われる前置詞表現。"
+    },
+    {
+      "id": "tr_hot_003",
+      "front": "アーリーチェックインは可能ですか？",
+      "back": "Can I check in early?",
+      "story": "解説: 規定のチェックイン時刻（15時など）より早く部屋に入りたい時の交渉。部屋が空いていれば無料で入れてくれることも。"
+    },
+    {
+      "id": "tr_hot_004",
+      "front": "チェックイン前ですが、荷物を預かってもらえますか？",
+      "back": "Could you hold my luggage until check-in time?",
+      "story": "解説: 早く到着して手ぶらで観光に出かけたい時の定番。預けると荷物引換券（Claim Tag）を渡されます。"
+    },
+    {
+      "id": "tr_hot_005",
+      "front": "Wi-Fiのパスワードは何ですか？",
+      "back": "What is the Wi-Fi password?",
+      "story": "解説: ルームキーの紙ケースに書いてあることが多いですが、繋がらない時や見当たらない時はフロントへ。"
+    },
+    {
+      "id": "tr_hot_006",
+      "front": "朝食は何時から何時までですか？",
+      "back": "What time is breakfast served?",
+      "story": "解説: レストランの場所も合わせて聞きたい時は「Where is the breakfast room?」と付け加えます。"
+    },
+    {
+      "id": "tr_hot_007",
+      "front": "静かな部屋（高層階の部屋）に変えてもらえますか？",
+      "back": "Could I have a quiet room (a room on a higher floor)?",
+      "story": "解説: エレベーターの隣や通りに面して騒がしい場合、チェックイン時にリクエストすると柔軟に対応してくれます。"
+    },
+    {
+      "id": "tr_hot_008",
+      "front": "禁煙の部屋を予約したのですが。",
+      "back": "I booked a non-smoking room.",
+      "story": "解説: 案内された部屋がタバコ臭い時のクレーム。海外のホテルは禁煙ポリシーが厳格なので部屋を変えてもらえます。"
+    },
+    {
+      "id": "tr_hot_009",
+      "front": "タオルをもう数枚持ってきてもらえますか？",
+      "back": "Could you bring me some extra towels, please?",
+      "story": "解説: 「extra 〜」で「余分な・追加の」。歯ブラシ（extra toothbrush）やシャンプー（extra shampoo）にも使えます。"
+    },
+    {
+      "id": "tr_hot_010",
+      "front": "お湯が出ません。",
+      "back": "There is no hot water.",
+      "story": "解説: シャワーから水しか出ないトラブル。「There is no 〜」はホテル内のあらゆる不備（トイレットペーパー等）に使えます。"
+    },
+    {
+      "id": "tr_hot_011",
+      "front": "エアコンが作動しません。",
+      "back": "The air conditioner isn't working.",
+      "story": "解説: 「〜 isn't working」で機械や電化製品が動かないことを伝えます。TV、冷蔵庫、ドライヤーにも応用可能。"
+    },
+    {
+      "id": "tr_hot_012",
+      "front": "トイレが詰まってしまいました。",
+      "back": "The toilet is clogged.",
+      "story": "解説: 海外のホテルは水圧が弱いことが多いため頻出。「clogged（クロッグド＝詰まった）」は覚えておくべき重要単語。"
+    },
+    {
+      "id": "tr_hot_013",
+      "front": "部屋の鍵を中に置いたままインロックしてしまいました。",
+      "back": "I locked myself out of my room.",
+      "story": "解説: オートロックの部屋から鍵を持たずに閉め出された時。フロントで身分証を提示すればスペアキーを作ってくれます。"
+    },
+    {
+      "id": "tr_hot_014",
+      "front": "上の部屋がとてもうるさいのですが。",
+      "back": "The room above me is very noisy.",
+      "story": "解説: 深夜の足音やパーティー騒音は我慢せずフロントに連絡して注意してもらいましょう。"
+    },
+    {
+      "id": "tr_hot_015",
+      "front": "部屋の掃除は不要です。",
+      "back": "No room cleaning today, please.",
+      "story": "解説: ドアノブに「Do Not Disturb（起こさないで）」の札を掛けておくか、フロントにこう伝えます。"
+    },
+    {
+      "id": "tr_hot_016",
+      "front": "モーニングコールを朝7時にお願いします。",
+      "back": "Could I have a wake-up call at 7 a.m.?",
+      "story": "解説: 和製英語の「モーニングコール」ではなく「wake-up call」と言います。"
+    },
+    {
+      "id": "tr_hot_017",
+      "front": "変換プラグは貸してもらえますか？",
+      "back": "Do you have an adapter plug I could borrow?",
+      "story": "解説: コンセントの形状が日本と異なる国で充電器が挿せない時、フロントに頼むと貸し出してくれることが多いです。"
+    },
+    {
+      "id": "tr_hot_018",
+      "front": "チェックアウトをお願いします。",
+      "back": "I'd like to check out, please.",
+      "story": "解説: フロントにルームキーを返却しながら伝えます。「Everything was great, thank you!」と添えると好印象。"
+    },
+    {
+      "id": "tr_hot_019",
+      "front": "レイトチェックアウトは可能ですか？",
+      "back": "Is it possible to have a late check-out?",
+      "story": "解説: 飛行機の出発が夕方の場合などに、12時〜14時頃まで延長したい時の相談（追加料金が必要な場合もあります）。"
+    },
+    {
+      "id": "tr_hot_020",
+      "front": "チェックアウト後、夕方まで荷物を預かってもらえますか？",
+      "back": "Could you keep my bags until 5 p.m.?",
+      "story": "解説: チェックアウト当日の最終観光時、重いスーツケースをベルデスクやフロントに預ける最強フレーズ。"
+    },
+    {
+      "id": "tr_hot_021",
+      "front": "この明細に見覚えのない請求があるのですが。",
+      "back": "There's a charge here that I don't recognize.",
+      "story": "解説: ミニバー（部屋の有料ドリンク）など、身に覚えのない請求がレシートに含まれていた際の確認。"
+    },
+    {
+      "id": "tr_hot_022",
+      "front": "空港行きのタクシーを1台呼んでいただけますか？",
+      "back": "Could you call a taxi to the airport for me?",
+      "story": "解説: 流しのタクシーよりホテルが呼んでくれるタクシーの方がぼったくりリスクが低く安全です。"
+    },
+    {
+      "id": "tr_hot_023",
+      "front": "近くにおすすめのレストランはありますか？",
+      "back": "Could you recommend a good local restaurant nearby?",
+      "story": "解説: コンシェルジュやフロントスタッフは地元グルメの宝庫。「Not too touristy（観光客向けすぎない店）」と添えるのも通。"
+    },
+    {
+      "id": "tr_hot_024",
+      "front": "部屋に忘れ物をしてしまいました。",
+      "back": "I left something in my room.",
+      "story": "解説: チェックアウト後に忘れ物に気づいた時。部屋番号を伝え「It's a black jacket.」のように特徴を伝えます。"
+    },
+    {
+      "id": "tr_hot_025",
+      "front": "とても快適に過ごせました。ありがとうございました。",
+      "back": "We had a wonderful stay. Thank you for everything.",
+      "story": "解説: チェックアウトの去り際に伝える最高の感謝フレーズ。チップを渡す際にも使えます。"
+    }
+  ]
+}
