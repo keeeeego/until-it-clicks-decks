@@ -24,6 +24,33 @@
     "cardCount": 20,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/niigata_dialect_basic_1.json"
   },
+{
+    "id": "g_kentei_50_1",
+    "title": "🤖 G検定・頻出重要キーワード50 (Vol.1)",
+    "note": "AIの歴史・機械学習・法律倫理の最重要50選",
+    "category": "資格・検定",
+    "subCategory": "AI・IT",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_50_1.json"
+  },
+  {
+    "id": "junior_high_100_1",
+    "title": "🏫 中学レベル・必須キホン英単語100 (Vol.1)",
+    "note": "中学3年間の重要単語100選（例文・小話付き）",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 100,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/junior_high_100_1.json"
+  },
+  {
+    "id": "niigata_dialect_basic_1",
+    "title": "🌾 新潟弁・日常キホン会話（初級 Vol.1）",
+    "note": "日常でそのまま使える定番の一言・短文フレーズ20選",
+    "category": "教養・カルチャー",
+    "subCategory": "方言",
+    "cardCount": 20,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/niigata_dialect_basic_1.json"
+  },
   {
     "id": "kobun_vocab_basic_1",
     "title": "📜 古文単語・初級 (Vol.1) 超必須キホン50",
@@ -41,5 +68,41 @@
     "subCategory": "古文",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_basic_2.json"
+  },
+  {
+    "id": "kobun_vocab_standard_1",
+    "title": "📜 古文単語・中級 (Vol.1) 心理・描写50",
+    "note": "登場人物の心情や情景描写を読み解く標準50選",
+    "category": "語学",
+    "subCategory": "古文",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_standard_1.json"
+  },
+  {
+    "id": "kobun_vocab_standard_2",
+    "title": "📜 古文単語・中級 (Vol.2) 重要動作・日常50",
+    "note": "ストーリー展開を握る重要動詞と生活習慣50選",
+    "category": "語学",
+    "subCategory": "古文",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_standard_2.json"
+  },
+  {
+    "id": "kobun_vocab_advanced_1",
+    "title": "📜 古文単語・上級 (Vol.1) 差がつく多義・副詞50",
+    "note": "二次・難関私大で差がつく重要副詞と多義語50選",
+    "category": "語学",
+    "subCategory": "古文",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_advanced_1.json"
+  },
+  {
+    "id": "kobun_vocab_advanced_2",
+    "title": "📜 古文単語・上級 (Vol.2) 完全網羅・古典文化50",
+    "note": "平安・中世の美意識や仏教・世相を完全制覇する50選",
+    "category": "語学",
+    "subCategory": "古文",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_advanced_2.json"
   }
 ]
