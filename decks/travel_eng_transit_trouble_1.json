@@ -9,151 +9,176 @@
       "id": "tr_trs_001",
       "front": "Could you take me to this address, please?",
       "back": "この住所までお願いします。（タクシーで地図を見せる）",
-      "story": "解説: スマホのGoogleマップの目的地画面やホテルのカードを見せながら運転手に渡すのが最も確実。"
+      "story": "解説: スマホのGoogleマップの目的地画面やホテルのカードを見せながら運転手に渡すのが最も確実。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_002",
       "front": "Please turn on the meter.",
       "back": "メーターを使ってください。",
-      "story": "解説: ぼったくりタクシー対策。メーターを回さず走り出したらすぐに「Meter, please!」と強く言いましょう。"
+      "story": "解説: ぼったくりタクシー対策。メーターを回さず走り出したらすぐに「Meter, please!」と強く言いましょう。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_003",
       "front": "Could you drop me off here, please?",
       "back": "ここで降ろしてください。",
-      "story": "解説: 目的地の建物の前や交差点の手前で降りたい時のタクシー必須フレーズ。"
+      "story": "解説: 目的地の建物の前や交差点の手前で降りたい時のタクシー必須フレーズ。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_004",
       "front": "Could you open the trunk, please?",
       "back": "トランクを開けていただけますか？",
-      "story": "解説: スーツケースを出し入れしたい時。イギリス英語では「boot（ブート）」と言います。"
+      "story": "解説: スーツケースを出し入れしたい時。イギリス英語では「boot（ブート）」と言います。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_005",
       "front": "How long does it take to walk to the station?",
       "back": "駅まで歩いてどのくらいかかりますか？",
-      "story": "解説: 「How long does it take to 〜?」で所要時間を尋ねる重要パターン。"
+      "story": "解説: 「How long does it take to 〜?」で所要時間を尋ねる重要パターン。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_006",
       "front": "I'm lost. Could you show me where I am on this map?",
       "back": "道に迷ってしまいました。現在地を教えてもらえますか？",
-      "story": "解説: 通行人にスマホの地図を指差しながら尋ねます。「I'm lost」は迷子になった時の基本単語。"
+      "story": "解説: 通行人にスマホの地図を指差しながら尋ねます。「I'm lost」は迷子になった時の基本単語。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_007",
       "front": "Where is the nearest subway station?",
       "back": "一番近い地下鉄の駅はどこですか？",
-      "story": "解説: イギリスでは「underground / tube」、フランスでは「metro」と呼び方が変わります。"
+      "story": "解説: イギリスでは「underground / tube」、フランスでは「metro」と呼び方が変わります。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_008",
       "front": "Does this train go to Central Station?",
       "back": "この電車はセントラルステーションに行きますか？",
-      "story": "解説: ホームで電車に乗り込む前に近くの乗客に確認する誤乗車防止フレーズ。"
+      "story": "解説: ホームで電車に乗り込む前に近くの乗客に確認する誤乗車防止フレーズ。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_009",
       "front": "Do I need to transfer at the next stop?",
       "back": "次の駅で乗り換えが必要ですか？",
-      "story": "解説: 乗り換えが必要か直通か不安な時に乗務員や隣の乗客に確認します。"
+      "story": "解説: 乗り換えが必要か直通か不安な時に乗務員や隣の乗客に確認します。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_010",
       "front": "Could you take a photo of us, please?",
       "back": "写真を撮っていただけますか？",
-      "story": "解説: 観光地で記念撮影を頼む時。スマホを渡して「Just press this button」と教えます。"
+      "story": "解説: 観光地で記念撮影を頼む時。スマホを渡して「Just press this button」と教えます。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_011",
       "front": "I don't feel well. I need to sit down for a moment.",
       "back": "気分が悪いです。少し休ませてください。",
-      "story": "解説: 旅先で熱中症やめまい、乗り物酔いが起きた時に同行者や周囲に伝える言葉。"
+      "story": "解説: 旅先で熱中症やめまい、乗り物酔いが起きた時に同行者や周囲に伝える言葉。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_012",
       "front": "Do you have any medicine for a headache (stomachache)?",
       "back": "頭痛薬（胃薬）はありますか？",
-      "story": "解説: 街の薬局（Pharmacy / Chemist）で症状を伝えて薬を買う時。痛み止めなら「painkiller」でも通じます。"
+      "story": "解説: 街の薬局（Pharmacy / Chemist）で症状を伝えて薬を買う時。痛み止めなら「painkiller」でも通じます。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_013",
       "front": "Is there a doctor who speaks Japanese?",
       "back": "日本語を話せる医師はいますか？",
-      "story": "解説: 海外旅行保険の緊急サポートデスクに電話した際や大きな総合病院で確認するフレーズ。"
+      "story": "解説: 海外旅行保険の緊急サポートデスクに電話した際や大きな総合病院で確認するフレーズ。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_014",
       "front": "Please call an ambulance!",
       "back": "救急車を呼んでください！",
-      "story": "解説: 命に関わる緊急事態。アメリカの緊急番号は911、ヨーロッパの多くは112です。"
+      "story": "解説: 命に関わる緊急事態。アメリカの緊急番号は911、ヨーロッパの多くは112です。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_015",
       "front": "My passport has been stolen.",
       "back": "パスポートを盗まれてしまいました。",
-      "story": "解説: すぐに現地警察（Police Station）へ行き、再発行や保険請求に必要な「ポリスレポート（盗難届出証明書）」を作ってもらいます。"
+      "story": "解説: すぐに現地警察（Police Station）へ行き、再発行や保険請求に必要な「ポリスレポート（盗難届出証明書）」を作ってもらいます。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_016",
       "front": "I lost my wallet somewhere.",
       "back": "財布をどこかに落としてしまいました。",
-      "story": "解説: 「I lost 〜」で紛失。クレジットカード会社へ即座に電話して利用停止手続きをしましょう。"
+      "story": "解説: 「I lost 〜」で紛失。クレジットカード会社へ即座に電話して利用停止手続きをしましょう。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_017",
       "front": "I need to contact the Japanese Embassy.",
       "back": "日本大使館（領事館）へ連絡したいです。",
-      "story": "解説: パスポート紛失や重大トラブルの際、帰国のための渡航書の発行などを支援してくれます。"
+      "story": "解説: パスポート紛失や重大トラブルの際、帰国のための渡航書の発行などを支援してくれます。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_018",
       "front": "Where is the nearest police station?",
       "back": "警察署はどこですか？",
-      "story": "解説: 盗難被害の届出（Police Report作成）のために向かう場所。"
+      "story": "解説: 盗難被害の届出（Police Report作成）のために向かう場所。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_019",
       "front": "Help! Thief!",
       "back": "助けて！泥棒！（大声で叫ぶ）",
-      "story": "解説: スリやひったくりに遭った瞬間に周囲の注意を引くための緊急叫び声。"
+      "story": "解説: スリやひったくりに遭った瞬間に周囲の注意を引くための緊急叫び声。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_020",
       "front": "I left my smartphone in a taxi.",
       "back": "タクシーにスマートフォンを忘れてしまいました。",
-      "story": "解説: レシートがあればタクシー会社と車両番号が特定できるため、見つかる確率が劇的に上がります。"
+      "story": "解説: レシートがあればタクシー会社と車両番号が特定できるため、見つかる確率が劇的に上がります。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_021",
       "front": "Is it safe to walk around here at night?",
       "back": "このあたりは夜間に一人で歩いても安全ですか？",
-      "story": "解説: ホテルのフロントや地元の人に治安の良し悪しを確認する重要な自己防衛フレーズ。"
+      "story": "解説: ホテルのフロントや地元の人に治安の良し悪しを確認する重要な自己防衛フレーズ。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_022",
       "front": "Where is the public restroom (toilet)?",
       "back": "公衆トイレはどこにありますか？",
-      "story": "解説: アメリカでは「restroom」、イギリスでは「toilet / loo」。海外は有料トイレ（小銭が必要）も多いです。"
+      "story": "解説: アメリカでは「restroom」、イギリスでは「toilet / loo」。海外は有料トイレ（小銭が必要）も多いです。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_023",
       "front": "Where is the tourist information center?",
       "back": "観光案内所はどこですか？",
-      "story": "解説: 無料の市内マップや割引クーポン、交通パスが手に入る観光の拠点。"
+      "story": "解説: 無料の市内マップや割引クーポン、交通パスが手に入る観光の拠点。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_024",
       "front": "I don't speak English well. Could you speak more slowly, please?",
       "back": "英語が上手に話せないので、ゆっくり話していただけますか？",
-      "story": "解説: ネイティブが早口で聞き取れない時の最強フレーズ。恥ずかしがらずに伝えるとお互い安心です。"
+      "story": "解説: ネイティブが早口で聞き取れない時の最強フレーズ。恥ずかしがらずに伝えるとお互い安心です。",
+      "searchQuery": "海外旅行 交通 英会話"
     },
     {
       "id": "tr_trs_025",
       "front": "Could you write that down for me, please?",
       "back": "それを紙（スマホ）に書いてもらえますか？",
-      "story": "解説: 数字、場所の名前、複雑な案内を聞き取れない時、書いてもらうのが一番確実で間違いがありません。"
+      "story": "解説: 数字、場所の名前、複雑な案内を聞き取れない時、書いてもらうのが一番確実で間違いがありません。",
+      "searchQuery": "海外旅行 交通 英会話"
     }
   ]
 }

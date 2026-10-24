@@ -9,151 +9,176 @@
       "id": "tr_air_001",
       "front": "I'd like to check in, please.",
       "back": "チェックインをお願いします。",
-      "story": "解説: パスポートと予約確認書を出しながら言う基本フレーズ。I'd like to ...（〜したいのですが）は大人の丁寧な万能表現。"
+      "story": "解説: パスポートと予約確認書を出しながら言う基本フレーズ。I'd like to ...（〜したいのですが）は大人の丁寧な万能表現。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_002",
       "front": "Could I have a window seat (an aisle seat), please?",
       "back": "窓側の席（通路側の席）をお願いできますか？",
-      "story": "解説: aisle（通路）は「アイル」と発音し「s」は読みません。両親や連れと隣同士にしたい時は「Could we sit together?」と言います。"
+      "story": "解説: aisle（通路）は「アイル」と発音し「s」は読みません。両親や連れと隣同士にしたい時は「Could we sit together?」と言います。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_003",
       "front": "I have one bag to check and one carry-on bag.",
       "back": "手荷物は預け入れ1個、機内持ち込み1個です。",
-      "story": "解説: 預ける荷物は「checked bag」、手荷物として機内に持ち込むカバンは「carry-on bag」と呼び分けます。"
+      "story": "解説: 預ける荷物は「checked bag」、手荷物として機内に持ち込むカバンは「carry-on bag」と呼び分けます。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_004",
       "front": "Can I take this as carry-on luggage?",
       "back": "この荷物は機内に持ち込めますか？",
-      "story": "解説: サイズや重量が不安な時はチェックインカウンターで確認しておくと、搭乗ゲートでの追加料金トラブルを防げます。"
+      "story": "解説: サイズや重量が不安な時はチェックインカウンターで確認しておくと、搭乗ゲートでの追加料金トラブルを防げます。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_005",
       "front": "Which gate is for flight NH106?",
       "back": "搭乗口は何番ですか？",
-      "story": "解説: 「Which gate?」だけでも通じます。搭乗券（boarding pass）に印字されたゲート番号が変更になることもあるので注意。"
+      "story": "解説: 「Which gate?」だけでも通じます。搭乗券（boarding pass）に印字されたゲート番号が変更になることもあるので注意。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_006",
       "front": "Will my luggage go straight through to the final destination?",
       "back": "荷物は最終目的地までスルーで預けられますか？",
-      "story": "解説: 乗り継ぎ（Transit/Transfer）がある便で、経由地で一度ピックアップが必要かどうかを確認する決定的一言。"
+      "story": "解説: 乗り継ぎ（Transit/Transfer）がある便で、経由地で一度ピックアップが必要かどうかを確認する決定的一言。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_007",
       "front": "For sightseeing. / Sightseeing.",
       "back": "（入国審査で）観光で来ました。",
-      "story": "解説: 入国審査官の「What's the purpose of your visit?（滞在目的は？）」に対する返答。仕事なら「For business」です。"
+      "story": "解説: 入国審査官の「What's the purpose of your visit?（滞在目的は？）」に対する返答。仕事なら「For business」です。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_008",
       "front": "I'll be staying for five days.",
       "back": "（滞在日数を聞かれて）5日間滞在します。",
-      "story": "解説: 「How long are you going to stay?」と聞かれたら、単に「Five days.」と数字＋日数だけでも十分通じます。"
+      "story": "解説: 「How long are you going to stay?」と聞かれたら、単に「Five days.」と数字＋日数だけでも十分通じます。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_009",
       "front": "I'm staying at the Hilton Hotel.",
       "back": "ヒルトンホテルに滞在予定です。",
-      "story": "解説: 「Where are you staying?」への回答。入国カードの滞在先住所欄を指差して「Here.」と見せるだけでもOK。"
+      "story": "解説: 「Where are you staying?」への回答。入国カードの滞在先住所欄を指差して「Here.」と見せるだけでもOK。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_010",
       "front": "Here is my return ticket.",
       "back": "帰りの航空券を持っています。（チケットを見せる）",
-      "story": "解説: 不法滞在を警戒する入国審査官に、確実に帰国することを証明する最強のアイテム。スマホの予約画面を見せましょう。"
+      "story": "解説: 不法滞在を警戒する入国審査官に、確実に帰国することを証明する最強のアイテム。スマホの予約画面を見せましょう。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_011",
       "front": "I have nothing to declare.",
       "back": "申告するものは何もありません。",
-      "story": "解説: 税関（Customs）での緑ゲート（申告なし）を通る時や、税関申告書を渡す際の定番フレーズ。"
+      "story": "解説: 税関（Customs）での緑ゲート（申告なし）を通る時や、税関申告書を渡す際の定番フレーズ。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_012",
       "front": "These are for personal use.",
       "back": "これは個人で使用するものです。",
-      "story": "解説: 高価な機材やブランド品などを持ち込み、販売目的でないか疑われた際に説明する必須フレーズ。"
+      "story": "解説: 高価な機材やブランド品などを持ち込み、販売目的でないか疑われた際に説明する必須フレーズ。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_013",
       "front": "Chicken, please.",
       "back": "（機内で）チキンをお願いします。",
-      "story": "解説: CAさんの「Beef or Chicken?」に対する回答。ドリンクを聞かれた際も「Apple juice, please.」などでOK。"
+      "story": "解説: CAさんの「Beef or Chicken?」に対する回答。ドリンクを聞かれた際も「Apple juice, please.」などでOK。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_014",
       "front": "Could I have a cup of water, please?",
       "back": "お水を一杯いただけますか？",
-      "story": "解説: 機内は非常に乾燥します。キャビンアテンダントを呼び出しボタンで呼ぶか、後方ギャレーに行って頼むと便利。"
+      "story": "解説: 機内は非常に乾燥します。キャビンアテンダントを呼び出しボタンで呼ぶか、後方ギャレーに行って頼むと便利。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_015",
       "front": "Could I have another blanket, please?",
       "back": "毛布をもう一枚いただけますか？",
-      "story": "解説: 「another（もう1つ別の）」を付けます。イヤホンなら「earphones」、アイマスクなら「eye mask」に替えられます。"
+      "story": "解説: 「another（もう1つ別の）」を付けます。イヤホンなら「earphones」、アイマスクなら「eye mask」に替えられます。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_016",
       "front": "Excuse me, could I get through?",
       "back": "すいません、通していただけますか？",
-      "story": "解説: 窓側・中央席の人が通路へトイレに出たい時、隣の乗客に笑顔で会釈しながら使う実戦フレーズ。"
+      "story": "解説: 窓側・中央席の人が通路へトイレに出たい時、隣の乗客に笑顔で会釈しながら使う実戦フレーズ。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_017",
       "front": "Do you mind if I recline my seat?",
       "back": "座席を倒してもいいですか？",
-      "story": "解説: 後ろの乗客に一声かける国際的マナー。「Mind」で聞かれているので相手が「No, not at all（どうぞ）」と言えばOK。"
+      "story": "解説: 後ろの乗客に一声かける国際的マナー。「Mind」で聞かれているので相手が「No, not at all（どうぞ）」と言えばOK。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_018",
       "front": "Could I have an immigration form, please?",
       "back": "入国カードを1枚いただけますか？",
-      "story": "解説: 機内で配り忘れられたり書き損じた時にCAさんに頼む表現。税関申告書なら「customs form」です。"
+      "story": "解説: 機内で配り忘れられたり書き損じた時にCAさんに頼む表現。税関申告書なら「customs form」です。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_019",
       "front": "My baggage hasn't come out.",
       "back": "私の荷物が見当たりません（ロストバゲージ）。",
-      "story": "解説: ターンテーブルで待っても荷物が出ない時、Baggage Claimのカウンターで手荷物引換証（Claim Tag）を見せながら伝えます。"
+      "story": "解説: ターンテーブルで待っても荷物が出ない時、Baggage Claimのカウンターで手荷物引換証（Claim Tag）を見せながら伝えます。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_020",
       "front": "My suitcase is damaged.",
       "back": "スーツケースが破損しています。",
-      "story": "解説: キャスターがもげたり亀裂が入っていたら、空港を出る前に「Property Irregularity Report（事故証明書）」を作ってもらいましょう。"
+      "story": "解説: キャスターがもげたり亀裂が入っていたら、空港を出る前に「Property Irregularity Report（事故証明書）」を作ってもらいましょう。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_021",
       "front": "Where is the transfer desk?",
       "back": "乗り継ぎカウンターはどこですか？",
-      "story": "解説: 「Transfer / Connection」の案内板に従って進みますが、迷ったら空港スタッフに搭乗券を見せながらこのフレーズ。"
+      "story": "解説: 「Transfer / Connection」の案内板に従って進みますが、迷ったら空港スタッフに搭乗券を見せながらこのフレーズ。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_022",
       "front": "Will I make my connecting flight?",
       "back": "乗り継ぎ便に間に合いそうですか？",
-      "story": "解説: 前の便が遅延した時の切実な問い。スタッフに「Connecting flight to Paris」などとチケットを見せて確認します。"
+      "story": "解説: 前の便が遅延した時の切実な問い。スタッフに「Connecting flight to Paris」などとチケットを見せて確認します。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_023",
       "front": "I missed my connection because the first flight was delayed.",
       "back": "前の便が遅れて乗り継ぎに失敗しました。",
-      "story": "解説: 航空会社都合の遅延による乗り継ぎ失敗の場合、振替便やホテルの無料手配（バウチャー）を交渉できます。"
+      "story": "解説: 航空会社都合の遅延による乗り継ぎ失敗の場合、振替便やホテルの無料手配（バウチャー）を交渉できます。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_024",
       "front": "Where is the currency exchange?",
       "back": "両替所はどこにありますか？",
-      "story": "解説: 「Money exchange」でも通じます。チップ用の少額紙幣（1ドル札や5ユーロ札など）を混ぜてもらうと便利。"
+      "story": "解説: 「Money exchange」でも通じます。チップ用の少額紙幣（1ドル札や5ユーロ札など）を混ぜてもらうと便利。",
+      "searchQuery": "空港 旅行英会話 教材"
     },
     {
       "id": "tr_air_025",
       "front": "What is the fastest way to get to downtown?",
       "back": "市内中心部へ行く一番早い方法は何ですか？",
-      "story": "解説: 空港のインフォメーションカウンターで確認する表現。最も安い方法なら「cheapest way」に変えられます。"
+      "story": "解説: 空港のインフォメーションカウンターで確認する表現。最も安い方法なら「cheapest way」に変えられます。",
+      "searchQuery": "空港 旅行英会話 教材"
     }
   ]
 }

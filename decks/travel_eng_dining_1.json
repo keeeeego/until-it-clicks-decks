@@ -9,151 +9,176 @@
       "id": "tr_din_001",
       "front": "A table for two, please. Do you have any seats available?",
       "back": "2名です。席は空いていますか？",
-      "story": "解説: 店員さんに人数を聞かれたら「Table for two（2人）」「Table for three（3人）」と答えます。"
+      "story": "解説: 店員さんに人数を聞かれたら「Table for two（2人）」「Table for three（3人）」と答えます。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_002",
       "front": "I have a reservation under Sato.",
       "back": "予約している佐藤です。",
-      "story": "解説: レストラン予約の到着時。「At 7:00 under Sato」のように予約時間を添えるとスムーズ。"
+      "story": "解説: レストラン予約の到着時。「At 7:00 under Sato」のように予約時間を添えるとスムーズ。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_003",
       "front": "Can we sit outside on the patio?",
       "back": "テラス席（屋外の席）は利用できますか？",
-      "story": "解説: 眺めの良いテラス席を希望する時。窓際なら「by the window」、静かな席なら「a quiet table」です。"
+      "story": "解説: 眺めの良いテラス席を希望する時。窓際なら「by the window」、静かな席なら「a quiet table」です。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_004",
       "front": "Do you have an English menu?",
       "back": "英語のメニューはありますか？",
-      "story": "解説: 現地語のメニューしか置かれていない場合、聞くと英語メニューを出してくれる店は多いです。"
+      "story": "解説: 現地語のメニューしか置かれていない場合、聞くと英語メニューを出してくれる店は多いです。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_005",
       "front": "Excuse me, we're ready to order.",
       "back": "注文をお願いします。（店員さんを呼ぶ）",
-      "story": "解説: 海外では大声で呼ぶのではなく、担当サーバーとアイコンタクトを取りながら小さく手を上げて合図します。"
+      "story": "解説: 海外では大声で呼ぶのではなく、担当サーバーとアイコンタクトを取りながら小さく手を上げて合図します。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_006",
       "front": "Could you give us a few more minutes?",
       "back": "もう少し時間をいただけますか？（まだ決まってない）",
-      "story": "解説: 店員がオーダーを取りに来たがまだメニューを選んでいる最中の時、焦らずこう伝えましょう。"
+      "story": "解説: 店員がオーダーを取りに来たがまだメニューを選んでいる最中の時、焦らずこう伝えましょう。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_007",
       "front": "What do you recommend here?",
       "back": "この店のおすすめは何ですか？",
-      "story": "解説: 「What is your signature dish?（看板料理は何？）」や「What's popular?」と聞くのもおすすめ。"
+      "story": "解説: 「What is your signature dish?（看板料理は何？）」や「What's popular?」と聞くのもおすすめ。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_008",
       "front": "I'll have the same dish as that one.",
       "back": "これと同じものをください。（隣の席の料理を指して）",
-      "story": "解説: メニュー名が読めないが隣のテーブルの料理が美味しそうな時の魔法のフレーズ。"
+      "story": "解説: メニュー名が読めないが隣のテーブルの料理が美味しそうな時の魔法のフレーズ。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_009",
       "front": "I'd like this one, please.",
       "back": "これをお願いします。（メニューを指差しながら）",
-      "story": "解説: 発音がわからない料理はメニューを指差しながら「This one, please」で100%通じます。"
+      "story": "解説: 発音がわからない料理はメニューを指差しながら「This one, please」で100%通じます。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_010",
       "front": "Tap water is fine, please.",
       "back": "タップウォーター（水道水・無料の水）をお願いします。",
-      "story": "解説: 「Water?」と聞かれて「Yes」と答えると高いミネラルウォーターが出てくる国が多いので、無料の水でいい時はこう言います。"
+      "story": "解説: 「Water?」と聞かれて「Yes」と答えると高いミネラルウォーターが出てくる国が多いので、無料の水でいい時はこう言います。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_011",
       "front": "Still water, please.",
       "back": "炭酸なしの水をお願いします。",
-      "story": "解説: 海外の水は「Still（炭酸なし）」と「Sparkling（炭酸入り）」に分かれます。普通の水なら「Still」です。"
+      "story": "解説: 海外の水は「Still（炭酸なし）」と「Sparkling（炭酸入り）」に分かれます。普通の水なら「Still」です。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_012",
       "front": "Medium-rare, please.",
       "back": "（ステーキの焼き加減）ミディアムレアでお願いします。",
-      "story": "解説: レア（Rare）、ミディアムレア（Medium-rare）、ミディアム（Medium）、ウェルダン（Well-done）から選びます。"
+      "story": "解説: レア（Rare）、ミディアムレア（Medium-rare）、ミディアム（Medium）、ウェルダン（Well-done）から選びます。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_013",
       "front": "Could you make it without cilantro (nuts)?",
       "back": "パクチー（ナッツ）を抜いていただけますか？",
-      "story": "解説: パクチーは米語でcilantro、英語でcoriander。「without 〜（〜抜きで）」はアレルギー対策に必須。"
+      "story": "解説: パクチーは米語でcilantro、英語でcoriander。「without 〜（〜抜きで）」はアレルギー対策に必須。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_014",
       "front": "I'm allergic to shellfish.",
       "back": "私は甲殻類（エビ・カニ）アレルギーです。",
-      "story": "解説: アレルギーは命に関わるため「I'm allergic to 〜」を正確に伝えましょう。小麦なら「wheat/gluten」、卵なら「eggs」。"
+      "story": "解説: アレルギーは命に関わるため「I'm allergic to 〜」を正確に伝えましょう。小麦なら「wheat/gluten」、卵なら「eggs」。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_015",
       "front": "Could I have the dressing on the side?",
       "back": "ドレッシングは別添えにしてください。",
-      "story": "解説: 「on the side」でソースやドレッシングを料理にかけず、小皿で分けて持ってきてくれます。"
+      "story": "解説: 「on the side」でソースやドレッシングを料理にかけず、小皿で分けて持ってきてくれます。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_016",
       "front": "Could we have two extra plates for sharing?",
       "back": "料理をシェアしたいので、取り分け皿を2枚ください。",
-      "story": "解説: 大皿料理をみんなで取り分けたい時にサーバーにお願いする表現。"
+      "story": "解説: 大皿料理をみんなで取り分けたい時にサーバーにお願いする表現。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_017",
       "front": "Excuse me, our food hasn't arrived yet.",
       "back": "注文した料理がまだ来ていません。",
-      "story": "解説: 忘れられている可能性がある時、サーバーに確認してもらう丁寧な催促フレーズ。"
+      "story": "解説: 忘れられている可能性がある時、サーバーに確認してもらう丁寧な催促フレーズ。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_018",
       "front": "Sorry, but this isn't what I ordered.",
       "back": "これは注文したものと違います。",
-      "story": "解説: 違うテーブルの料理が間違えて運ばれてきた時、手をつけずにすぐに伝えましょう。"
+      "story": "解説: 違うテーブルの料理が間違えて運ばれてきた時、手をつけずにすぐに伝えましょう。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_019",
       "front": "Everything is delicious!",
       "back": "とても美味しいです！",
-      "story": "解説: 食事中にサーバーが「How is everything?」と様子を見に来た際のベストな返答。"
+      "story": "解説: 食事中にサーバーが「How is everything?」と様子を見に来た際のベストな返答。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_020",
       "front": "Could we have the check (bill), please?",
       "back": "お会計をお願いします。",
-      "story": "解説: アメリカでは「Check」、イギリス・欧州では「Bill」が一般的。テーブル会計が基本です。"
+      "story": "解説: アメリカでは「Check」、イギリス・欧州では「Bill」が一般的。テーブル会計が基本です。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_021",
       "front": "Can we pay separately?",
       "back": "別々でお会計できますか？",
-      "story": "解説: 割り勘（個別会計）にしたい時。店によっては断られることもあるので断られたら代表者が払って後で精算。"
+      "story": "解説: 割り勘（個別会計）にしたい時。店によっては断られることもあるので断られたら代表者が払って後で精算。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_022",
       "front": "Do you accept credit cards?",
       "back": "クレジットカードで支払えますか？",
-      "story": "解説: 個人経営のカフェや屋台では現金のみ（Cash only）の場合もあるので、事前に確認しておくと安心。"
+      "story": "解説: 個人経営のカフェや屋台では現金のみ（Cash only）の場合もあるので、事前に確認しておくと安心。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_023",
       "front": "Is the tip (service charge) included?",
       "back": "チップは含まれていますか？",
-      "story": "解説: レシートの「Gratuity」や「Service Charge」の欄を確認。すでに含まれていれば二重に払う必要はありません。"
+      "story": "解説: レシートの「Gratuity」や「Service Charge」の欄を確認。すでに含まれていれば二重に払う必要はありません。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_024",
       "front": "Keep the change, please.",
       "back": "お釣りは取っておいてください（チップです）。",
-      "story": "解説: 現金で払って、お釣りの小銭をそのままチップとして店員に渡したい時のかっこいい決め台詞。"
+      "story": "解説: 現金で払って、お釣りの小銭をそのままチップとして店員に渡したい時のかっこいい決め台詞。",
+      "searchQuery": "レストラン 注文 英会話"
     },
     {
       "id": "tr_din_025",
       "front": "Could I get a to-go box (doggy bag), please?",
       "back": "残りを持ち帰りたいので容器をいただけますか？",
-      "story": "解説: 欧米のレストランは量が多いのが当たり前なので、持ち帰り（To-go）を頼むのは普通のことです。"
+      "story": "解説: 欧米のレストランは量が多いのが当たり前なので、持ち帰り（To-go）を頼むのは普通のことです。",
+      "searchQuery": "レストラン 注文 英会話"
     }
   ]
 }
