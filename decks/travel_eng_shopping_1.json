@@ -7,152 +7,152 @@
   "cards": [
     {
       "id": "tr_shp_001",
-      "front": "見ているだけです、ありがとう。（店員の声かけに）",
-      "back": "I'm just looking, thank you.",
+      "front": "I'm just looking, thank you.",
+      "back": "見ているだけです、ありがとう。（店員の声かけに）",
       "story": "解説: 店員が「Can I help you?」と声をかけてきた時、断って自由に商品を見たい時の定番表現。"
     },
     {
       "id": "tr_shp_002",
-      "front": "これを試着してもいいですか？",
-      "back": "Can I try this on?",
+      "front": "Can I try this on?",
+      "back": "これを試着してもいいですか？",
       "story": "解説: 服や靴を試したい時。靴なら「Can I try these on?」と複数形にします。"
     },
     {
       "id": "tr_shp_003",
-      "front": "試着室はどこにありますか？",
-      "back": "Where is the fitting room (dressing room)?",
+      "front": "Where is the fitting room (dressing room)?",
+      "back": "試着室はどこにありますか？",
       "story": "解説: 「Fitting room」が最も一般的。試着室に入る前に店員に何着持ち込むか確認されることがあります。"
     },
     {
       "id": "tr_shp_004",
-      "front": "これのMサイズ（大きい/小さいサイズ）はありますか？",
-      "back": "Do you have this in medium (a larger / smaller size)?",
+      "front": "Do you have this in medium (a larger / smaller size)?",
+      "back": "これのMサイズ（大きい/小さいサイズ）はありますか？",
       "story": "解説: 「in small」「in large」のようにサイズを指定して在庫を尋ねます。"
     },
     {
       "id": "tr_shp_005",
-      "front": "これの色違いはありますか？",
-      "back": "Do you have this in a different color?",
+      "front": "Do you have this in a different color?",
+      "back": "これの色違いはありますか？",
       "story": "解説: 「in black（黒色）」「in navy（ネイビー）」のように特定の色を指定することもできます。"
     },
     {
       "id": "tr_shp_006",
-      "front": "少しサイズが大きすぎます（きつすぎます）。",
-      "back": "It's a little too big (too tight).",
+      "front": "It's a little too big (too tight).",
+      "back": "少しサイズが大きすぎます（きつすぎます）。",
       "story": "解説: 試着後の感想を店員に伝える時。ぴったりなら「It fits perfectly!」と言います。"
     },
     {
       "id": "tr_shp_007",
-      "front": "これはいくらですか？",
-      "back": "How much is this?",
+      "front": "How much is this?",
+      "back": "これはいくらですか？",
       "story": "解説: 値札（price tag）が見当たらない時の基本フレーズ。"
     },
     {
       "id": "tr_shp_008",
-      "front": "新しい在庫（展示品ではないもの）はありますか？",
-      "back": "Do you have a new one in stock?",
+      "front": "Do you have a new one in stock?",
+      "back": "新しい在庫（展示品ではないもの）はありますか？",
       "story": "解説: ディスプレイに出ているものではなく、裏のストックから未開封の新品を出してほしい時。"
     },
     {
       "id": "tr_shp_009",
-      "front": "これを手に取って見てもいいですか？",
-      "back": "Can I have a look at that one?",
+      "front": "Can I have a look at that one?",
+      "back": "これを手に取って見てもいいですか？",
       "story": "解説: ガラスケースの中の時計やジュエリー、棚の高い場所にあるバッグを見せてもらいたい時。"
     },
     {
       "id": "tr_shp_010",
-      "front": "これをいただきます（買います）。",
-      "back": "I'll take this one.",
+      "front": "I'll take this one.",
+      "back": "これをいただきます（買います）。",
       "story": "解説: 「I want this」より「I'll take this」の方がスマートで自然な購入決定の表現。"
     },
     {
       "id": "tr_shp_011",
-      "front": "少し考えます。（買うのをやめる時）",
-      "back": "I'll think about it. Thank you.",
+      "front": "I'll think about it. Thank you.",
+      "back": "少し考えます。（買うのをやめる時）",
       "story": "解説: 試着や接客を受けた後、購入せずに店を出たい時の失礼にならない大人の断り文句。"
     },
     {
       "id": "tr_shp_012",
-      "front": "少し安くなりませんか？（値引き交渉）",
-      "back": "Could you give me a little discount?",
+      "front": "Could you give me a little discount?",
+      "back": "少し安くなりませんか？（値引き交渉）",
       "story": "解説: 蚤の市、フリーマーケット、個人商店などで使える交渉フレーズ。百貨店では使えません。"
     },
     {
       "id": "tr_shp_013",
-      "front": "2個買うので、まけてもらえませんか？",
-      "back": "If I buy two, can you give me a discount?",
+      "front": "If I buy two, can you give me a discount?",
+      "back": "2個買うので、まけてもらえませんか？",
       "story": "解説: まとめ買いを条件にした値引き交渉。アジアのナイトマーケット等で非常に効果的。"
     },
     {
       "id": "tr_shp_014",
-      "front": "プレゼント用に包装していただけますか？",
-      "back": "Could you gift-wrap this, please?",
+      "front": "Could you gift-wrap this, please?",
+      "back": "プレゼント用に包装していただけますか？",
       "story": "解説: 海外の簡易包装の店では対応していないこともありますが、デパートやブランド店なら包んでくれます。"
     },
     {
       "id": "tr_shp_015",
-      "front": "袋をいただけますか？",
-      "back": "Could I have a bag, please?",
+      "front": "Could I have a bag, please?",
+      "back": "袋をいただけますか？",
       "story": "解説: 海外はレジ袋有料が主流なので「A bag is 10 cents, is that okay?」と聞かれることが多いです。"
     },
     {
       "id": "tr_shp_016",
-      "front": "免税手続き（Tax-Free）はできますか？",
-      "back": "Can I get a tax refund for this?",
+      "front": "Can I get a tax refund for this?",
+      "back": "免税手続き（Tax-Free）はできますか？",
       "story": "解説: 一定額以上の買い物をした際、出国時に税金の払い戻しを受けるための書類作成を頼む表現。"
     },
     {
       "id": "tr_shp_017",
-      "front": "免税用の書類を作っていただけますか？",
-      "back": "Could you fill out the tax-free form?",
+      "front": "Could you fill out the tax-free form?",
+      "back": "免税用の書類を作っていただけますか？",
       "story": "解説: パスポートの提示が必要です。「Tax-free, please」と言いながらパスポートを渡すと通じます。"
     },
     {
       "id": "tr_shp_018",
-      "front": "タッチ決済（コンタクトレス）は使えますか？",
-      "back": "Do you accept contactless payments?",
+      "front": "Do you accept contactless payments?",
+      "back": "タッチ決済（コンタクトレス）は使えますか？",
       "story": "解説: Apple Payやクレジットカードのタッチ機能を使いたい時。端末にWi-Fiのようなマークがあれば使えます。"
     },
     {
       "id": "tr_shp_019",
-      "front": "暗証番号（PIN）を入力してください。",
-      "back": "Please enter your PIN.",
+      "front": "Please enter your PIN.",
+      "back": "暗証番号（PIN）を入力してください。",
       "story": "解説: カード決済時に店員から言われるフレーズ。入力したら緑の確定ボタン（ENTER/OK）を押します。"
     },
     {
       "id": "tr_shp_020",
-      "front": "レシートをいただけますか？",
-      "back": "Could I have a receipt, please?",
+      "front": "Could I have a receipt, please?",
+      "back": "レシートをいただけますか？",
       "story": "解説: 免税手続きや返品・交換の際に必ず必要になるので、旅先ではレシートを必ず保管しましょう。"
     },
     {
       "id": "tr_shp_021",
-      "front": "これを返品（交換）したいのですが。",
-      "back": "I'd like to return (exchange) this, please.",
+      "front": "I'd like to return (exchange) this, please.",
+      "back": "これを返品（交換）したいのですが。",
       "story": "解説: レシートと未使用の商品を持参してカスタマーサービスカウンターへ行きます。"
     },
     {
       "id": "tr_shp_022",
-      "front": "買ったものに傷（ほつれ）がありました。",
-      "back": "There is a scratch (a flaw) on this item.",
+      "front": "There is a scratch (a flaw) on this item.",
+      "back": "買ったものに傷（ほつれ）がありました。",
       "story": "解説: 欠陥による交換・返金を要求する時。スマホで傷の部分の写真を撮っておくと説明が楽です。"
     },
     {
       "id": "tr_shp_023",
-      "front": "割れ物なので、厳重に包んでもらえますか？",
-      "back": "This is fragile. Could you wrap it carefully?",
+      "front": "This is fragile. Could you wrap it carefully?",
+      "back": "割れ物なので、厳重に包んでもらえますか？",
       "story": "解説: ガラス工芸品やワインなどをスーツケースに入れて持ち帰る際、エアキャップ等で頑丈に包んでもらう表現。"
     },
     {
       "id": "tr_shp_024",
-      "front": "このセールはいつまでですか？",
-      "back": "How long will this sale last?",
+      "front": "How long will this sale last?",
+      "back": "このセールはいつまでですか？",
       "story": "解説: 「It ends this Sunday（今週日曜まで）」などの回答が返ってきます。"
     },
     {
       "id": "tr_shp_025",
-      "front": "お会計はどこですか？",
-      "back": "Where is the cash register (checkout)?",
+      "front": "Where is the cash register (checkout)?",
+      "back": "お会計はどこですか？",
       "story": "解説: 広い本屋やフロアでレジの場所がわからない時に近くの店員に尋ねる表現。"
     }
   ]
