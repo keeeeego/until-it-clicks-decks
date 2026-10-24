@@ -1,46 +1,11 @@
 [
   {
-    "id": "g_kentei_50",
+    "id": "preset_g_kentei_50",
     "title": "🤖 G検定・頻出重要キーワード50",
     "note": "AIの歴史・機械学習・法律倫理の最重要50選",
     "cardCount": 50,
     "category": "資格・AI",
-    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_50_1.json"
-  },
-  {
-    "id": "junior_high_100",
-    "title": "🏫 中学レベル・必須キホン英単語100",
-    "note": "中学3年間の重要単語100選（例文・小話付き）",
-    "cardCount": 100,
-    "category": "語学",
-    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/junior_high_100_1.json"
-  },
-  {
-    "id": "niigata_dialect_basic_1",
-    "title": "🌾 新潟弁・日常キホン会話（初級 Vol.1）",
-    "note": "日常でそのまま使える定番の一言・短文フレーズ20選",
-    "category": "教養・カルチャー",
-    "subCategory": "方言",
-    "cardCount": 20,
-    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/niigata_dialect_basic_1.json"
-  },
-{
-    "id": "g_kentei_50_1",
-    "title": "🤖 G検定・頻出重要キーワード50 (Vol.1)",
-    "note": "AIの歴史・機械学習・法律倫理の最重要50選",
-    "category": "資格・検定",
-    "subCategory": "AI・IT",
-    "cardCount": 50,
-    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_50_1.json"
-  },
-  {
-    "id": "junior_high_100_1",
-    "title": "🏫 中学レベル・必須キホン英単語100 (Vol.1)",
-    "note": "中学3年間の重要単語100選（例文・小話付き）",
-    "category": "語学",
-    "subCategory": "英語",
-    "cardCount": 100,
-    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/junior_high_100_1.json"
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_50.json"
   },
   {
     "id": "niigata_dialect_basic_1",
