@@ -114,5 +114,77 @@
     "subCategory": "英語",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_transit_trouble_1.json"
+  },
+  {
+    "id": "world_history_china_1",
+    "title": "🇨🇳 世界史・中国史 (Vol.1) 先秦〜秦・漢50",
+    "note": "文明の起源・諸子百家から秦漢帝国の成立まで必須50選",
+    "category": "教養・カルチャー",
+    "subCategory": "世界史",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_1.json"
+  },
+  {
+    "id": "world_history_china_2",
+    "title": "🇨🇳 世界史・中国史 (Vol.2) 魏晋南北朝〜隋・唐50",
+    "note": "三国時代から律令国家・唐宋変革への激動50選",
+    "category": "教養・カルチャー",
+    "subCategory": "世界史",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_2.json"
+  },
+  {
+    "id": "world_history_china_3",
+    "title": "🇨🇳 世界史・中国史 (Vol.3) 宋・元50",
+    "note": "文治政治・北方征服王朝からモンゴル大帝国まで50選",
+    "category": "教養・カルチャー",
+    "subCategory": "世界史",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_3.json"
+  },
+  {
+    "id": "world_history_china_4",
+    "title": "🇨🇳 世界史・中国史 (Vol.4) 明・清（前・中期）50",
+    "note": "皇帝独裁・一条鞭法・地丁銀から康乾盛世まで50選",
+    "category": "教養・カルチャー",
+    "subCategory": "世界史",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_4.json"
+  },
+  {
+    "id": "world_history_china_5",
+    "title": "🇨🇳 世界史・中国史 (Vol.5) 清末・近代化の挫折50",
+    "note": "アヘン戦争から太平天国・洋務運動・義和団まで50選",
+    "category": "教養・カルチャー",
+    "subCategory": "世界史",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_5.json"
+  },
+  {
+    "id": "world_history_china_6",
+    "title": "🇨🇳 世界史・中国史 (Vol.6) 中華民国〜日中戦争50",
+    "note": "辛亥革命・五四運動から国共合作・抗日戦争まで50選",
+    "category": "教養・カルチャー",
+    "subCategory": "世界史",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_6.json"
+  },
+  {
+    "id": "world_history_china_7",
+    "title": "🇨🇳 世界史・中国史 (Vol.7) 中華人民共和国〜現代50",
+    "note": "建国・大躍進・文革から改革開放・現代まで50選",
+    "category": "教養・カルチャー",
+    "subCategory": "世界史",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_7.json"
+  },
+  {
+    "id": "world_history_china_8",
+    "title": "🇨🇳 世界史・中国史 (Vol.8) 制度史・文化史まとめ50",
+    "note": "土地・税制・官吏登用制度と重要文化・思想の総まとめ50選",
+    "category": "教養・カルチャー",
+    "subCategory": "世界史",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_8.json"
   }
 ]
