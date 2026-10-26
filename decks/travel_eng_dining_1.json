@@ -1,9 +1,13 @@
 {
   "deckId": "travel_eng_dining_1",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "🍽️ 旅行英語 (Vol.3) レストラン・カフェ・食事",
   "note": "入店から注文、カスタムオーダー、お会計まで",
   "category": "語学",
   "subCategory": "英語",
+  "cardCount": 25,
   "cards": [
     {
       "id": "tr_din_001",

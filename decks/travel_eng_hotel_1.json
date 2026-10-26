@@ -1,9 +1,13 @@
 {
   "deckId": "travel_eng_hotel_1",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "🏨 旅行英語 (Vol.2) ホテル・滞在チェックイン",
   "note": "チェックイン/アウト、備品リクエスト、荷物預け",
   "category": "語学",
   "subCategory": "英語",
+  "cardCount": 25,
   "cards": [
     {
       "id": "tr_hot_001",

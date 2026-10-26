@@ -1,9 +1,13 @@
 {
   "deckId": "kobun_vocab_advanced_1",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "📜 古文単語・上級 (Vol.1) 差がつく多義・副詞50",
   "note": "二次・難関私大で差がつく重要副詞と多義語50選",
   "category": "語学",
   "subCategory": "古文",
+  "cardCount": 50,
   "cards": [
     {
       "id": "kb_a1_001",

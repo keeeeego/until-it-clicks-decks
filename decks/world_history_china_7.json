@@ -1,9 +1,13 @@
 {
   "deckId": "world_history_china_7",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "🇨🇳 世界史・中国史 (Vol.7) 中華人民共和国〜現代50",
   "note": "建国・大躍進・文革から改革開放・現代まで50選",
   "category": "教養・カルチャー",
   "subCategory": "世界史",
+  "cardCount": 50,
   "cards": [
     {
       "id": "wh_c7_001",

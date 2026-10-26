@@ -1,9 +1,13 @@
 {
   "deckId": "travel_eng_shopping_1",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "🛍️ 旅行英語 (Vol.4) ショッピング・買い物",
   "note": "試着、サイズ・色違い確認、免税手続き",
   "category": "語学",
   "subCategory": "英語",
+  "cardCount": 25,
   "cards": [
     {
       "id": "tr_shp_001",

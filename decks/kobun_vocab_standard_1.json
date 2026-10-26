@@ -1,9 +1,13 @@
 {
   "deckId": "kobun_vocab_standard_1",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "📜 古文単語・中級 (Vol.1) 心理・描写50",
   "note": "登場人物の心情や情景描写を読み解く標準50選",
   "category": "語学",
   "subCategory": "古文",
+  "cardCount": 50,
   "cards": [
     {
       "id": "kb_s1_001",

@@ -1,9 +1,13 @@
 {
   "deckId": "kobun_vocab_advanced_2",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "📜 古文単語・上級 (Vol.2) 完全網羅・古典文化50",
   "note": "平安・中世の美意識や仏教・世相を完全制覇する50選",
   "category": "語学",
   "subCategory": "古文",
+  "cardCount": 50,
   "cards": [
     {
       "id": "kb_a2_001",

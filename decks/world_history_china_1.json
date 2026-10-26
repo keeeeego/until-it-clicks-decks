@@ -1,9 +1,13 @@
 {
   "deckId": "world_history_china_1",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "🇨🇳 世界史・中国史 (Vol.1) 先秦〜秦・漢50",
   "note": "文明の起源・諸子百家から秦漢帝国の成立まで必須50選",
   "category": "教養・カルチャー",
   "subCategory": "世界史",
+  "cardCount": 50,
   "cards": [
     {
       "id": "wh_c1_001",

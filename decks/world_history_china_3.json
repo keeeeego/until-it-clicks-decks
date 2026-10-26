@@ -1,9 +1,13 @@
 {
   "deckId": "world_history_china_3",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "🇨🇳 世界史・中国史 (Vol.3) 宋・元50",
   "note": "文治政治・北方征服王朝からモンゴル大帝国まで50選",
   "category": "教養・カルチャー",
   "subCategory": "世界史",
+  "cardCount": 50,
   "cards": [
     {
       "id": "wh_c3_001",

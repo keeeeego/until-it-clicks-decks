@@ -1,9 +1,13 @@
 {
   "deckId": "travel_eng_airport_1",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "🛫 旅行英語 (Vol.1) 空港・機内・入国審査",
   "note": "出国から入国審査、機内・乗継ぎの必須フレーズ",
   "category": "語学",
   "subCategory": "英語",
+  "cardCount": 25,
   "cards": [
     {
       "id": "tr_air_001",

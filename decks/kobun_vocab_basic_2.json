@@ -1,9 +1,13 @@
 {
   "deckId": "kobun_vocab_basic_2",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "📜 古文単語・初級 (Vol.2) 頻出基礎50",
   "note": "共通テスト頻出！確実に得点源にする基礎50選",
   "category": "語学",
   "subCategory": "古文",
+  "cardCount": 50,
   "cards": [
     {
       "id": "kb_b2_001",

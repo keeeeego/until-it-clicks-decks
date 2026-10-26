@@ -1,7 +1,11 @@
 {
   "deckId": "preset_g_kentei_50",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "🤖 G検定・頻出重要キーワード50",
   "note": "AIの歴史・機械学習・法律倫理の最重要50選",
+  "cardCount": 50,
   "cards": [
     {
       "id": "gk_001",

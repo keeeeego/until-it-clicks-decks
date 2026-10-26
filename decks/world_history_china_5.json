@@ -1,9 +1,13 @@
 {
   "deckId": "world_history_china_5",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "🇨🇳 世界史・中国史 (Vol.5) 清末・近代化の挫折50",
   "note": "アヘン戦争から太平天国・洋務運動・義和団まで50選",
   "category": "教養・カルチャー",
   "subCategory": "世界史",
+  "cardCount": 50,
   "cards": [
     {
       "id": "wh_c5_001",

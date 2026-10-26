@@ -1,9 +1,13 @@
 {
   "deckId": "kobun_vocab_standard_2",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "📜 古文単語・中級 (Vol.2) 重要動作・日常50",
   "note": "ストーリー展開を握る重要動詞と生活習慣50選",
   "category": "語学",
   "subCategory": "古文",
+  "cardCount": 50,
   "cards": [
     {
       "id": "kb_s2_001",

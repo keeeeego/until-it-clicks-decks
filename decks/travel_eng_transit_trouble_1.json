@@ -1,9 +1,13 @@
 {
   "deckId": "travel_eng_transit_trouble_1",
+  "version": "1.1.0",
+  "updatedAt": "2026-10-26",
+  "schemaVersion": 2,
   "title": "🚨 旅行英語 (Vol.5) 街歩き・交通・緊急トラブル",
   "note": "タクシー・電車の乗り方、道案内、体調不良・紛失",
   "category": "語学",
   "subCategory": "英語",
+  "cardCount": 25,
   "cards": [
     {
       "id": "tr_trs_001",
