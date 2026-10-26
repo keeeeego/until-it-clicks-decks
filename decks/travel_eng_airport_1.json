@@ -1,5 +1,6 @@
 {
   "deckId": "travel_eng_airport_1",
+  "ttsLang": "en-US",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
   "schemaVersion": 2,
