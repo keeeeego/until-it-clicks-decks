@@ -1,0 +1,411 @@
+{
+  "deckId": "zh_vocab_core_2",
+  "version": "1.0.0",
+  "schemaVersion": 2,
+  "title": "🇨🇳 中国語キホン単語 (Vol.7) 生活名詞＆日常表現50",
+  "note": "家族・時間・場所・交通機関など日常会話を形づくる核となる名詞50選",
+  "category": "語学",
+  "subCategory": "中国語",
+  "cards": [
+    {
+      "id": "zh_vc2_001",
+      "front": "爸爸",
+      "pinyin": "bàba",
+      "back": "お父さん",
+      "story": "解説: 父親。「父亲（fùqīn）」は改まった言い方。",
+      "searchQuery": "中国語 家族 お父さん"
+    },
+    {
+      "id": "zh_vc2_002",
+      "front": "妈妈",
+      "pinyin": "māma",
+      "back": "お母さん",
+      "story": "解説: 母親。「母亲（mǔqīn）」は改まった言い方。",
+      "searchQuery": "中国語 家族 お母さん"
+    },
+    {
+      "id": "zh_vc2_003",
+      "front": "哥哥",
+      "pinyin": "gēge",
+      "back": "お兄さん",
+      "story": "解説: 兄。「兄弟（xiōngdì）」は男兄弟全般。",
+      "searchQuery": "中国語 家族 兄"
+    },
+    {
+      "id": "zh_vc2_004",
+      "front": "弟弟",
+      "pinyin": "dìdi",
+      "back": "弟",
+      "story": "解説: 年下の男兄弟。",
+      "searchQuery": "中国語 家族 弟"
+    },
+    {
+      "id": "zh_vc2_005",
+      "front": "姐姐",
+      "pinyin": "jiějie",
+      "back": "お姉さん",
+      "story": "解説: 姉。「小姐姐」はネットで若い女性を呼ぶ愛称。",
+      "searchQuery": "中国語 家族 姉"
+    },
+    {
+      "id": "zh_vc2_006",
+      "front": "妹妹",
+      "pinyin": "mèimei",
+      "back": "妹",
+      "story": "解説: 年下の女兄弟。",
+      "searchQuery": "中国語 家族 妹"
+    },
+    {
+      "id": "zh_vc2_007",
+      "front": "朋友",
+      "pinyin": "péngyou",
+      "back": "友達・友人",
+      "story": "解説: 「好朋友（親友）」「老朋友（昔からの友達）」。",
+      "searchQuery": "中国語 友達 表現"
+    },
+    {
+      "id": "zh_vc2_008",
+      "front": "老师",
+      "pinyin": "lǎoshī",
+      "back": "先生・教師",
+      "story": "解説: 教師だけでなく、知識や技術を持つ専門家への敬称としても使われます。",
+      "searchQuery": "中国語 先生 呼びかけ"
+    },
+    {
+      "id": "zh_vc2_009",
+      "front": "医生",
+      "pinyin": "yīshēng",
+      "back": "医師・お医者さん",
+      "story": "解説: 「大夫（dàifu）」とも呼ばれます。",
+      "searchQuery": "中国語 医者 病院"
+    },
+    {
+      "id": "zh_vc2_010",
+      "front": "同事",
+      "pinyin": "tóngshì",
+      "back": "同僚・職場の同僚",
+      "story": "解説: 「同（同じ）」＋「事（仕事をする）」。",
+      "searchQuery": "中国語 同僚 ビジネス"
+    },
+    {
+      "id": "zh_vc2_011",
+      "front": "今天",
+      "pinyin": "jīntiān",
+      "back": "今日（きょう）",
+      "story": "解説: 「今天天气很好（今日は天気が良い）」。",
+      "searchQuery": "中国語 今日 日時"
+    },
+    {
+      "id": "zh_vc2_012",
+      "front": "明天",
+      "pinyin": "míngtiān",
+      "back": "明日（あした）",
+      "story": "解説: 「明天见（また明日）」。",
+      "searchQuery": "中国語 明日 挨拶"
+    },
+    {
+      "id": "zh_vc2_013",
+      "front": "昨天",
+      "pinyin": "zuótiān",
+      "back": "昨日（きのう）",
+      "story": "解説: 「昨天你去哪儿了？（昨日どこ行ったの？）」。",
+      "searchQuery": "中国語 昨日 過去"
+    },
+    {
+      "id": "zh_vc2_014",
+      "front": "现在",
+      "pinyin": "xiànzài",
+      "back": "今・現在",
+      "story": "解説: 「现在几点？（今何時？）」。",
+      "searchQuery": "中国語 今 時間 尋ねる"
+    },
+    {
+      "id": "zh_vc2_015",
+      "front": "早上",
+      "pinyin": "zǎoshang",
+      "back": "朝・午前中早め",
+      "story": "解説: 朝の時間帯。「早饭（朝食）」。",
+      "searchQuery": "中国語 朝 時間帯"
+    },
+    {
+      "id": "zh_vc2_016",
+      "front": "晚上",
+      "pinyin": "wǎnshang",
+      "back": "夜・晩",
+      "story": "解説: 夕方から夜の時間帯。「晚饭（夕食）」。",
+      "searchQuery": "中国語 夜 晩 時間"
+    },
+    {
+      "id": "zh_vc2_017",
+      "front": "年",
+      "pinyin": "nián",
+      "back": "年・年間",
+      "story": "解説: 「今年（今年）」「明年（来年）」「去年（去年）」。",
+      "searchQuery": "中国語 年 年月日"
+    },
+    {
+      "id": "zh_vc2_018",
+      "front": "月",
+      "pinyin": "yuè",
+      "back": "月（がつ・つき）",
+      "story": "解説: 「一月（1月）」「上个月（先月）」「下个月（来月）」。",
+      "searchQuery": "中国語 月 日付"
+    },
+    {
+      "id": "zh_vc2_019",
+      "front": "日（号）",
+      "pinyin": "rì / hào",
+      "back": "日（ひ・にち）",
+      "story": "解説: 書面語では「日」、口語会話ではほぼ「号」を使います（例: 5月1号）。",
+      "searchQuery": "中国語 日にち 号 違い"
+    },
+    {
+      "id": "zh_vc2_020",
+      "front": "星期",
+      "pinyin": "xīngqī",
+      "back": "曜日・週",
+      "story": "解説: 「星期一（月曜）〜星期六（土曜）」で、日曜だけ「星期天/星期日」になります。",
+      "searchQuery": "中国語 曜日 数え方"
+    },
+    {
+      "id": "zh_vc2_021",
+      "front": "钱",
+      "pinyin": "qián",
+      "back": "お金",
+      "story": "解説: 「有钱（金持ち）」「没钱（お金がない）」。",
+      "searchQuery": "中国語 お金 表現"
+    },
+    {
+      "id": "zh_vc2_022",
+      "front": "手机",
+      "pinyin": "shǒujī",
+      "back": "スマートフォン・携帯電話",
+      "story": "解説: 「手（手元）」＋「机（機械）」。中国生活の命綱。",
+      "searchQuery": "中国語 スマホ 携帯"
+    },
+    {
+      "id": "zh_vc2_023",
+      "front": "电脑",
+      "pinyin": "diànnǎo",
+      "back": "パソコン・コンピューター",
+      "story": "解説: 「电（電気の）＋脑（頭脳）」＝電子頭脳。見事な造語。",
+      "searchQuery": "中国語 パソコン 造語"
+    },
+    {
+      "id": "zh_vc2_024",
+      "front": "衣服",
+      "pinyin": "yīfu",
+      "back": "服・衣類",
+      "story": "解説: 「穿衣服（服を着る）」「买衣服（服を買う）」。",
+      "searchQuery": "中国語 服 衣類 買い物"
+    },
+    {
+      "id": "zh_vc2_025",
+      "front": "水",
+      "pinyin": "shuǐ",
+      "back": "水",
+      "story": "解説: 「矿泉水（ミネラルウォーター）」「喝水（水を飲む）」。",
+      "searchQuery": "中国語 水 飲み物"
+    },
+    {
+      "id": "zh_vc2_026",
+      "front": "茶",
+      "pinyin": "chá",
+      "back": "お茶",
+      "story": "解説: 「绿茶（緑茶）」「红茶（紅茶）」「奶茶（ミルクティー）」。",
+      "searchQuery": "中国語 お茶 種類"
+    },
+    {
+      "id": "zh_vc2_027",
+      "front": "饭",
+      "pinyin": "fàn",
+      "back": "ご飯・食事",
+      "story": "解説: 「米饭（白米）」「做饭（料理を作る）」。",
+      "searchQuery": "中国語 ご飯 食事"
+    },
+    {
+      "id": "zh_vc2_028",
+      "front": "菜",
+      "pinyin": "cài",
+      "back": "料理・おかず・野菜",
+      "story": "解説: 「中国菜（中華料理）」「炒菜（炒め物）」「蔬菜（野菜）」。",
+      "searchQuery": "中国語 料理 おかず 菜"
+    },
+    {
+      "id": "zh_vc2_029",
+      "front": "书",
+      "pinyin": "shū",
+      "back": "本・書籍",
+      "story": "解説: 「看书（本を読む）」「买书（本を買う）」。",
+      "searchQuery": "中国語 本 読書"
+    },
+    {
+      "id": "zh_vc2_030",
+      "front": "包",
+      "pinyin": "bāo",
+      "back": "バッグ・鞄・包む",
+      "story": "解説: 「背包（リュック）」「钱包（財布）」「小笼包（小籠包）」。",
+      "searchQuery": "中国語 カバン 包む"
+    },
+    {
+      "id": "zh_vc2_031",
+      "front": "钥匙",
+      "pinyin": "yàoshi",
+      "back": "鍵（カギ）",
+      "story": "解説: 「车钥匙（車の鍵）」「房门钥匙（部屋の鍵）」。",
+      "searchQuery": "中国語 鍵 カギ 紛失"
+    },
+    {
+      "id": "zh_vc2_032",
+      "front": "车",
+      "pinyin": "chē",
+      "back": "車・乗り物",
+      "story": "解説: 自動車全般や自転車、電車を広く指す言葉。「开车（運転する）」。",
+      "searchQuery": "中国語 車 運転 乗り物"
+    },
+    {
+      "id": "zh_vc2_033",
+      "front": "飞机",
+      "pinyin": "fēijī",
+      "back": "飛行機",
+      "story": "解説: 「飞（飛ぶ）＋机（機械）」＝飛行機。「飞机场（空港）」。",
+      "searchQuery": "中国語 飛行機 移動"
+    },
+    {
+      "id": "zh_vc2_034",
+      "front": "路",
+      "pinyin": "lù",
+      "back": "道・通り",
+      "story": "解説: 「过马路（道路を渡る）」「迷路（道に迷う）」。",
+      "searchQuery": "中国語 道 通り 移動"
+    },
+    {
+      "id": "zh_vc2_035",
+      "front": "字",
+      "pinyin": "zì",
+      "back": "文字・漢字",
+      "story": "解説: 「汉字（漢字）」「写字（字を書く）」。",
+      "searchQuery": "中国語 文字 漢字"
+    },
+    {
+      "id": "zh_vc2_036",
+      "front": "家",
+      "pinyin": "jiā",
+      "back": "家・家族・自宅",
+      "story": "解説: 「回家（家に帰る）」「家人（家族）」「科学家（科学者）」。",
+      "searchQuery": "中国語 家 帰宅 家族"
+    },
+    {
+      "id": "zh_vc2_037",
+      "front": "学校",
+      "pinyin": "xuéxiào",
+      "back": "学校",
+      "story": "解説: 「小学」「中学」「大学（dàxué）」。",
+      "searchQuery": "中国語 学校 教育"
+    },
+    {
+      "id": "zh_vc2_038",
+      "front": "公司",
+      "pinyin": "gōngsī",
+      "back": "会社・企業",
+      "story": "解説: 「去公司（会社へ行く）」「老板（社長・ボス）」。",
+      "searchQuery": "中国語 会社 ビジネス 同僚"
+    },
+    {
+      "id": "zh_vc2_039",
+      "front": "饭店",
+      "pinyin": "fàndiàn",
+      "back": "レストラン・ホテル",
+      "story": "解説: 食事処だけでなく、高級ホテルの名称（例: 平和飯店）にも使われます。",
+      "searchQuery": "中国語 レストラン ホテル 飯店"
+    },
+    {
+      "id": "zh_vc2_040",
+      "front": "商店",
+      "pinyin": "shāngdiàn",
+      "back": "店・商店",
+      "story": "解説: 「便利店（コンビニ）」「商场（ショッピングモール）」。",
+      "searchQuery": "中国語 店 買い物 商店"
+    },
+    {
+      "id": "zh_vc2_041",
+      "front": "医院",
+      "pinyin": "yīyuàn",
+      "back": "病院",
+      "story": "解説: 「去医院看病（病院へ診察を受けに行く）」。",
+      "searchQuery": "中国語 病院 診察 薬"
+    },
+    {
+      "id": "zh_vc2_042",
+      "front": "车站",
+      "pinyin": "chēzhàn",
+      "back": "駅・バス停",
+      "story": "解説: 乗り場の総称。「公共汽车站（バス停）」。",
+      "searchQuery": "中国語 駅 バス停 乗り場"
+    },
+    {
+      "id": "zh_vc2_043",
+      "front": "房间",
+      "pinyin": "fángjiān",
+      "back": "部屋・客室",
+      "story": "解説: 「单人间（シングルルーム）」「双人间（ツインルーム）」。",
+      "searchQuery": "中国語 部屋 客室 ホテル"
+    },
+    {
+      "id": "zh_vc2_044",
+      "front": "前面",
+      "pinyin": "qiánmian",
+      "back": "前・前方",
+      "story": "解説: 位置関係。「向前走（前へ進む）」。反対は「后面（後ろ）」。",
+      "searchQuery": "中国語 前 後ろ 位置"
+    },
+    {
+      "id": "zh_vc2_045",
+      "front": "后面",
+      "pinyin": "hòumian",
+      "back": "後ろ・後方",
+      "story": "解説: 位置関係。「在后面（後ろにある）」。",
+      "searchQuery": "中国語 後ろ 位置 空間"
+    },
+    {
+      "id": "zh_vc2_046",
+      "front": "里面",
+      "pinyin": "lǐmian",
+      "back": "中・内側",
+      "story": "解説: 「房间里面（部屋の中）」。反対は「外面（外側）」。",
+      "searchQuery": "中国語 中 内側 空間"
+    },
+    {
+      "id": "zh_vc2_047",
+      "front": "外面",
+      "pinyin": "wàimian",
+      "back": "外・外側",
+      "story": "解説: 「外面很冷（外はとても寒い）」。",
+      "searchQuery": "中国語 外 外側 気温"
+    },
+    {
+      "id": "zh_vc2_048",
+      "front": "天气",
+      "pinyin": "tiānqì",
+      "back": "天気・気候",
+      "story": "解説: 「今天天气怎么样？（今日の天気はどう？）」「好天气（良い天気）」。",
+      "searchQuery": "中国語 天気 気候 会話"
+    },
+    {
+      "id": "zh_vc2_049",
+      "front": "名字",
+      "pinyin": "míngzi",
+      "back": "名前",
+      "story": "解説: 「你叫什么名字？（お名前は何ですか？）」。",
+      "searchQuery": "中国語 名前 尋ねる 自己紹介"
+    },
+    {
+      "id": "zh_vc2_050",
+      "front": "事情",
+      "pinyin": "shìqing",
+      "back": "事・出来事・用事",
+      "story": "解説: 「我有事情（用事があります）」「什么事？（何の用？何があったの？）」。",
+      "searchQuery": "中国語 用事 事情 会話"
+    }
+  ]
+}
