@@ -1,0 +1,361 @@
+{
+  "deckId": "it_basic_survival_1",
+  "version": "1.0.0",
+  "schemaVersion": 2,
+  "title": "🇮🇹 イタリア語 (Vol.1) ゼロからの一歩！超キホン挨拶・相槌・数字50",
+  "note": "チャオからお礼、すみません、1〜100の数字まで完全制覇",
+  "category": "語学",
+  "subCategory": "イタリア語",
+  "cards": [
+    {
+      "id": "it_s1_001",
+      "front": "Ciao",
+      "back": "こんにちは / やあ / バイバイ",
+      "story": "解説: 出会った時も別れる時も使える万能挨拶。親しい間柄で使います。語源はヴェネツィア方言の「あなたのしもべ（s-ciavo）」から。",
+      "searchQuery": "イタリア語 挨拶 日常会話"
+    },
+    {
+      "id": "it_s1_002",
+      "front": "Buongiorno",
+      "back": "おはようございます / こんにちは",
+      "story": "解説: 朝から夕方前まで使えるフォーマルかつ一般的な挨拶。buono（良い）+ giorno（日）。お店に入るときは必ず言いましょう。",
+      "searchQuery": "イタリア語 挨拶 マナー"
+    },
+    {
+      "id": "it_s1_003",
+      "front": "Buonasera",
+      "back": "こんばんは",
+      "story": "解説: 午後（16〜17時以降）から夜にかけての挨拶。buono（良い）+ sera（夕方・晩）。ディナーでの入店時に必須。",
+      "searchQuery": "イタリア語 会話 入門"
+    },
+    {
+      "id": "it_s1_004",
+      "front": "Buonanotte",
+      "back": "おやすみなさい",
+      "story": "解説: 寝る直前や、夜遅くに別れるときに使う言葉。buono（良い）+ notte（夜）。",
+      "searchQuery": "イタリア語 基本表現"
+    },
+    {
+      "id": "it_s1_005",
+      "front": "Arrivederci",
+      "back": "さようなら / またお会いしましょう",
+      "story": "解説: 丁寧な別れの挨拶。a（〜まで）+ rivederci（再び会いましょう）。Ciao よりも改まった場面やお店を出るときに使います。",
+      "searchQuery": "イタリア語 挨拶 丁寧"
+    },
+    {
+      "id": "it_s1_006",
+      "front": "Grazie",
+      "back": "ありがとう",
+      "story": "解説: 最頻出の感謝表現。「グラーツィエ」と語尾の「エ」をしっかり発音するのが自然なイタリア語のコツ。",
+      "searchQuery": "イタリア語 発音 コツ"
+    },
+    {
+      "id": "it_s1_007",
+      "front": "Grazie mille",
+      "back": "本当にありがとうございます（大感謝）",
+      "story": "解説: mille は「1,000」。1,000回分の感謝を伝える英語の 'Thanks a million' と同義の定番表現。",
+      "searchQuery": "イタリア語 感謝 フレーズ"
+    },
+    {
+      "id": "it_s1_008",
+      "front": "Prego",
+      "back": "どういたしまして / どうぞ",
+      "story": "解説: お礼への返答だけでなく、ドアを譲る時の「どうぞ」や店員の「いらっしゃいませ・何にしますか？」でも多用されます。",
+      "searchQuery": "イタリア語 prego 使い方"
+    },
+    {
+      "id": "it_s1_009",
+      "front": "Per favore",
+      "back": "お願いします / 〜をください（Please）",
+      "story": "解説: 注文や頼み事の語尾に添える丁寧表現。per（〜のために）+ favore（好意）。",
+      "searchQuery": "イタリア語 お願い 注文"
+    },
+    {
+      "id": "it_s1_010",
+      "front": "Scusi",
+      "back": "すみません（呼びかけ・軽い謝罪）",
+      "story": "解説: 店員を呼ぶときや道で人に声をかけるときの丁寧な呼びかけ。親しい相手には 'Scusa' と言います。",
+      "searchQuery": "イタリア語 すみません 呼びかけ"
+    },
+    {
+      "id": "it_s1_011",
+      "front": "Mi scusi",
+      "back": "大変失礼いたしました / 申し訳ありません",
+      "story": "解説: Scusi をさらに丁寧にした表現。人にぶつかってしまった時や邪魔をしてしまった際に使います。",
+      "searchQuery": "イタリア語 謝罪 丁寧"
+    },
+    {
+      "id": "it_s1_012",
+      "front": "Sì",
+      "back": "はい（Yes）",
+      "story": "解説: 肯定の返事。アクセント記号（ì）がつき、はっきりと短く「スィ」と発音します。",
+      "searchQuery": "イタリア語 基礎会話"
+    },
+    {
+      "id": "it_s1_013",
+      "front": "No",
+      "back": "いいえ（No）",
+      "story": "解説: 否定の返事。人差し指を左右に振るジェスチャーと一緒に使われることも多いです。",
+      "searchQuery": "イタリア語 ジェスチャー"
+    },
+    {
+      "id": "it_s1_014",
+      "front": "Va bene",
+      "back": "わかりました / いいですよ / OK",
+      "story": "解説: andare（行く）+ bene（良く）=「順調です」。日常の合意・了解の相槌として最も頻出します。",
+      "searchQuery": "イタリア語 相槌 日常"
+    },
+    {
+      "id": "it_s1_015",
+      "front": "D'accordo",
+      "back": "賛成です / 同意します",
+      "story": "解説: 提案や意見に対して「その通り、合意！」と伝えるフレーズ。「Sono d'accordo（同感です）」の略式。",
+      "searchQuery": "イタリア語 同意 表現"
+    },
+    {
+      "id": "it_s1_016",
+      "front": "Non ho capito",
+      "back": "理解できませんでした / わかりませんでした",
+      "story": "解説: capire（理解する）の近過去否定。早口で聞き取れなかった時に正直に伝えるエスケープ表現。",
+      "searchQuery": "イタリア語 聞き返し フレーズ"
+    },
+    {
+      "id": "it_s1_017",
+      "front": "Può ripetere?",
+      "back": "もう一度言っていただけますか？",
+      "story": "解説: potere（〜できる）+ ripetere（繰り返す）。聞き取れなかった時に丁寧に再度話してもらう頼み方。",
+      "searchQuery": "イタリア語 会話 聞き直す"
+    },
+    {
+      "id": "it_s1_018",
+      "front": "Piacere",
+      "back": "はじめまして",
+      "story": "解説: 初対面の挨拶。握手をしながら「Piacere!」と言います。名詞としては「喜び・楽しみ」の意。",
+      "searchQuery": "イタリア語 初対面 自己紹介"
+    },
+    {
+      "id": "it_s1_019",
+      "front": "Come sta?",
+      "back": "お元気ですか？（丁寧な聞き方）",
+      "story": "解説: stare（〜の状態である）の3人称単数形。親しい友人相手には 'Come stai?' と尋ねます。",
+      "searchQuery": "イタリア語 体調 挨拶"
+    },
+    {
+      "id": "it_s1_020",
+      "front": "Sto bene, grazie",
+      "back": "元気です、ありがとう",
+      "story": "解説: Come sta? に対する標準的な回答。この後に「E Lei?（あなたは？）」と聞き返すのがスマート。",
+      "searchQuery": "イタリア語 会話 キャッチボール"
+    },
+    {
+      "id": "it_s1_021",
+      "front": "Come si chiama?",
+      "back": "お名前は何とおっしゃいますか？",
+      "story": "解説: 丁寧な相手への名前の尋ね方。友人同士なら 'Come ti chiami?'。",
+      "searchQuery": "イタリア語 名前 尋ね方"
+    },
+    {
+      "id": "it_s1_022",
+      "front": "Mi chiamo Taro",
+      "back": "私の名前はタロウです",
+      "story": "解説: chiamarsi（〜という名前である）の1人称単数。自己紹介の基本フレーズ。",
+      "searchQuery": "イタリア語 自己紹介 例文"
+    },
+    {
+      "id": "it_s1_023",
+      "front": "Sono giapponese",
+      "back": "私は日本人です",
+      "story": "解説: essere（〜である）+ giapponese（日本人）。男性でも女性でも語尾は -se のまま変化しません。",
+      "searchQuery": "イタリア語 国籍 表現"
+    },
+    {
+      "id": "it_s1_024",
+      "front": "Che cos'è questo?",
+      "back": "これは何ですか？",
+      "story": "解説: 物を指差して尋ねる超基本の疑問文。短く「Cos'è questo?」とも言います。",
+      "searchQuery": "イタリア語 疑問文 入門"
+    },
+    {
+      "id": "it_s1_025",
+      "front": "Dove?",
+      "back": "どこ？（Where）",
+      "story": "解説: 場所を尋ねる疑問詞。「Dov'è 〜?（〜はどこですか？）」の形で街歩きで大活躍します。",
+      "searchQuery": "イタリア語 疑問詞 どこ"
+    },
+    {
+      "id": "it_s1_026",
+      "front": "Quando?",
+      "back": "いつ？（When）",
+      "story": "解説: 時間・日時を尋ねる疑問詞。「Quando parte il treno?（列車はいつ出発しますか？）」。",
+      "searchQuery": "イタリア語 時間 疑問詞"
+    },
+    {
+      "id": "it_s1_027",
+      "front": "Quanto costa?",
+      "back": "いくらですか？",
+      "story": "解説: quanto（どれくらい）+ costare（費用がかかる）。買い物・食事の必須フレーズ。",
+      "searchQuery": "イタリア語 値段 買い物"
+    },
+    {
+      "id": "it_s1_028",
+      "front": "Perché?",
+      "back": "なぜ？ / なぜなら（Why / Because）",
+      "story": "解説: 理由を尋ねる「なぜ？」と、理由を答える「なぜなら〜だから」の両方に同じ単語を使います。",
+      "searchQuery": "イタリア語 理由 なぜ"
+    },
+    {
+      "id": "it_s1_029",
+      "front": "Uno",
+      "back": "1（いち）",
+      "story": "解説: 数字の1。名詞の前では un, uno, una と冠詞のように形が変化します。",
+      "searchQuery": "イタリア語 数字 発音"
+    },
+    {
+      "id": "it_s1_030",
+      "front": "Due",
+      "back": "2（に）",
+      "story": "解説: 数字の2。レストランの人数や切符の枚数で最もよく使う数字の1つ。",
+      "searchQuery": "イタリア語 数字 基本"
+    },
+    {
+      "id": "it_s1_031",
+      "front": "Tre",
+      "back": "3（さん）",
+      "story": "解説: 数字の3。語尾をはっきり「トレ」と発音します。",
+      "searchQuery": "イタリア語 数え方"
+    },
+    {
+      "id": "it_s1_032",
+      "front": "Quattro",
+      "back": "4（よん）",
+      "story": "解説: 数字の4。「クアットロ」。ピザの「クアトロ・フォルマッジ（4種のチーズ）」でおなじみ。",
+      "searchQuery": "イタリア語 ピザ 単語"
+    },
+    {
+      "id": "it_s1_033",
+      "front": "Cinque",
+      "back": "5（ご）",
+      "story": "解説: 数字の5。「チンクエ」。フィアットの名車「チンクエチェント（500）」のチンクエ。",
+      "searchQuery": "イタリア語 カルチャー 車"
+    },
+    {
+      "id": "it_s1_034",
+      "front": "Sei",
+      "back": "6（ろく）",
+      "story": "解説: 数字の6。「セイ」。essere動詞の2人称単数形（tu sei）と同音同綴。",
+      "searchQuery": "イタリア語 文法 基礎"
+    },
+    {
+      "id": "it_s1_035",
+      "front": "Sette",
+      "back": "7（なな）",
+      "story": "解説: 数字の7。「セッテ」。9月の September の語源（古代ローマ暦で7番目の月）。",
+      "searchQuery": "イタリア語 語源 歴史"
+    },
+    {
+      "id": "it_s1_036",
+      "front": "Otto",
+      "back": "8（はち）",
+      "story": "解説: 数字の8。「オット」。10月の October の語源。",
+      "searchQuery": "イタリア語 数字 一覧"
+    },
+    {
+      "id": "it_s1_037",
+      "front": "Nove",
+      "back": "9（きゅう）",
+      "story": "解説: 数字の9。「ノーヴェ」。11月の November の語源。",
+      "searchQuery": "イタリア語 入門"
+    },
+    {
+      "id": "it_s1_038",
+      "front": "Dieci",
+      "back": "10（じゅう）",
+      "story": "解説: 数字の10。「ディエチ」。サッカーのエース背番号10番（numero dieci）の敬称でも有名。",
+      "searchQuery": "イタリア カルチョ サッカー用語"
+    },
+    {
+      "id": "it_s1_039",
+      "front": "Venti",
+      "back": "20（にじゅう）",
+      "story": "解説: 数字の20。「ヴェンティ」。スタバの最大サイズ（20オンス）の由来。",
+      "searchQuery": "イタリア語 カフェ サイズ"
+    },
+    {
+      "id": "it_s1_040",
+      "front": "Trenta",
+      "back": "30（さんじゅう）",
+      "story": "解説: 数字の30。「トレンタ」。31日は trentuno と母音が脱落して繋がります。",
+      "searchQuery": "イタリア語 数字 規則"
+    },
+    {
+      "id": "it_s1_041",
+      "front": "Cinquanta",
+      "back": "50（ごじゅう）",
+      "story": "解説: 数字の50。「チンクアンタ」。40は quaranta（クアランタ）。",
+      "searchQuery": "イタリア語 数字 桁"
+    },
+    {
+      "id": "it_s1_042",
+      "front": "Cento",
+      "back": "100（ひゃく）",
+      "story": "解説: 数字の100。「チェント」。200なら duecento、300なら trecento と繋げます。",
+      "searchQuery": "イタリア語 金額 買い物"
+    },
+    {
+      "id": "it_s1_043",
+      "front": "Mille",
+      "back": "1,000（せん）",
+      "story": "解説: 数字の1,000。「ミッレ」。複数形の2,000以上になると mila（例: duemila）に変化します。",
+      "searchQuery": "イタリア語 文法 複数形"
+    },
+    {
+      "id": "it_s1_044",
+      "front": "Euro",
+      "back": "ユーロ（通貨単位）",
+      "story": "解説: イタリアの通貨。イタリア語では単数でも複数でも形が変わらず「due euro」「dieci euro」と言います。",
+      "searchQuery": "イタリア ユーロ 買い物"
+    },
+    {
+      "id": "it_s1_045",
+      "front": "Io",
+      "back": "私（一人称）",
+      "story": "解説: 「イオ」。動詞の活用で主語がわかるため、強調したいとき以外は省略されることが多いです。",
+      "searchQuery": "イタリア語 人称代名詞"
+    },
+    {
+      "id": "it_s1_046",
+      "front": "Tu",
+      "back": "きみ / あなた（親称）",
+      "story": "解説: 友人や同僚、家族など親しい間柄を呼ぶ二人称代名詞。",
+      "searchQuery": "イタリア語 主語 活用"
+    },
+    {
+      "id": "it_s1_047",
+      "front": "Lei",
+      "back": "あなた様（敬称） / 彼女",
+      "story": "解説: 見知らぬ大人や店員、目上の人に対する敬称二人称。頭文字を大文字の「Lei」で書きます。",
+      "searchQuery": "イタリア語 敬称 Lei"
+    },
+    {
+      "id": "it_s1_048",
+      "front": "Basta così",
+      "back": "これで十分です / 以上です",
+      "story": "解説: 市場の量り売りで「これくらいでストップして！」と伝える時や、レストランで「以上で注文完了です」という合図。",
+      "searchQuery": "イタリア語 買い物 会話"
+    },
+    {
+      "id": "it_s1_049",
+      "front": "Non importa",
+      "back": "かまいません / 気にしないで",
+      "story": "解説: 相手が謝ってきたときや、小さなミスに対して「大丈夫、問題ないよ」と安心させるスマートな相槌。",
+      "searchQuery": "イタリア語 日常会話 相槌"
+    },
+    {
+      "id": "it_s1_050",
+      "front": "Andiamo!",
+      "back": "行こう！ / さあ出発しよう！",
+      "story": "解説: andare（行く）の1人称複数形。仲間を促す掛け声や、スポーツの応援としてイタリア中で飛び交う言葉。",
+      "searchQuery": "イタリア語 日常表現 動詞"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "deckId": "it_vocab_core_1",
+  "version": "1.0.0",
+  "schemaVersion": 2,
+  "title": "🇮🇹 イタリア語キホン単語 (Vol.6) 最重要・基礎動詞＆形容詞50",
+  "note": "andare, fare, essere, avere など最重要動詞と基本形容詞50選",
+  "category": "語学",
+  "subCategory": "イタリア語",
+  "cards": [
+    {
+      "id": "it_vc1_001",
+      "front": "Essere",
+      "back": "〜である / 存在する（英語のbe動詞）",
+      "story": "解説: 最重要不規則動詞。「Sono italiano（私はイタリア人です）」「Dove sei?（どこにいるの？）」。活用: sono, sei, è, siamo, siete, sono。",
+      "searchQuery": "イタリア語 essere 活用 例文"
+    },
+    {
+      "id": "it_vc1_002",
+      "front": "Avere",
+      "back": "持っている / （年齢・空腹などを）持つ（have）",
+      "story": "解説: 「Ho fame（お腹が空いた）」「Ho 25 anni（25歳です）」。近過去の助動詞としても不可欠。活用: ho, hai, ha, abbiamo, avete, hanno。",
+      "searchQuery": "イタリア語 avere 使い方"
+    },
+    {
+      "id": "it_vc1_003",
+      "front": "Andare",
+      "back": "行く（go）",
+      "story": "解説: 移動の基本。「Vado a Roma（ローマへ行く）」「Come va?（調子はどう？）」。活用: vado, vai, va, andiamo, andate, vanno。",
+      "searchQuery": "イタリア語 andare 活用"
+    },
+    {
+      "id": "it_vc1_004",
+      "front": "Venire",
+      "back": "来る（come）",
+      "story": "解説: 「Da dove vieni?（どこ出身ですか？）」「Vengo dal Giappone（日本から来ました）」。活用: vengo, vieni, viene...",
+      "searchQuery": "イタリア語 venire 出身"
+    },
+    {
+      "id": "it_vc1_005",
+      "front": "Fare",
+      "back": "する / 作る（do / make）",
+      "story": "解説: 万能動詞。「Che fai?（何してるの？）」「Fa caldo（暑い）」「fare una doccia（シャワーを浴びる）」。",
+      "searchQuery": "イタリア語 fare 使い方 表現"
+    },
+    {
+      "id": "it_vc1_006",
+      "front": "Stare",
+      "back": "（状態・場所に）とどまる・いる",
+      "story": "解説: 「Come stai?（元気？） - Sto bene（元気です）」「Sto a casa（家にいます）」。進行形（stare + ジェルンディオ）でも使用。",
+      "searchQuery": "イタリア語 stare essere 違い"
+    },
+    {
+      "id": "it_vc1_007",
+      "front": "Mangiare",
+      "back": "食べる（eat）",
+      "story": "解説: 食の国イタリアで最も愛される規則動詞。「Mangiamo!（食べよう！）」。名詞 mangiata は「大食い・ごちそう」。",
+      "searchQuery": "イタリア語 mangiare 規則動詞"
+    },
+    {
+      "id": "it_vc1_008",
+      "front": "Bere",
+      "back": "飲む（drink）",
+      "story": "解説: 「Vuoi bere qualcosa?（何か飲む？）」。乾杯の掛け声「Cin cin!（チンチン！）」と一緒に。",
+      "searchQuery": "イタリア語 飲む 乾杯"
+    },
+    {
+      "id": "it_vc1_009",
+      "front": "Vedere",
+      "back": "見る / 見える（see）",
+      "story": "解説: 自然に目に入ること。「Ci vediamo!（また会おうね！＝お互いを見よう）」。",
+      "searchQuery": "イタリア語 vedere 挨拶"
+    },
+    {
+      "id": "it_vc1_010",
+      "front": "Guardare",
+      "back": "（意識して）眺める / 見る（watch / look）",
+      "story": "解説: 「Guardare la TV（テレビを見る）」「Guarda!（見てごらん！）」。映画やショーを注視する動詞。",
+      "searchQuery": "イタリア語 guardare vedere 違い"
+    },
+    {
+      "id": "it_vc1_011",
+      "front": "Parlare",
+      "back": "話す（speak / talk）",
+      "story": "解説: 「Parla italiano?（イタリア語を話しますか？）」「Parliamo dopo（後で話そう）」。",
+      "searchQuery": "イタリア語 parlare 語学"
+    },
+    {
+      "id": "it_vc1_012",
+      "front": "Sentire",
+      "back": "聞く / 感じる / 匂いをかぐ",
+      "story": "解説: 五感で感じること全般。「Senti!（ねえ聞いて！／呼びかけ）」「Mi sento stanco（疲れた気がする）」。",
+      "searchQuery": "イタリア語 sentire 使い方"
+    },
+    {
+      "id": "it_vc1_013",
+      "front": "Capire",
+      "back": "理解する / わかる（understand）",
+      "story": "解説: -isc- 活用動詞。「Capito?（わかった？） - Ho capito!（わかりました！）」。",
+      "searchQuery": "イタリア語 capire 活用"
+    },
+    {
+      "id": "it_vc1_014",
+      "front": "Prendere",
+      "back": "取る / （乗り物に）乗る / （食事を）摂る",
+      "story": "解説: 「Prendiamo un caffè?（エスプレッソでも飲まない？）」「Prendo il treno（電車に乗る）」。万能の取得動詞。",
+      "searchQuery": "イタリア語 prendere 熟語"
+    },
+    {
+      "id": "it_vc1_015",
+      "front": "Comprare",
+      "back": "買う（buy）",
+      "story": "解説: ショッピングの基本。「Voglio comprare una borsa（バッグを買いたい）」。",
+      "searchQuery": "イタリア語 comprare 買い物"
+    },
+    {
+      "id": "it_vc1_016",
+      "front": "Volere",
+      "back": "〜を欲する / 〜したい（want）",
+      "story": "解説: 補助動詞。「Voglio questo（これが欲しい）」「Vorrei...（〜をいただきたいのですが / 丁寧）」。",
+      "searchQuery": "イタリア語 volere 助動詞"
+    },
+    {
+      "id": "it_vc1_017",
+      "front": "Potere",
+      "back": "〜できる（can / may）",
+      "story": "解説: 許可や可能性。「Posso entrare?（入ってもいいですか？）」「Si può?（入ってもよろしいですか？）」。",
+      "searchQuery": "イタリア語 potere 許可"
+    },
+    {
+      "id": "it_vc1_018",
+      "front": "Dovere",
+      "back": "〜しなければならない（must）",
+      "story": "解説: 義務や必然。「Devo andare（もう行かなきゃ）」「Quanto Le devo?（おいくらお支払いすればいいですか？）」。",
+      "searchQuery": "イタリア語 dovere 義務"
+    },
+    {
+      "id": "it_vc1_019",
+      "front": "Sapere",
+      "back": "（知識・事実を）知っている / できる（know）",
+      "story": "解説: 「Non lo so（知りません・わかりません）」「Sai nuotare?（泳げる？）」。",
+      "searchQuery": "イタリア語 sapere 使い方"
+    },
+    {
+      "id": "it_vc1_020",
+      "front": "Conoscere",
+      "back": "（人や場所を体験として）知っている・知り合う",
+      "story": "解説: 「Conosci Mario?（マリオを知ってる？）」「Piacere di conoscerti（知り合えて嬉しいです）」。",
+      "searchQuery": "イタリア語 conoscere sapere 違い"
+    },
+    {
+      "id": "it_vc1_021",
+      "front": "Cercare",
+      "back": "探す（search / look for）",
+      "story": "解説: 「Cerco la stazione（駅を探しています）」「Cerco di fare del mio meglio（最善を尽くすよう努める）」。",
+      "searchQuery": "イタリア語 cercare 探す"
+    },
+    {
+      "id": "it_vc1_022",
+      "front": "Trovare",
+      "back": "見つける / （〜だと）思う（find）",
+      "story": "解説: 「L'ho trovato!（見つけた！）」「Come trovi l'Italia?（イタリアをどう思う？）」。",
+      "searchQuery": "イタリア語 trovare 発見"
+    },
+    {
+      "id": "it_vc1_023",
+      "front": "Aspettare",
+      "back": "待つ（wait）",
+      "story": "解説: 「Aspetta un momento!（ちょっと待って！）」「Aspetto un amico（友達を待っています）」。",
+      "searchQuery": "イタリア語 aspettare 会話"
+    },
+    {
+      "id": "it_vc1_024",
+      "front": "Chiedere",
+      "back": "尋ねる / 頼む（ask）",
+      "story": "解説: 「Posso chiedere una cosa?（1つ質問してもいいですか？）」「chiedere il conto（会計を頼む）」。",
+      "searchQuery": "イタリア語 chiedere 尋ねる"
+    },
+    {
+      "id": "it_vc1_025",
+      "front": "Dormire",
+      "back": "眠る（sleep）",
+      "story": "解説: 「Hai dormito bene?（よく眠れた？）」「Ho sonno, vado a dormire（眠いから寝るね）」。",
+      "searchQuery": "イタリア語 dormire 睡眠"
+    },
+    {
+      "id": "it_vc1_026",
+      "front": "Grande",
+      "back": "大きい / 偉大な（big / great）",
+      "story": "解説: サイズだけでなく「Grande!（すごい！最高！）」と称賛の掛け声としても頻出。反対語は piccolo。",
+      "searchQuery": "イタリア語 形容詞 大きい"
+    },
+    {
+      "id": "it_vc1_027",
+      "front": "Piccolo",
+      "back": "小さい（small）",
+      "story": "解説: 女性形は piccola。小さな子どもを「piccolo/a」と愛称で呼ぶこともあります。",
+      "searchQuery": "イタリア語 piccolo 使い方"
+    },
+    {
+      "id": "it_vc1_028",
+      "front": "Bello",
+      "back": "美しい / 素敵な / 素晴らしい（beautiful）",
+      "story": "解説: 「Che bello!（なんて素晴らしい！／素敵！）」「Bella vita（素晴らしい人生）」。イタリア人の美学を象徴する言葉。",
+      "searchQuery": "イタリア語 bello 意味 ニュアンス"
+    },
+    {
+      "id": "it_vc1_029",
+      "front": "Brutto",
+      "back": "醜い / 悪い / 不快な（ugly / bad）",
+      "story": "解説: 外見だけでなく天気にも。「Brutto tempo（悪天候）」。反対語は bello。",
+      "searchQuery": "イタリア語 天気 形容詞"
+    },
+    {
+      "id": "it_vc1_030",
+      "front": "Buono",
+      "back": "良い / 美味しい / 優しい（good）",
+      "story": "解説: 食事の美味しさや人の性格の良さ。「Buon viaggio!（良い旅を！）」「Buon lavoro!（お仕事頑張って！）」。",
+      "searchQuery": "イタリア語 buono 挨拶"
+    },
+    {
+      "id": "it_vc1_031",
+      "front": "Cattivo",
+      "back": "悪い / 性格が意地悪な / 不味い（bad）",
+      "story": "解説: 道徳的な悪さや味の悪さ。「Cattivo odore（嫌な臭い）」。反対語は buono。",
+      "searchQuery": "イタリア語 対義語 形容詞"
+    },
+    {
+      "id": "it_vc1_032",
+      "front": "Nuovo",
+      "back": "新しい（new）",
+      "story": "解説: 「Anno Nuovo（新年）」「Di nuovo（再び・もう一度）」。反対語は vecchio。",
+      "searchQuery": "イタリア語 nuovo 単語"
+    },
+    {
+      "id": "it_vc1_033",
+      "front": "Vecchio",
+      "back": "古い / 年老いた（old）",
+      "story": "解説: フィレンツェの有名観光名所「Ponte Vecchio（ポンテ・ヴェッキオ＝古い橋）」。",
+      "searchQuery": "ポンテヴェッキオ イタリア 歴史"
+    },
+    {
+      "id": "it_vc1_034",
+      "front": "Caldo",
+      "back": "暑い / 温かい（hot / warm）",
+      "story": "解説: 英語の cold に響きが似ていますが「熱い・暑い」の意味なので混同注意！「Fa caldo（暑い）」。",
+      "searchQuery": "イタリア語 caldo 英語 違い"
+    },
+    {
+      "id": "it_vc1_035",
+      "front": "Freddo",
+      "back": "寒い / 冷たい（cold）",
+      "story": "解説: 「Fa freddo（寒い）」「Acqua fredda（冷たい水）」。反対語は caldo。",
+      "searchQuery": "イタリア語 気温 気候 単語"
+    },
+    {
+      "id": "it_vc1_036",
+      "front": "Caro",
+      "back": "（値段が）高い / 親愛なる（expensive / dear）",
+      "story": "解説: 「È troppo caro!（高すぎます！）」「Caro amico（親愛なる友よ）」。手紙の書き出しにも使います。",
+      "searchQuery": "イタリア語 caro 意味 手紙"
+    },
+    {
+      "id": "it_vc1_037",
+      "front": "Economico",
+      "back": "（値段が）安い / 経済的な（cheap）",
+      "story": "解説: 「Un albergo economico（格安ホテル）」。反対語は caro。",
+      "searchQuery": "イタリア語 買い物 安い"
+    },
+    {
+      "id": "it_vc1_038",
+      "front": "Facile",
+      "back": "簡単な / 容易な（easy）",
+      "story": "解説: 「È molto facile（とても簡単です）」。反対語は difficile。",
+      "searchQuery": "イタリア語 基礎 単語"
+    },
+    {
+      "id": "it_vc1_039",
+      "front": "Difficile",
+      "back": "難しい / 困難な（difficult）",
+      "story": "解説: 「L'italiano non è difficile!（イタリア語は難しくないよ！）」。",
+      "searchQuery": "イタリア語 難易度 文法"
+    },
+    {
+      "id": "it_vc1_040",
+      "front": "Veloce",
+      "back": "速い / スピーディーな（fast）",
+      "story": "解説: 高速鉄道「Frecciarossa（赤い矢）」の別称など。音楽用語のアレグロと並び日常でも多用。",
+      "searchQuery": "イタリア語 veloce 意味"
+    },
+    {
+      "id": "it_vc1_041",
+      "front": "Lento",
+      "back": "遅い / のろい（slow）",
+      "story": "解説: スピードが遅いこと。音楽記号「Lento（緩やかに）」の語源。",
+      "searchQuery": "イタリア語 音楽用語 語源"
+    },
+    {
+      "id": "it_vc1_042",
+      "front": "Vicino",
+      "back": "近い / 近所の（near）",
+      "story": "解説: 「È vicino a qui（ここから近いです）」「Il mio vicino（私の隣人）」。",
+      "searchQuery": "イタリア語 距離 近い"
+    },
+    {
+      "id": "it_vc1_043",
+      "front": "Lontano",
+      "back": "遠い（far）",
+      "story": "解説: 「È molto lontano?（すごく遠いですか？）」。カンツォーネの名曲などにも頻出する抒情的な単語。",
+      "searchQuery": "イタリア語 遠い 会話"
+    },
+    {
+      "id": "it_vc1_044",
+      "front": "Stanco",
+      "back": "疲れた（tired）",
+      "story": "解説: 「Sono stanco（疲れました / 男性）」「Sono stanca（女性）」。旅の終わりの一言。",
+      "searchQuery": "イタリア語 性数一致 形容詞"
+    },
+    {
+      "id": "it_vc1_045",
+      "front": "Felice",
+      "back": "幸せな / 嬉しい（happy）",
+      "story": "解説: 「Sono molto felice!（とても嬉しいです！）」「Buon Anno e Felice Anno Nuovo!」。",
+      "searchQuery": "イタリア語 感情 嬉しい"
+    },
+    {
+      "id": "it_vc1_046",
+      "front": "Pronto",
+      "back": "準備ができた / （電話で）もしもし（ready）",
+      "story": "解説: 「Sei pronto?（準備できた？）」。イタリアで電話を取る時は必ず「Pronto!（もしもし！）」と言います。",
+      "searchQuery": "イタリア語 電話 もしもし pronto"
+    },
+    {
+      "id": "it_vc1_047",
+      "front": "Pieno",
+      "back": "いっぱいの / 満員の（full）",
+      "story": "解説: 「È pieno（満席・満員です）」「Il pieno, per favore（ガソリン満タンでお願いします）」。",
+      "searchQuery": "イタリア語 満席 ガソリン"
+    },
+    {
+      "id": "it_vc1_048",
+      "front": "Vuoto",
+      "back": "空の / 空席の（empty）",
+      "story": "解説: 中身が何もないこと。「A stomaco vuoto（空腹時・胃が空の状態で）」。反対語は pieno。",
+      "searchQuery": "イタリア語 空っぽ 単語"
+    },
+    {
+      "id": "it_vc1_049",
+      "front": "Giusto",
+      "back": "正しい / ぴったりな（right / exact）",
+      "story": "解説: 「Esatto!（その通り！）」と同様の相槌。「È giusto（合っています / 正しいです）」。",
+      "searchQuery": "イタリア語 相槌 同意"
+    },
+    {
+      "id": "it_vc1_050",
+      "front": "Sbagliato",
+      "back": "間違っている（wrong）",
+      "story": "解説: カクテルの「ネグローニ・スバリアート（間違えてスパークリングを入れちゃったネグローニ）」でおなじみ。",
+      "searchQuery": "イタリア カクテル ネグローニ スバリアート"
+    }
+  ]
+}

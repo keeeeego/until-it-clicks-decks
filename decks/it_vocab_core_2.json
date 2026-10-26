@@ -1,0 +1,361 @@
+{
+  "deckId": "it_vocab_core_2",
+  "version": "1.0.0",
+  "schemaVersion": 2,
+  "title": "🇮🇹 イタリア語キホン単語 (Vol.7) 生活名詞＆日常表現50",
+  "note": "街・時間・家族・食べ物など日常会話の基盤となる名詞50選",
+  "category": "語学",
+  "subCategory": "イタリア語",
+  "cards": [
+    {
+      "id": "it_vc2_001",
+      "front": "Uomo",
+      "back": "男 / 男性",
+      "story": "解説: 複数形は不規則で「uomini（男たち）」。お手洗いの扉の表示（Uomo / Donna）でも必須。",
+      "searchQuery": "イタリア語 トイレ 表記 男 女"
+    },
+    {
+      "id": "it_vc2_002",
+      "front": "Donna",
+      "back": "女 / 女性",
+      "story": "解説: 複数形は「donne」。歌劇の名アリア「La donna è mobile（女心の歌）」でも超有名。",
+      "searchQuery": "イタリア オペラ 女心の歌"
+    },
+    {
+      "id": "it_vc2_003",
+      "front": "Amico",
+      "back": "友達 / 友人（男性）",
+      "story": "解説: 女性の友達なら「amica」、女友達複数なら「amiche」、男友達複数なら「amici」。「Mio caro amico（親愛なる友）」。",
+      "searchQuery": "イタリア語 友達 複数形"
+    },
+    {
+      "id": "it_vc2_004",
+      "front": "Famiglia",
+      "back": "家族 / ファミリー",
+      "story": "解説: イタリア社会で何よりも大切にされる絆。「La mia famiglia（私の家族）」。",
+      "searchQuery": "イタリア 文化 家族の絆"
+    },
+    {
+      "id": "it_vc2_005",
+      "front": "Padre",
+      "back": "父親 / 父",
+      "story": "解説: カジュアルには「papà（パパ）」と呼びます。",
+      "searchQuery": "イタリア語 家族 呼び方"
+    },
+    {
+      "id": "it_vc2_006",
+      "front": "Madre",
+      "back": "母親 / 母",
+      "story": "解説: イタリアのマンマ（mamma）文化の基盤。「Mamma mia!（なんてこった！）」は直訳すると「私のお母さん！」。",
+      "searchQuery": "イタリア マンマ 文化"
+    },
+    {
+      "id": "it_vc2_007",
+      "front": "Figlio",
+      "back": "息子 / 子ども",
+      "story": "解説: 娘なら「figlia（フィリア）」。「I miei figli（私の子どもたち）」。",
+      "searchQuery": "イタリア語 家族構成 単語"
+    },
+    {
+      "id": "it_vc2_008",
+      "front": "Fratello",
+      "back": "兄 / 弟（兄弟）",
+      "story": "解説: 姉妹なら「sorella（ソレッラ）」。「Fratelli d'Italia（イタリアの同胞よ）」はイタリア国歌のタイトル。",
+      "searchQuery": "イタリア 国歌 歌詞 意味"
+    },
+    {
+      "id": "it_vc2_009",
+      "front": "Casa",
+      "back": "家 / 自宅（home / house）",
+      "story": "解説: 「A casa（家に / 在宅で）」「Torno a casa（家に帰る）」。",
+      "searchQuery": "イタリア語 家 帰宅 会話"
+    },
+    {
+      "id": "it_vc2_010",
+      "front": "Città",
+      "back": "街 / 都市（city）",
+      "story": "解説: 「Centro città（市街地中心部）」。単複同形で複数になっても città のままです。",
+      "searchQuery": "イタリア 都市 観光"
+    },
+    {
+      "id": "it_vc2_011",
+      "front": "Piazza",
+      "back": "広場（スクエア）",
+      "story": "解説: イタリアの街の中心。社交や待ち合わせの場。「Piazza Navona（ナヴォーナ広場）」「Piazza del Duomo（ドゥオモ広場）」。",
+      "searchQuery": "イタリア 広場 文化 ピアッツァ"
+    },
+    {
+      "id": "it_vc2_012",
+      "front": "Strada",
+      "back": "通り / 道路（street）",
+      "story": "解説: 通りの名前「Via ○○」や、高速道路「Autostrada」の語源。",
+      "searchQuery": "イタリア 通り 名前 看板"
+    },
+    {
+      "id": "it_vc2_013",
+      "front": "Chiesa",
+      "back": "教会（church）",
+      "story": "解説: イタリア中に点在する壮麗な教会建築。大聖堂は「Duomo」または「Cattedrale」。",
+      "searchQuery": "イタリア 教会 ドゥオモ 違い"
+    },
+    {
+      "id": "it_vc2_014",
+      "front": "Museo",
+      "back": "美術館 / 博物館（museum）",
+      "story": "解説: ルネサンス絵画の宝庫。「Musei Vaticani（ヴァチカン美術館）」。",
+      "searchQuery": "イタリア 美術館 おすすめ"
+    },
+    {
+      "id": "it_vc2_015",
+      "front": "Tempo",
+      "back": "時間 / 天気（time / weather）",
+      "story": "解説: 「時間」と「天気」の両方を表します。「Non ho tempo（時間がありません）」「Che bel tempo!（なんて良い天気！）」。",
+      "searchQuery": "イタリア語 tempo 多義語"
+    },
+    {
+      "id": "it_vc2_016",
+      "front": "Ora",
+      "back": "時間 / 〜時 / 今（hour / now）",
+      "story": "解説: 「Che ora è?（今何時ですか？）」「Adesso / Ora（今・現在）」。「Un'ora（1時間）」。",
+      "searchQuery": "イタリア語 時間 聞き方"
+    },
+    {
+      "id": "it_vc2_017",
+      "front": "Giorno",
+      "back": "日 / 昼間（day）",
+      "story": "解説: 「Oggi（今日）」「Ogni giorno（毎日）」「Tutto il giorno（一日中）」。",
+      "searchQuery": "イタリア語 日付 日常表現"
+    },
+    {
+      "id": "it_vc2_018",
+      "front": "Notte",
+      "back": "夜（night）",
+      "story": "解説: 「Stanotte（今夜）」「Buonanotte（おやすみ）」。",
+      "searchQuery": "イタリア語 夜 挨拶"
+    },
+    {
+      "id": "it_vc2_019",
+      "front": "Oggi",
+      "back": "今日（today）",
+      "story": "解説: 「Oggi piove（今日は雨が降っている）」。昨日は ieri、明日は domani。",
+      "searchQuery": "イタリア語 今日 明日 昨日"
+    },
+    {
+      "id": "it_vc2_020",
+      "front": "Domani",
+      "back": "明日（tomorrow）",
+      "story": "解説: 「A domani!（また明日！）」。イタリア人の「Domani（明日やるよ＝いつかそのうち）」はお約束の口癖。",
+      "searchQuery": "イタリア 文化 気質 明日"
+    },
+    {
+      "id": "it_vc2_021",
+      "front": "Ieri",
+      "back": "昨日（yesterday）",
+      "story": "解説: 「Ieri sono andato a Milano（昨日ミラノに行きました）」。",
+      "searchQuery": "イタリア語 近過去 例文"
+    },
+    {
+      "id": "it_vc2_022",
+      "front": "Anno",
+      "back": "年（year）",
+      "story": "解説: 「Quest'anno（今年）」「L'anno prossimo（来年）」。",
+      "searchQuery": "イタリア語 年月日 表現"
+    },
+    {
+      "id": "it_vc2_023",
+      "front": "Soldi",
+      "back": "お金（money / 現金）",
+      "story": "解説: 常に複数形で使われます。「Non ho soldi（お金がありません）」「Spendere soldi（お金を使う）」。",
+      "searchQuery": "イタリア語 お金 単語"
+    },
+    {
+      "id": "it_vc2_024",
+      "front": "Macchina",
+      "back": "車 / 機械（car / machine）",
+      "story": "解説: 自動車のこと。「Vado in macchina（車で行く）」「macchina per il caffè（コーヒーマシン）」。",
+      "searchQuery": "イタリア語 車 乗り物"
+    },
+    {
+      "id": "it_vc2_025",
+      "front": "Treno",
+      "back": "電車 / 列車（train）",
+      "story": "解説: 都市間を結ぶ高速鉄道「Frecciarossa（フレッチャロッサ）」や普通列車「Regionale」。",
+      "searchQuery": "イタリア 鉄道 種類"
+    },
+    {
+      "id": "it_vc2_026",
+      "front": "Aereo",
+      "back": "飛行機（airplane）",
+      "story": "解説: 「Aeroporto（空港）」「Prendere l'aereo（飛行機に乗る）」。",
+      "searchQuery": "イタリア 空港 飛行機 単語"
+    },
+    {
+      "id": "it_vc2_027",
+      "front": "Pane",
+      "back": "パン（bread）",
+      "story": "解説: 食事の席に欠かせない主食。お皿に残ったパスタソースをパンで拭って食べる行為を「Scarpetta（スカルペッタ）」と言います。",
+      "searchQuery": "イタリア 食事 スカルペッタ マナー"
+    },
+    {
+      "id": "it_vc2_028",
+      "front": "Formaggio",
+      "back": "チーズ（cheese）",
+      "story": "解説: パルミジャーノ・レッジャーノ、モッツァレラ、ゴルゴンゾーラなどイタリアの誇る世界的名産。",
+      "searchQuery": "イタリア チーズ 種類"
+    },
+    {
+      "id": "it_vc2_029",
+      "front": "Carne",
+      "back": "肉（meat）",
+      "story": "解説: 「Carne di manzo（牛肉）」「Carne di maiale（豚肉）」「Carne di pollo（鶏肉）」。",
+      "searchQuery": "イタリア 肉料理 メニュー"
+    },
+    {
+      "id": "it_vc2_030",
+      "front": "Pesce",
+      "back": "魚 / 魚介（fish）",
+      "story": "解説: 海沿いの街（ヴェネツィアやナポリなど）の名物。「Frutti di mare（魚介類・シーフード）」。",
+      "searchQuery": "イタリア 魚介 シーフード パスタ"
+    },
+    {
+      "id": "it_vc2_031",
+      "front": "Gelato",
+      "back": "ジェラート（アイスクリーム）",
+      "story": "解説: 「Un cono o una coppetta?（コーンにしますか、カップにしますか？）」。街歩きのお供の定番スイーツ。",
+      "searchQuery": "イタリア ジェラート 頼み方 コーン カップ"
+    },
+    {
+      "id": "it_vc2_032",
+      "front": "Telefono",
+      "back": "電話 / スマホ（phone）",
+      "story": "解説: スマホは「cellulare（携帯電話）」や「smartphone」とも呼ばれます。",
+      "searchQuery": "イタリア語 携帯電話 スマホ"
+    },
+    {
+      "id": "it_vc2_033",
+      "front": "Borsa",
+      "back": "バッグ / 鞄 / カバン（bag）",
+      "story": "解説: フィレンツェの革市などで頻出。「Borsa di pelle（革のバッグ）」。",
+      "searchQuery": "イタリア 革製品 バッグ フィレンツェ"
+    },
+    {
+      "id": "it_vc2_034",
+      "front": "Chiave",
+      "back": "鍵（key）",
+      "story": "解説: 「Le chiavi di casa（家の鍵）」「Chiave della camera（部屋の鍵）」。女性名詞です。",
+      "searchQuery": "イタリア語 鍵 ホテル"
+    },
+    {
+      "id": "it_vc2_035",
+      "front": "Numero",
+      "back": "番号 / 数字（number）",
+      "story": "解説: 「Qual è il tuo numero di telefono?（電話番号は何番？）」「Numero civico（番地）」。",
+      "searchQuery": "イタリア語 番号 尋ね方"
+    },
+    {
+      "id": "it_vc2_036",
+      "front": "Nome",
+      "back": "名前 / ファーストネーム（name）",
+      "story": "解説: 苗字（姓）は「Cognome（コニョーメ）」。書類記入の際は「Nome」と「Cognome」に分かれます。",
+      "searchQuery": "イタリア語 姓名 苗字 違い"
+    },
+    {
+      "id": "it_vc2_037",
+      "front": "Lavoro",
+      "back": "仕事 / 労働（work / job）",
+      "story": "解説: 「Che lavoro fai?（どんな仕事をしてるの？）」「Buon lavoro!（お仕事頑張って！）」。",
+      "searchQuery": "イタリア語 職業 尋ね方"
+    },
+    {
+      "id": "it_vc2_038",
+      "front": "Gente",
+      "back": "人々 / 人たち（people）",
+      "story": "解説: 常に女性単数扱い。「C'è molta gente（たくさんの人がいます）」。",
+      "searchQuery": "イタリア語 gente 文法 単数"
+    },
+    {
+      "id": "it_vc2_039",
+      "front": "Ragazzo",
+      "back": "男の子 / 青年 / ボーイフレンド",
+      "story": "解説: 女性なら「ragazza」。「Ciao ragazzi!（みんな、やあ！／若者たちへの気軽な呼びかけ）」。",
+      "searchQuery": "イタリア語 ragazzi 呼びかけ"
+    },
+    {
+      "id": "it_vc2_040",
+      "front": "Bambino",
+      "back": "小さな子ども / 赤ちゃん",
+      "story": "解説: 女の子なら「bambina」。幼児や児童を指します。",
+      "searchQuery": "イタリア語 子ども 単語"
+    },
+    {
+      "id": "it_vc2_041",
+      "front": "Mondo",
+      "back": "世界（world）",
+      "story": "解説: 「In tutto il mondo（世界中で）」「Tutto il mondo è paese（世間はどこも同じようなもの）」。",
+      "searchQuery": "イタリア語 ことわざ 世界"
+    },
+    {
+      "id": "it_vc2_042",
+      "front": "Sole",
+      "back": "太陽 / 日差し（sun）",
+      "story": "解説: カンツォーネの名曲『オー・ソレ・ミオ（O sole mio＝わが太陽）』。南イタリアの代名詞。",
+      "searchQuery": "オーソレミオ 歌詞 意味 太陽"
+    },
+    {
+      "id": "it_vc2_043",
+      "front": "Mare",
+      "back": "海（sea）",
+      "story": "解説: アマルフィ海岸やシチリア島など、イタリア人の夏のヴァカンス（Vacanza）の目的地。",
+      "searchQuery": "イタリア バカンス 海 アマルフィ"
+    },
+    {
+      "id": "it_vc2_044",
+      "front": "Musica",
+      "back": "音楽（music）",
+      "story": "解説: ピアノ、フォルテ、オペラなど、世界の音楽用語の多くはイタリア語が発祥です。",
+      "searchQuery": "イタリア語 音楽用語 発祥"
+    },
+    {
+      "id": "it_vc2_045",
+      "front": "Arte",
+      "back": "美術 / アート / 芸術（art）",
+      "story": "解説: 「Città d'arte（芸術の街）」。ルネサンスを生んだイタリアの精神そのもの。",
+      "searchQuery": "イタリア ルネサンス 芸術都市"
+    },
+    {
+      "id": "it_vc2_046",
+      "front": "Lingua",
+      "back": "言語 / 言葉 / 舌（language / tongue）",
+      "story": "解説: 「La lingua italiana（イタリア語）」。牛タン料理などの肉の「舌」も lingua と言います。",
+      "searchQuery": "イタリア語 言語 単語"
+    },
+    {
+      "id": "it_vc2_047",
+      "front": "Parola",
+      "back": "単語 / 言葉（word）",
+      "story": "解説: 「Parola mia!（私の言葉に誓って！＝本当だよ！）」「Una parola（一言）」。",
+      "searchQuery": "イタリア語 表現 単語"
+    },
+    {
+      "id": "it_vc2_048",
+      "front": "Lettera",
+      "back": "手紙 / 文字（letter）",
+      "story": "解説: 「Scrivere una lettera（手紙を書く）」。",
+      "searchQuery": "イタリア語 手紙 書き方"
+    },
+    {
+      "id": "it_vc2_049",
+      "front": "Foto",
+      "back": "写真（photo）",
+      "story": "解説: fotografiaの略で女性名詞。「Fare una foto（写真を撮る）」。",
+      "searchQuery": "イタリア 観光 写真 フレーズ"
+    },
+    {
+      "id": "it_vc2_050",
+      "front": "Vita",
+      "back": "人生 / 生命 / 生活（life）",
+      "story": "解説: 映画『La vita è bella（ライフ・イズ・ビューティフル）』や『La dolce vita（甘い生活）』でおなじみの言葉。",
+      "searchQuery": "イタリア 映画 ライフイズビューティフル 意味"
+    }
+  ]
+}

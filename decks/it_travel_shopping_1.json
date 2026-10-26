@@ -1,0 +1,186 @@
+{
+  "deckId": "it_travel_shopping_1",
+  "version": "1.0.0",
+  "schemaVersion": 2,
+  "title": "🇮🇹 旅行イタリア語 (Vol.4) 買い物・市場・免税25",
+  "note": "試着、サイズ確認、市場の量り売り、スーパーのルールと決済",
+  "category": "語学",
+  "subCategory": "イタリア語",
+  "cards": [
+    {
+      "id": "it_ts_001",
+      "front": "Posso dare un'occhiata?",
+      "back": "見ているだけでいいですか？",
+      "story": "解説: 店員が寄ってきた時に自由に商品を見たい場合のスマートな断り文句。「Sto solo guardando, grazie（見ているだけです、ありがとう）」でもOK。",
+      "searchQuery": "イタリア 買い物 接客 フレーズ"
+    },
+    {
+      "id": "it_ts_002",
+      "front": "Posso provarlo?",
+      "back": "これを試着してもいいですか？",
+      "story": "解説: 服や靴を試したいとき。女性名詞の服（la camiciaなど）なら 'Posso provarla?'、靴なら 'Posso provarle?' と変化します。",
+      "searchQuery": "イタリア語 試着 買い物"
+    },
+    {
+      "id": "it_ts_003",
+      "front": "Camerino",
+      "back": "試着室",
+      "story": "解説: 「Dov'è il camerino?（試着室はどこですか？）」。ブティックやZARAなどのアパレル店で使います。",
+      "searchQuery": "イタリア アパレル 試着室"
+    },
+    {
+      "id": "it_ts_004",
+      "front": "Taglia",
+      "back": "服や靴のサイズ",
+      "story": "解説: 「Che taglia porta?（サイズはおいくつですか？）」。S/M/Lはそれぞれ Small / Media / Large と言います。",
+      "searchQuery": "イタリア 服 サイズ 表記"
+    },
+    {
+      "id": "it_ts_005",
+      "front": "Ha una taglia più grande?",
+      "back": "もっと大きいサイズはありますか？",
+      "story": "解説: 「più grande（より大きい）」。小さめのサイズなら「una taglia più piccola」と言います。",
+      "searchQuery": "イタリア語 ショッピング サイズ交換"
+    },
+    {
+      "id": "it_ts_006",
+      "front": "Avete un altro colore?",
+      "back": "他の色（色違い）はありますか？",
+      "story": "解説: 「In nero（黒で）」「In bianco（白で）」のように特定の色を指定して尋ねることもできます。",
+      "searchQuery": "イタリア語 色 買い物"
+    },
+    {
+      "id": "it_ts_007",
+      "front": "Prendo questo",
+      "back": "これを買います / これにします",
+      "story": "解説: prendere（取る・手に入れる）の1人称。購入の意思を店員にはっきり伝える決定フレーズ。",
+      "searchQuery": "イタリア語 買い物 決定"
+    },
+    {
+      "id": "it_ts_008",
+      "front": "Ci penso un po'",
+      "back": "少し考えます（買うのをやめるとき）",
+      "story": "解説: 試着や接客を受けた後、購入せずに立ち去りたい時の失礼にならない大人の断り文句。",
+      "searchQuery": "イタリア語 買い物 断り方"
+    },
+    {
+      "id": "it_ts_009",
+      "front": "Saldi",
+      "back": "セール / バーゲン",
+      "story": "解説: イタリアの国指定セール期間（夏と冬）。「Sconti（値引き）」もよく店頭に張り出されます。",
+      "searchQuery": "イタリア セール 時期 サルディ"
+    },
+    {
+      "id": "it_ts_010",
+      "front": "C'è uno sconto?",
+      "back": "割引はありますか？ / まけてもらえますか？",
+      "story": "解説: 蚤の市（Mercato）や個人商店で値引き交渉する時の一言。高級百貨店では使えません。",
+      "searchQuery": "イタリア語 値引き交渉 マーケット"
+    },
+    {
+      "id": "it_ts_011",
+      "front": "Un etto",
+      "back": "100グラム（量り売り）",
+      "story": "解説: 市場や精肉・チーズ店での必須単位。100g=1 etto、200g=due etti。「Due etti di prosciutto（生ハム200g）」。",
+      "searchQuery": "イタリア 量り売り エット 生ハム"
+    },
+    {
+      "id": "it_ts_012",
+      "front": "Un chilo",
+      "back": "1キログラム（量り売り）",
+      "story": "解説: フルーツや野菜を市場で買う時の単位。「Mezzo chilo（500グラム）」も多用されます。",
+      "searchQuery": "イタリア 市場 買い方"
+    },
+    {
+      "id": "it_ts_013",
+      "front": "Menta i guanti!",
+      "back": "手袋を着用してください！（スーパーの青果ルール）",
+      "story": "解説: 【超重要トラップ】イタリアのスーパーでは、野菜や果物を素手で触るのは厳禁！必ず備え付けの透明ビニール手袋をはめます。",
+      "searchQuery": "イタリア スーパー 買い物 ルール 手袋"
+    },
+    {
+      "id": "it_ts_014",
+      "front": "Pesi la frutta!",
+      "back": "果物の重さを量って番号を押してください！",
+      "story": "解説: スーパーの野菜果物は袋に入れて自分で秤に載せ、商品番号ボタンを押してバーコードシールを貼る必要があります。",
+      "searchQuery": "イタリア スーパー 計量 シール"
+    },
+    {
+      "id": "it_ts_015",
+      "front": "Una busta, per favore",
+      "back": "レジ袋を1枚お願いします",
+      "story": "解説: イタリアはレジ袋有料が一般的。「sacchetto（サッケット）」とも呼ばれます。",
+      "searchQuery": "イタリア語 レジ袋 買い物"
+    },
+    {
+      "id": "it_ts_016",
+      "front": "Posso pagare con la carta?",
+      "back": "カードで支払えますか？",
+      "story": "解説: コンタクトレス決済（タッチ決済）は「senza contatto」または単に端末にタッチすれば通じます。",
+      "searchQuery": "イタリア クレジットカード 決済"
+    },
+    {
+      "id": "it_ts_017",
+      "front": "Inserisca il PIN",
+      "back": "暗証番号（PIN）を入力してください",
+      "story": "解説: カード決済機で暗証番号を求められた時の画面表示または店員の指示。緑のOKボタンを押します。",
+      "searchQuery": "イタリア カード暗証番号 PIN"
+    },
+    {
+      "id": "it_ts_018",
+      "front": "Lo scontrino, per favore",
+      "back": "レシートをください",
+      "story": "解説: イタリアでは脱税防止のため、買い物をした客がレシートを受け取って店を出る義務（法規定）があります。",
+      "searchQuery": "イタリア レシート 法律 スコントリーノ"
+    },
+    {
+      "id": "it_ts_019",
+      "front": "È per un regalo",
+      "back": "プレゼント用です",
+      "story": "解説: 「Può fare un pacchetto regalo?（ギフト包装してもらえますか？）」と頼むときに使います。",
+      "searchQuery": "イタリア語 ラッピング プレゼント"
+    },
+    {
+      "id": "it_ts_020",
+      "front": "Posso avere il Tax Free?",
+      "back": "免税手続き（Tax Free）はできますか？",
+      "story": "解説: 同一店舗で一定金額（通常70ユーロ以上等）購入した際、免税書類を作ってもらう時の必須フレーズ。",
+      "searchQuery": "イタリア 免税手続き タックスフリー"
+    },
+    {
+      "id": "it_ts_021",
+      "front": "Ecco il passaporto",
+      "back": "パスポートはこちらです",
+      "story": "解説: 免税書類の作成や高額決済時に店員から「Passaporto, per favore」と言われた際に渡す言葉。",
+      "searchQuery": "イタリア 買い物 パスポート提示"
+    },
+    {
+      "id": "it_ts_022",
+      "front": "È rotto / difettoso",
+      "back": "壊れています / 傷（欠陥）があります",
+      "story": "解説: 購入した商品にほつれや傷があった時のクレーム。「Posso cambiarlo?（交換できますか？）」。",
+      "searchQuery": "イタリア語 返品 交換 不良品"
+    },
+    {
+      "id": "it_ts_023",
+      "front": "Fatto a mano",
+      "back": "ハンドメイド / 手作り",
+      "story": "解説: ベネチアンガラスや革製品などで本物の職人手作りを示す表記。伝統工芸品選びの目安。",
+      "searchQuery": "イタリア 手作り 伝統工芸 革製品"
+    },
+    {
+      "id": "it_ts_024",
+      "front": "Prodotti tipici",
+      "back": "特産品 / 郷土土産",
+      "story": "解説: パスタ、オリーブオイル、バルサミコ酢などその土地ならではの食料品土産を扱う店に掲げられています。",
+      "searchQuery": "イタリア 土産 特産品 おすすめ"
+    },
+    {
+      "id": "it_ts_025",
+      "front": "Dov'è la cassa?",
+      "back": "レジ（お会計カウンター）はどこですか？",
+      "story": "解説: 大型スーパーやデパートで支払い場所を探すときの一言。「Cassa」の看板を探しましょう。",
+      "searchQuery": "イタリア語 レジ お会計"
+    }
+  ]
+}

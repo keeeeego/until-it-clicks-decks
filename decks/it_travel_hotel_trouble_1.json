@@ -1,0 +1,186 @@
+{
+  "deckId": "it_travel_hotel_trouble_1",
+  "version": "1.0.0",
+  "schemaVersion": 2,
+  "title": "🇮🇹 旅行イタリア語 (Vol.5) ホテル滞在・美術館予約・緊急トラブル25",
+  "note": "チェックイン、美術館予約、スリ・荷物紛失・体調不良のSOS",
+  "category": "語学",
+  "subCategory": "イタリア語",
+  "cards": [
+    {
+      "id": "it_ht_001",
+      "front": "Vorrei fare il check-in",
+      "back": "チェックインをお願いします",
+      "story": "解説: フロントで予約バウチャーとパスポートを提示しながら言います。「Ho una prenotazione（予約があります）」。",
+      "searchQuery": "イタリア ホテル チェックイン"
+    },
+    {
+      "id": "it_ht_002",
+      "front": "Tassa di soggiorno",
+      "back": "宿泊税（滞在税）",
+      "story": "解説: ローマやフィレンツェ等の都市でホテル代とは別にチェックアウト時（またはチェックイン時）に現金/カードで支払う都市税。",
+      "searchQuery": "イタリア 宿泊税 観光税 相場"
+    },
+    {
+      "id": "it_ht_003",
+      "front": "Qual è la password del Wi-Fi?",
+      "back": "Wi-Fiのパスワードは何ですか？",
+      "story": "解説: フロントで尋ねるか、ルームキーのホルダーに記載されていることが多いです。",
+      "searchQuery": "イタリア ホテル ワイファイ"
+    },
+    {
+      "id": "it_ht_004",
+      "front": "A che ora è la colazione?",
+      "back": "朝食は何時からですか？",
+      "story": "解説: レストラン会場の場所も知りたい場合は「Dov'è la sala colazione?（朝食会場はどこですか？）」と続けます。",
+      "searchQuery": "イタリア ホテル 朝食 時間"
+    },
+    {
+      "id": "it_ht_005",
+      "front": "Posso lasciare i bagagli qui?",
+      "back": "チェックイン前（後）に荷物を預かってもらえますか？",
+      "story": "解説: 手ぶらで観光に出発したい時の最強フレーズ。荷物引換券（scontrino）をもらいましょう。",
+      "searchQuery": "イタリア ホテル 荷物預かり"
+    },
+    {
+      "id": "it_ht_006",
+      "front": "Non funziona l'aria condizionata",
+      "back": "エアコンが作動しません",
+      "story": "解説: イタリアの夏は酷暑になるため重要。「Non c'è acqua calda（お湯が出ません）」もホテルの必須クレーム。",
+      "searchQuery": "イタリア ホテル トラブル エアコン"
+    },
+    {
+      "id": "it_ht_007",
+      "front": "Mi sono chiuso fuori",
+      "back": "部屋の鍵を中に置いたままインロックしてしまいました",
+      "story": "解説: オートロックで締め出された時、フロントで部屋番号と名前を言えばマスターキーで開けてくれます。",
+      "searchQuery": "ホテル インロック 鍵 トラブル"
+    },
+    {
+      "id": "it_ht_008",
+      "front": "Check-out, per favore",
+      "back": "チェックアウトをお願いします",
+      "story": "解説: 鍵を返却しながら伝えます。「È stato un bel soggiorno, grazie!（とても快適な滞在でした、ありがとう！）」と添えると素敵。",
+      "searchQuery": "イタリア ホテル チェックアウト"
+    },
+    {
+      "id": "it_ht_009",
+      "front": "Ho già prenotato il biglietto",
+      "back": "すでにチケットを（オンラインで）予約しています",
+      "story": "解説: ウフィツィ美術館やコロッセオなど、予約専用列（Prenotati / Reserved）に並ぶ際に係員に見せる言葉。",
+      "searchQuery": "ウフィツィ美術館 予約 入場"
+    },
+    {
+      "id": "it_ht_010",
+      "front": "Un biglietto intero / ridotto",
+      "back": "一般チケット1枚 / 割引チケット1枚",
+      "story": "解説: 美術館の窓口購入。intero は大人通常料金、ridotto は学生や高齢者などの割引料金。",
+      "searchQuery": "イタリア 美術館 チケット 料金"
+    },
+    {
+      "id": "it_ht_011",
+      "front": "Posso fare foto?",
+      "back": "写真を撮ってもいいですか？",
+      "story": "解説: 教会や美術館内での確認。「Senza flash（フラッシュなし）」なら撮影OKの場所が多いです。",
+      "searchQuery": "イタリア 教会 美術館 写真撮影"
+    },
+    {
+      "id": "it_ht_012",
+      "front": "Coprite le spalle e le ginocchia!",
+      "back": "肩と膝を隠してください！（教会のドレスコード）",
+      "story": "解説: 【超重要トラップ】サン・ピエトロ大聖堂や各地のドゥオモでは露出度の高い服（タンクトップ・ショートパンツ）は入場拒否されます。",
+      "searchQuery": "イタリア 教会 ドレスコード 服装"
+    },
+    {
+      "id": "it_ht_013",
+      "front": "Aiuto!",
+      "back": "助けて！（緊急時の叫び）",
+      "story": "解説: 危険が迫ったときや事故の際、大声で周囲の注意を引くための最も短い叫び声。",
+      "searchQuery": "イタリア語 助けて 緊急"
+    },
+    {
+      "id": "it_ht_014",
+      "front": "Al ladro!",
+      "back": "泥棒！ / スリだ！",
+      "story": "解説: 財布やバッグを奪われた瞬間に叫ぶ言葉。周囲の通行人や警官に泥棒を追わせる合図。",
+      "searchQuery": "イタリア 旅行 スリ 被害"
+    },
+    {
+      "id": "it_ht_015",
+      "front": "Mi hanno rubato il portafoglio",
+      "back": "財布を盗まれてしまいました",
+      "story": "解説: rubare（盗む）。警察署（Carabinieri / Polizia）へ行って盗難届（Denuncia）を作成してもらう時に必須。",
+      "searchQuery": "イタリア 財布 盗難 警察署"
+    },
+    {
+      "id": "it_ht_016",
+      "front": "Ho perso il passaporto",
+      "back": "パスポートを紛失してしまいました",
+      "story": "解説: perdere（失う）。即座に警察で紛失届を作り、ローマかミラノの日本大使館・領事館へ連絡します。",
+      "searchQuery": "イタリア パスポート 紛失 大使館"
+    },
+    {
+      "id": "it_ht_017",
+      "front": "Carabinieri",
+      "back": "軍警察（カラビニエリ）",
+      "story": "解説: 黒い制服に赤い側線のパンツが特徴。街の治安維持を担っており、盗難届の受付なども行っています。",
+      "searchQuery": "イタリア カラビニエリ 警察 違い"
+    },
+    {
+      "id": "it_ht_018",
+      "front": "Dov'è la farmacia?",
+      "back": "薬局はどこですか？",
+      "story": "解説: 緑色の光る十字架看板が目印。風邪薬や胃薬、絆創膏など常備薬の購入に。",
+      "searchQuery": "イタリア 薬局 ファルマチア 看板"
+    },
+    {
+      "id": "it_ht_019",
+      "front": "Ho mal di testa / di pancia",
+      "back": "頭が痛いです / お腹が痛いです",
+      "story": "解説: 「mal di testa（頭痛）」「mal di pancia（腹痛）」「mal di gola（喉の痛み）」。薬局で症状を伝える時の一言。",
+      "searchQuery": "イタリア 薬局 症状 伝え方"
+    },
+    {
+      "id": "it_ht_020",
+      "front": "Ho la febbre",
+      "back": "熱があります",
+      "story": "解説: febbre は「熱・発熱」。「Misurare la febbre（熱を測る）」。",
+      "searchQuery": "イタリア語 発熱 風邪"
+    },
+    {
+      "id": "it_ht_021",
+      "front": "Pronto Soccorso",
+      "back": "救急病院 / 救急救命外来",
+      "story": "解説: 大病院にある救急受付。緊急で深刻な怪我や病気の際に駆け込みます。",
+      "searchQuery": "イタリア 救急病院 プロントソッコルソ"
+    },
+    {
+      "id": "it_ht_022",
+      "front": "Chiamate un'ambulanza!",
+      "back": "救急車を呼んでください！",
+      "story": "解説: イタリアの救急車呼び出し緊急番号は「118」（EU共通番号112でも繋がります）。",
+      "searchQuery": "イタリア 救急車 電話番号 118"
+    },
+    {
+      "id": "it_ht_023",
+      "front": "Ambasciata del Giappone",
+      "back": "在イタリア日本国大使館",
+      "story": "解説: ローマに大使館、ミラノに総領事館があります。重大事件やパスポート失効時の緊急連絡先。",
+      "searchQuery": "在イタリア日本大使館 連絡先"
+    },
+    {
+      "id": "it_ht_024",
+      "front": "Parla inglese?",
+      "back": "英語は話せますか？",
+      "story": "解説: 困ったときに英語が通じるか確認するフレーズ。若者や観光地のスタッフなら通じることが多いです。",
+      "searchQuery": "イタリア 英語 通じるか"
+    },
+    {
+      "id": "it_ht_025",
+      "front": "Può aiutarmi?",
+      "back": "助けていただけますか？ / 手伝っていただけますか？",
+      "story": "解説: 通行人や店員に困りごとを助けてほしい時の丁寧なアプローチ表現。",
+      "searchQuery": "イタリア語 お願い 助け"
+    }
+  ]
+}

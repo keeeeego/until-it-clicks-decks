@@ -1,0 +1,186 @@
+{
+  "deckId": "it_travel_dining_1",
+  "version": "1.0.0",
+  "schemaVersion": 2,
+  "title": "🇮🇹 旅行イタリア語 (Vol.2) バール＆トラットリア・注文・グルメ25",
+  "note": "カウンター注文、ガス入り/なし水、エスプレッソ文化、お会計",
+  "category": "語学",
+  "subCategory": "イタリア語",
+  "cards": [
+    {
+      "id": "it_td_001",
+      "front": "Un caffè, per favore",
+      "back": "エスプレッソを1杯お願いします",
+      "story": "解説: バールで 'caffè' と言うと濃厚なエスプレッソが出てきます。カウンター（banco）で飲むのが現地の流儀。",
+      "searchQuery": "イタリア バール 注文 方法"
+    },
+    {
+      "id": "it_td_002",
+      "front": "Cappuccino",
+      "back": "カプチーノ",
+      "story": "解説: イタリアでは「カプチーノは朝の飲み物」という強い文化があり、食後や午後に頼むと驚かれることがあります。",
+      "searchQuery": "イタリア カプチーノ 文化 朝"
+    },
+    {
+      "id": "it_td_003",
+      "front": "Un cornetto, per favore",
+      "back": "クロワッサンを1つお願いします",
+      "story": "解説: イタリアの定番朝食。甘いジャムやヌテッラ（チョコ）、カスタードが入った三日月型パンをカプチーノと一緒に頼みます。",
+      "searchQuery": "イタリア 朝食 バール コルネット"
+    },
+    {
+      "id": "it_td_004",
+      "front": "Al banco",
+      "back": "カウンターで（立ち飲み）",
+      "story": "解説: イタリアのバールでは「カウンター立ち飲み（al banco）」と「テーブル席（al tavolo）」で価格が異なり、立ち売りの方が格安。",
+      "searchQuery": "イタリア バール 立ち飲み 料金"
+    },
+    {
+      "id": "it_td_005",
+      "front": "Un tavolo per due, per favore",
+      "back": "2人分のテーブル席をお願いします",
+      "story": "解説: レストラン入店時の一言。3人なら 'per tre'、1人なら 'per uno' に数字を入れ替えます。",
+      "searchQuery": "イタリア レストラン 入店"
+    },
+    {
+      "id": "it_td_006",
+      "front": "Ho una prenotazione",
+      "back": "予約をしています",
+      "story": "解説: 予約済みの店に着いたとき。「Ho una prenotazione a nome Sato（サトウの名前で予約しています）」と伝えます。",
+      "searchQuery": "イタリア レストラン 予約"
+    },
+    {
+      "id": "it_td_007",
+      "front": "Il menù, per favore",
+      "back": "メニューをいただけますか？",
+      "story": "解説: 席に着いたあとメニューを持ってきてほしい時の定番フレーズ。",
+      "searchQuery": "イタリア語 メニュー 注文"
+    },
+    {
+      "id": "it_td_008",
+      "front": "Vorrei questo",
+      "back": "これをいただきたいのですが",
+      "story": "解説: メニューを指差しながら使える最も丁寧で上品な注文表現。volereの条件法1人称単数形。",
+      "searchQuery": "イタリア語 注文 条件法"
+    },
+    {
+      "id": "it_td_009",
+      "front": "Qual è il piatto tipico?",
+      "back": "この地域の郷土料理は何ですか？",
+      "story": "解説: イタリアは州や街ごとに郷土料理（cucina tipica）が全く異なるため、店員におすすめを聞く時の最高の質問。",
+      "searchQuery": "イタリア 郷土料理 おすすめ"
+    },
+    {
+      "id": "it_td_010",
+      "front": "Acqua naturale",
+      "back": "ガスなしミネラルウォーター",
+      "story": "解説: 水を頼むと必ず「ガスなしか炭酸入りか」を聞かれます。普通の水が飲みたい時は naturale と指定します。",
+      "searchQuery": "イタリア 水 種類"
+    },
+    {
+      "id": "it_td_011",
+      "front": "Acqua frizzante",
+      "back": "炭酸入りミネラルウォーター",
+      "story": "解説: シュワシュワしたガス入り水（gassata とも言います）。肉料理や油っこい料理によく合います。",
+      "searchQuery": "イタリア 炭酸水 レストラン"
+    },
+    {
+      "id": "it_td_012",
+      "front": "Vino della casa",
+      "back": "ハウスワイン（デキャンタ）",
+      "story": "解説: トラットリアでお得に美味しいワインを飲むならコレ。「Un quarto（1/4L）」「Mezzo litro（1/2L）」と量を指定します。",
+      "searchQuery": "イタリア ハウスワイン 頼み方"
+    },
+    {
+      "id": "it_td_013",
+      "front": "Vino rosso / bianco",
+      "back": "赤ワイン / 白ワイン",
+      "story": "解説: rosso（赤）、bianco（白）。「Un bicchiere di vino rosso（グラスの赤ワインを1杯）」と頼むこともできます。",
+      "searchQuery": "イタリア ワイン 注文"
+    },
+    {
+      "id": "it_td_014",
+      "front": "Coperto",
+      "back": "テーブルチャージ / 席料・パン代",
+      "story": "解説: レシートに必ず記載される固定席料（1〜3ユーロ程度）。パンやグリッシーニ代が含まれており、チップ代わりになります。",
+      "searchQuery": "イタリア コペルト チップ 文化"
+    },
+    {
+      "id": "it_td_015",
+      "front": "Primo piatto",
+      "back": "プリモ・ピアット（第1の皿：パスタ・リゾット）",
+      "story": "解説: イタリアのコース構成。前菜（Antipasto）の後に食べる炭水化物料理。メインの肉魚（Secondo）の前に食べます。",
+      "searchQuery": "イタリア料理 コース 構成"
+    },
+    {
+      "id": "it_td_016",
+      "front": "Secondo piatto",
+      "back": "セコンド・ピアット（第2の皿：メインの肉・魚料理）",
+      "story": "解説: パスタの後に来るメインディッシュ。付け合わせ（Contorno：サラダや温野菜）は別皿で頼むのが一般的。",
+      "searchQuery": "イタリア料理 セコンド 注文"
+    },
+    {
+      "id": "it_td_017",
+      "front": "Senza formaggio",
+      "back": "チーズ抜きでお願いします",
+      "story": "解説: senza（〜なしで）。魚介のパスタに粉チーズをかけるのは現地ではタブー視されるため最初からかかっていないことも多いです。",
+      "searchQuery": "イタリア料理 マナー チーズ"
+    },
+    {
+      "id": "it_td_018",
+      "front": "Sono vegetariano",
+      "back": "私はベジタリアンです",
+      "story": "解説: 女性なら 'Sono vegetariana'。アレルギーや食事制限を伝える際の基本フレーズ。",
+      "searchQuery": "イタリア語 ベジタリアン レストラン"
+    },
+    {
+      "id": "it_td_019",
+      "front": "Buon appetito!",
+      "back": "美味しく召し上がれ！ / いただきます",
+      "story": "解説: 料理が運ばれてきた時に店員や同席者が交わす挨拶。食事前の温かい定番の一言。",
+      "searchQuery": "イタリア語 食事 挨拶"
+    },
+    {
+      "id": "it_td_020",
+      "front": "È delizioso!",
+      "back": "とても美味しいです！",
+      "story": "解説: 食事中に店員が「Tutto bene?（お味はいかがですか？）」と聞きに来たときの最高の返答。",
+      "searchQuery": "イタリア語 美味しい 褒め言葉"
+    },
+    {
+      "id": "it_td_021",
+      "front": "Il conto, per favore",
+      "back": "お会計をお願いします",
+      "story": "解説: テーブルで店員と目を合わせて小さくサインを空中に書くジェスチャーをしながら伝えます。",
+      "searchQuery": "イタリア 会計 テーブルチェック"
+    },
+    {
+      "id": "it_td_022",
+      "front": "Posso pagare con la carta?",
+      "back": "クレジットカードで支払えますか？",
+      "story": "解説: イタリアでは法的に少額でもカード決済（POS）端末の設置が義務付けられていますが、事前確認すると安心です。",
+      "searchQuery": "イタリア クレジットカード 決済"
+    },
+    {
+      "id": "it_td_023",
+      "front": "Paghiamo separatamente",
+      "back": "別々にお会計できますか？",
+      "story": "解説: 割り勘を希望する時。混雑店では断られることもあるため、代表者が一括で払って後で精算するのが無難。",
+      "searchQuery": "イタリア レストラン 割り勘"
+    },
+    {
+      "id": "it_td_024",
+      "front": "Tenga il resto",
+      "back": "お釣りは取っておいてください（チップです）",
+      "story": "解説: 現金で支払い、小銭のお釣りをサービスへのチップとしてテーブルに残したいときのスマートなセリフ。",
+      "searchQuery": "イタリア チップ 相場 渡し方"
+    },
+    {
+      "id": "it_td_025",
+      "front": "Dov'è il bagno?",
+      "back": "トイレはどこですか？",
+      "story": "解説: 食事前・退店前の必須サバイバルフレーズ。レストラン奥にあるトイレを借りてから出発するのが旅の鉄則。",
+      "searchQuery": "イタリア トイレ 場所 レストラン"
+    }
+  ]
+}

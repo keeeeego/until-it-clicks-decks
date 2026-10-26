@@ -1,0 +1,186 @@
+{
+  "deckId": "it_travel_transit_1",
+  "version": "1.0.0",
+  "schemaVersion": 2,
+  "title": "🇮🇹 旅行イタリア語 (Vol.3) 街歩き・鉄道（トレニタリア）・移動25",
+  "note": "打刻機の罠、道案内、駅・切符購入、トイレの場所とサバイバル",
+  "category": "語学",
+  "subCategory": "イタリア語",
+  "cards": [
+    {
+      "id": "it_tr_001",
+      "front": "Dov'è la stazione?",
+      "back": "駅はどこですか？",
+      "story": "解説: 「Dov'è la stazione ferroviaria?（鉄道駅はどこですか？）」。中央駅は 'Stazione Centrale' と呼びます。",
+      "searchQuery": "イタリア 鉄道駅 場所"
+    },
+    {
+      "id": "it_tr_002",
+      "front": "Un biglietto per Roma, per favore",
+      "back": "ローマまでの切符を1枚お願いします",
+      "story": "解説: 駅の窓口（biglietteria）での切符購入。往復なら 'andata e ritorno'、片道なら 'solo andata' と付け加えます。",
+      "searchQuery": "イタリア 鉄道 切符 買い方"
+    },
+    {
+      "id": "it_tr_003",
+      "front": "Solo andata",
+      "back": "片道（チケット）",
+      "story": "解説: 「片道切符でお願いします」。券売機でも最初に選択する最重要単語。",
+      "searchQuery": "イタリア トレニタリア 券売機"
+    },
+    {
+      "id": "it_tr_004",
+      "front": "Andata e ritorno",
+      "back": "往復（チケット）",
+      "story": "解説: 日帰り観光などで往復切符を買いたいときの指定表現。",
+      "searchQuery": "イタリア 電車 往復切符"
+    },
+    {
+      "id": "it_tr_005",
+      "front": "Convalida il biglietto!",
+      "back": "切符に打刻して！（改札機・打刻機）",
+      "story": "解説: 【超重要トラップ】紙の普通列車切符は、乗車前にホームの刻印機（黄色や緑の機械）に通して日時を打刻しないと高額の罰金を科されます！",
+      "searchQuery": "イタリア 鉄道 打刻機 罰金 注意"
+    },
+    {
+      "id": "it_tr_006",
+      "front": "Binario",
+      "back": "（駅の）番線・ホーム",
+      "story": "解説: 「Il treno parte dal binario 4（列車は4番線から発車します）」。電光掲示板で Binario 番号を直前まで注視するのがイタリア鉄道の常識。",
+      "searchQuery": "イタリア 電光掲示板 binario 見方"
+    },
+    {
+      "id": "it_tr_007",
+      "front": "In ritardo",
+      "back": "遅延・遅れて",
+      "story": "解説: 「Il treno è in ritardo di 15 minuti（列車は15分遅延しています）」。電光掲示板の赤字 Ritardo は日常茶飯事。",
+      "searchQuery": "トレニタリア 遅延 トラブル"
+    },
+    {
+      "id": "it_tr_008",
+      "front": "Questo treno va a Firenze?",
+      "back": "この電車はフィレンツェに行きますか？",
+      "story": "解説: 乗車直前にホームの乗務員や乗客に確認して誤乗車を防ぐサバイバルフレーズ。",
+      "searchQuery": "イタリア 電車 行き先 確認"
+    },
+    {
+      "id": "it_tr_009",
+      "front": "Scusi, questo è il mio posto",
+      "back": "すみません、ここは私の指定席です",
+      "story": "解説: 高速列車（フレッチャロッサやイタロ）で自分の席に誰かが座っていた時、チケットを見せながら毅然と伝える一言。",
+      "searchQuery": "イタリア 高速鉄道 座席 トラブル"
+    },
+    {
+      "id": "it_tr_010",
+      "front": "Prossima fermata",
+      "back": "次の停車駅",
+      "story": "解説: 車内アナウンスや電光掲示板の案内表示。「La prossima fermata è Napoli Centrale」。",
+      "searchQuery": "イタリア 列車 アナウンス"
+    },
+    {
+      "id": "it_tr_011",
+      "front": "Dov'è la fermata dell'autobus?",
+      "back": "バス停はどこですか？",
+      "story": "解説: autubus（バス）の fermata（停留所）。バスの切符は車内ではなく街のタバコ屋（Tabacchi）で事前購入するのがイタリアの掟。",
+      "searchQuery": "イタリア バス 乗り方 タバッキ"
+    },
+    {
+      "id": "it_tr_012",
+      "front": "Tabacchi",
+      "back": "タバッキ（街の売店・タバコ屋）",
+      "story": "解説: 「T」マークの看板が目印。タバコだけでなく、バスや地下鉄の切符、切手、お菓子などを販売する街の万能キオスク。",
+      "searchQuery": "イタリア タバッキ 切符 買い方"
+    },
+    {
+      "id": "it_tr_013",
+      "front": "Metropolitana",
+      "back": "地下鉄（メトロ）",
+      "story": "解説: 赤い四角に白い「M」のマークが目印。ローマやミラノの観光地移動に必須。",
+      "searchQuery": "ローマ 地下鉄 乗り方"
+    },
+    {
+      "id": "it_tr_014",
+      "front": "Taxi",
+      "back": "タクシー",
+      "story": "解説: イタリアのタクシーは流し（道端で手を挙げて拾う）が禁止されているため、駅前の「TAXI乗り場（posteggio taxi）」から乗るか電話・アプリで呼びます。",
+      "searchQuery": "イタリア タクシー 乗り場 注意"
+    },
+    {
+      "id": "it_tr_015",
+      "front": "A questo indirizzo, per favore",
+      "back": "この住所までお願いします",
+      "story": "解説: スマホの地図やホテルのカードを見せながらタクシー運転手に渡すのが最も確実。",
+      "searchQuery": "イタリア タクシー 行き先 伝え方"
+    },
+    {
+      "id": "it_tr_016",
+      "front": "Usi il tassametro, per favore",
+      "back": "メーターを使ってください",
+      "story": "解説: ぼったくり防止。走り出した瞬間にメーター（tassametro）が作動しているか確認しましょう。",
+      "searchQuery": "イタリア タクシー ぼったくり 防止"
+    },
+    {
+      "id": "it_tr_017",
+      "front": "Mi scusi, mi sono perso",
+      "back": "すみません、道に迷ってしまいました",
+      "story": "解説: 女性なら 'mi sono persa'。通行人や警官に助けを求める時の第一声。",
+      "searchQuery": "イタリア語 道に迷った"
+    },
+    {
+      "id": "it_tr_018",
+      "front": "Sempre diritto",
+      "back": "まっすぐ（直進）",
+      "story": "解説: 道案内で最もよく返ってくるフレーズ。「Vada sempre diritto（このまま真っ直ぐ進んでください）」。",
+      "searchQuery": "イタリア語 道案内 フレーズ"
+    },
+    {
+      "id": "it_tr_019",
+      "front": "A sinistra",
+      "back": "左へ（左側に）",
+      "story": "解説: 「Giri a sinistra（左に曲がってください）」。「Mano sinistra（左手）」。",
+      "searchQuery": "イタリア語 左右 道案内"
+    },
+    {
+      "id": "it_tr_020",
+      "front": "A destra",
+      "back": "右へ（右側に）",
+      "story": "解説: 「Giri a destra（右に曲がってください）」。straight（まっすぐ＝diritto）と destra を聞き間違えないよう注意。",
+      "searchQuery": "イタリア語 右折 左折"
+    },
+    {
+      "id": "it_tr_021",
+      "front": "È vicino / lontano?",
+      "back": "近いですか？ / 遠いですか？",
+      "story": "解説: 「È lontano da qui?（ここから遠いですか？）」。歩いて行ける距離か確認する時の表現。",
+      "searchQuery": "イタリア語 距離 尋ね方"
+    },
+    {
+      "id": "it_tr_022",
+      "front": "A piedi",
+      "back": "徒歩で",
+      "story": "解説: 「Ci si può andare a piedi?（歩いて行けますか？）」。piedi は「足」。",
+      "searchQuery": "イタリア 街歩き 徒歩"
+    },
+    {
+      "id": "it_tr_023",
+      "front": "Entrata",
+      "back": "入口",
+      "story": "解説: 観光地や駅の入り口表示。「Ingresso（イングレッソ）」とも書かれます。",
+      "searchQuery": "イタリア語 案内板 入口"
+    },
+    {
+      "id": "it_tr_024",
+      "front": "Uscita",
+      "back": "出口",
+      "story": "解説: 駅や高速道路の出口表示。「Uscita di sicurezza」は非常口。",
+      "searchQuery": "イタリア語 出口 案内"
+    },
+    {
+      "id": "it_tr_025",
+      "front": "Attenzione ai borseggiatori!",
+      "back": "スリにご注意ください！",
+      "story": "解説: 駅や地下鉄、観光地で流れる注意アナウンス。borseggiatore は「スリ」。バッグは必ず体の前で抱えましょう。",
+      "searchQuery": "イタリア 旅行 スリ 対策 治安"
+    }
+  ]
+}
