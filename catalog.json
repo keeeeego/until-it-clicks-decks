@@ -228,5 +228,89 @@
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_8.json",
     "version": "1.1.0",
     "updatedAt": "2026-10-26"
+  },
+  {
+    "id": "zh_basic_survival_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-26",
+    "schemaVersion": 2,
+    "title": "🇨🇳 中国語 (Vol.1) ゼロからの一歩！超キホン挨拶・相槌・数字50",
+    "note": "ニーハオからお礼、すみません、1〜100の数字まで完全制覇",
+    "category": "語学",
+    "subCategory": "中国語",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_basic_survival_1.json"
+  },
+  {
+    "id": "zh_travel_dining_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-26",
+    "schemaVersion": 2,
+    "title": "🇨🇳 旅行中国語 (Vol.2) 必食グルメ・屋台・注文25",
+    "note": "买单(お会計)、おすすめ、パクチー抜き、氷水など即戦力25選",
+    "category": "語学",
+    "subCategory": "中国語",
+    "cardCount": 25,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_travel_dining_1.json"
+  },
+  {
+    "id": "zh_travel_shopping_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-26",
+    "schemaVersion": 2,
+    "title": "🇨🇳 旅行中国語 (Vol.3) 買い物・値引き・スマホ決済25",
+    "note": "いくら？、安くして、アリペイ・WeChat Payの必須フレーズ",
+    "category": "語学",
+    "subCategory": "中国語",
+    "cardCount": 25,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_travel_shopping_1.json"
+  },
+  {
+    "id": "zh_travel_transit_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-26",
+    "schemaVersion": 2,
+    "title": "🇨🇳 旅行中国語 (Vol.4) 街歩き・地下鉄・タクシー25",
+    "note": "ここへ行って、トイレはどこ？、切符購入と移動の決定版",
+    "category": "語学",
+    "subCategory": "中国語",
+    "cardCount": 25,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_travel_transit_1.json"
+  },
+  {
+    "id": "zh_travel_hotel_trouble_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-26",
+    "schemaVersion": 2,
+    "title": "🇨🇳 旅行中国語 (Vol.5) ホテル滞在＆緊急トラブル25",
+    "note": "チェックイン、Wi-Fi、荷物預け、紛失・体調不良のレスキュー25選",
+    "category": "語学",
+    "subCategory": "中国語",
+    "cardCount": 25,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_travel_hotel_trouble_1.json"
+  },
+  {
+    "id": "zh_vocab_core_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-26",
+    "schemaVersion": 2,
+    "title": "🇨🇳 中国語キホン単語 (Vol.6) 最重要・基礎動詞＆形容詞50",
+    "note": "行く・見る・食べる・大きい・忙しいなどHSK1〜2級レベルの基礎50選",
+    "category": "語学",
+    "subCategory": "中国語",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_vocab_core_1.json"
+  },
+  {
+    "id": "zh_vocab_core_2",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-26",
+    "schemaVersion": 2,
+    "title": "🇨🇳 中国語キホン単語 (Vol.7) 生活名詞＆日常表現50",
+    "note": "家族・時間・場所・交通機関など日常会話を形づくる核となる名詞50選",
+    "category": "語学",
+    "subCategory": "中国語",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_vocab_core_2.json"
   }
 ]
