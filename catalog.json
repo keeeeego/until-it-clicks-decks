@@ -514,5 +514,16 @@
     "subCategory": "G検定",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_vision_time_1.json"
+  },
+  {
+    "id": "g_kentei_nlp_genai_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "💬 G検定 (Vol.3) 自然言語処理・Transformer・生成AI 50",
+    "note": "G検定向け自然言語処理・生成AI用語集",
+    "category": "資格・AI",
+    "subCategory": "G検定",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_nlp_genai_1.json"
   }
 ]
