@@ -1,0 +1,149 @@
+{
+  "deckId": "travel_eng_airport_sample_20",
+  "title": "🛫 空港・入国審査で使える英会話20",
+  "note": "空港での手続きをスムーズに！",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "Boarding pass",
+      "back": "搭乗券",
+      "story": "飛行機に乗るための証明書で、搭乗口や座席番号が記載されています。最近ではスマホアプリで表示するe-チケットも一般的です。",
+      "searchQuery": "Boarding pass meaning, e-ticket"
+    },
+    {
+      "id": "card_002",
+      "front": "Passport control",
+      "back": "入国審査",
+      "story": "国境を越える際、パスポートの確認と入国許可を得る手続きです。質問に簡潔に答えられるよう準備しましょう。",
+      "searchQuery": "Immigration interview tips, passport control process"
+    },
+    {
+      "id": "card_003",
+      "front": "Customs declaration",
+      "back": "税関申告",
+      "story": "持ち込み品について税関に申告する手続き。免税範囲を超える品物や禁止品がないか確認されます。正直に申告が大切です。",
+      "searchQuery": "Customs declaration form, duty-free allowance"
+    },
+    {
+      "id": "card_004",
+      "front": "Terminal",
+      "back": "ターミナル（空港の建物）",
+      "story": "空港の施設群を指し、出発・到着ロビーやチェックインカウンターなどがあります。大きな空港では複数存在します。",
+      "searchQuery": "Airport terminal map, what is a terminal"
+    },
+    {
+      "id": "card_005",
+      "front": "Gate number",
+      "back": "搭乗口番号",
+      "story": "飛行機に搭乗する場所を示します。搭乗券に記載されており、空港内の案内板で確認できます。時間に余裕を持って向かいましょう。",
+      "searchQuery": "Airport gate information, finding your gate"
+    },
+    {
+      "id": "card_006",
+      "front": "Check-in counter",
+      "back": "チェックインカウンター",
+      "story": "航空会社に搭乗手続きを行い、荷物を預ける場所です。最近は自動チェックイン機やオンラインチェックインも増えています。",
+      "searchQuery": "Airport check-in process, online check-in benefits"
+    },
+    {
+      "id": "card_007",
+      "front": "Security check",
+      "back": "保安検査",
+      "story": "危険物の持ち込みを防ぐため、手荷物検査やボディチェックが行われます。液体物の制限や電子機器の取り扱いに注意が必要です。",
+      "searchQuery": "Airport security rules, liquid restrictions airplane"
+    },
+    {
+      "id": "card_008",
+      "front": "Duty-free shop",
+      "back": "免税店",
+      "story": "出国手続き後に利用できる、消費税や関税が免除された店舗です。お土産やブランド品を割安で購入できます。",
+      "searchQuery": "Duty-free shopping benefits, airport duty-free items"
+    },
+    {
+      "id": "card_009",
+      "front": "Baggage claim",
+      "back": "手荷物受取所",
+      "story": "到着した空港で預けた荷物を受け取る場所。自分のフライト番号が表示されたターンテーブルで荷物を見つけましょう。",
+      "searchQuery": "Lost luggage claim, baggage claim tag"
+    },
+    {
+      "id": "card_010",
+      "front": "Carry-on bag",
+      "back": "機内持ち込み手荷物",
+      "story": "座席の上や足元に置ける、機内に持ち込むことができる荷物。サイズや重量に制限があるので、事前に確認が必要です。",
+      "searchQuery": "Carry-on luggage dimensions, what to pack in carry-on"
+    },
+    {
+      "id": "card_011",
+      "front": "Connecting flight",
+      "back": "乗り継ぎ便",
+      "story": "目的地まで直行せず、途中の空港で別の飛行機に乗り換えるフライト。乗り継ぎ時間が短いと注意が必要です。",
+      "searchQuery": "Connecting flight tips, short layover strategy"
+    },
+    {
+      "id": "card_012",
+      "front": "Layover",
+      "back": "乗り継ぎ時間（待機）",
+      "story": "乗り継ぎ便の間の待機時間。数時間の場合もあれば、一泊を伴う長いものもあります。空港内散策やラウンジ利用も良いでしょう。",
+      "searchQuery": "Long layover activities, airport lounge access"
+    },
+    {
+      "id": "card_013",
+      "front": "Declare (at customs)",
+      "back": "申告する（税関で）",
+      "story": "持ち込み品が免税範囲を超える場合や、特定の品物（現金、高価品など）がある場合に口頭または書類で報告することです。",
+      "searchQuery": "Customs declaration rules, what to declare at customs"
+    },
+    {
+      "id": "card_014",
+      "front": "Visa",
+      "back": "査証（ビザ）",
+      "story": "外国人がその国に入国・滞在するために必要な許可証。訪問する国の種類や滞在期間によって取得が必要か異なります。",
+      "searchQuery": "Visa requirements by country, types of visas"
+    },
+    {
+      "id": "card_015",
+      "front": "Boarding time",
+      "back": "搭乗開始時間",
+      "story": "飛行機への搭乗が始まる時間。通常、出発時刻の30分から1時間前。この時間までにゲートに到着しているのが望ましいです。",
+      "searchQuery": "Boarding time vs departure time, missing boarding time"
+    },
+    {
+      "id": "card_016",
+      "front": "Departure lounge",
+      "back": "出発ロビー（搭乗待合室）",
+      "story": "保安検査を通過した後、飛行機に搭乗するまでの待機場所。免税店やレストラン、カフェなどがあります。",
+      "searchQuery": "Airport departure lounge facilities, what to do in departure lounge"
+    },
+    {
+      "id": "card_017",
+      "front": "Arrival",
+      "back": "到着",
+      "story": "飛行機が目的地に到着すること。空港の案内板では「Arrivals」と表示され、到着便の情報を確認できます。",
+      "searchQuery": "Airport arrival procedures, international arrival process"
+    },
+    {
+      "id": "card_018",
+      "front": "Departure",
+      "back": "出発",
+      "story": "飛行機が空港から飛び立つこと。空港の案内板では「Departures」と表示され、出発便の情報を確認できます。",
+      "searchQuery": "Airport departure procedures, flight departure status"
+    },
+    {
+      "id": "card_019",
+      "front": "Overhead bin",
+      "back": "頭上の収納棚",
+      "story": "機内の座席上部にある手荷物収納スペース。重いものや大きい手荷物はここに収納し、通路の邪魔にならないようにします。",
+      "searchQuery": "Overhead bin size limits, how to use overhead bin"
+    },
+    {
+      "id": "card_020",
+      "front": "Immigration officer",
+      "back": "入国審査官",
+      "story": "入国審査を行う係官。パスポートの確認や入国目的の質問などを通して、入国許可を判断する重要な役割を担います。",
+      "searchQuery": "Immigration officer questions, how to answer immigration questions"
+    }
+  ]
+}
