@@ -525,5 +525,16 @@
     "subCategory": "G検定",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_nlp_genai_1.json"
+  },
+  {
+    "id": "g_kentei_law_ethics_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "⚖️ G検定 (Vol.4) 強化学習・法律・倫理・社会実装40",
+    "note": "G検定重要テーマを厳選！",
+    "category": "資格・AI",
+    "subCategory": "G検定",
+    "cardCount": 40,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_law_ethics_1.json"
   }
 ]
