@@ -536,5 +536,16 @@
     "subCategory": "G検定",
     "cardCount": 40,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_law_ethics_1.json"
+  },
+  {
+    "id": "kanken_2_writing_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "💮 漢検2級 (Vol.1) 頻出・書き取り＆同音異義語50",
+    "note": "漢検2級の頻出書き取り問題を厳選！",
+    "category": "資格・検定",
+    "subCategory": "漢検",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_writing_1.json"
   }
 ]
