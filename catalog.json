@@ -503,5 +503,16 @@
     "subCategory": "一般",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_50_1.json"
+  },
+  {
+    "id": "g_kentei_vision_time_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "👁️ G検定 (Vol.2) CNN・画像認識＆時系列50",
+    "note": "CNN、画像認識、RNN、時系列の必須用語",
+    "category": "資格・AI",
+    "subCategory": "G検定",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_vision_time_1.json"
   }
 ]
