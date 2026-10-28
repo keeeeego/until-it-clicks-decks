@@ -483,5 +483,14 @@
     "subCategory": "イタリア史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_italy_4.json"
+  },
+  {
+    "id": "travel_eng_airport_sample_20",
+    "title": "🛫 空港・入国審査で使える英会話20",
+    "note": "空港での手続きをスムーズに！",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 20,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_airport_sample_20.json"
   }
 ]
