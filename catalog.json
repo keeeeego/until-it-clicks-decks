@@ -547,5 +547,16 @@
     "subCategory": "漢検",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_writing_1.json"
+  },
+  {
+    "id": "kanken_2_reading_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "💮 漢検2級 (Vol.2) 差がつく同訓異字＆送り仮名50",
+    "note": "同訓異字と送り仮名の要点50問",
+    "category": "資格・検定",
+    "subCategory": "漢検",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_reading_1.json"
   }
 ]
