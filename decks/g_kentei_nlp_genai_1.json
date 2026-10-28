@@ -1,0 +1,362 @@
+{
+  "deckId": "g_kentei_nlp_genai_1",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "💬 G検定 (Vol.3) 自然言語処理・Transformer・生成AI 50",
+  "note": "G検定向け自然言語処理・生成AI用語集",
+  "category": "資格・AI",
+  "subCategory": "G検定",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "単語の意味をベクトル化する技術",
+      "back": "Word2vec",
+      "story": "「Word2vec」は、単語の共起関係からその意味を数値（ベクトル）で表現します。「王様 - 男 + 女 = 女王様」のような面白い計算ができると話題になりました。",
+      "searchQuery": "Word2vec 仕組み"
+    },
+    {
+      "id": "card_002",
+      "front": "自然言語処理の画期的なモデルアーキテクチャ",
+      "back": "Transformer",
+      "story": "「Transformer」は、Googleが2017年に発表し、RNNの課題を解決。並列処理が可能になり、BERTやGPTの基盤となりました。「Attention Is All You Need」という論文タイトルも有名です。",
+      "searchQuery": "Transformer モデル Attention"
+    },
+    {
+      "id": "card_003",
+      "front": "Transformerの核となる、文中の重要箇所に注目する仕組み",
+      "back": "Attention機構",
+      "story": "「Attention機構」は、人間が文章を読む際に重要な部分に意識を集中するように、モデルも文中の関連性の高い単語に重み付けをして処理します。長文の依存関係も捉えやすくなりました。",
+      "searchQuery": "Attention機構 自己注意"
+    },
+    {
+      "id": "card_004",
+      "front": "Transformerで単語の順序情報を付与する技術",
+      "back": "位置エンコーディング (Positional Encoding)",
+      "story": "Transformerは並列処理のため、単語の順序が失われます。そこで「位置エンコーディング」により、各単語の絶対的・相対的な位置情報を埋め込みベクトルに加えることで、順序をモデルに伝えます。",
+      "searchQuery": "Transformer 位置エンコーディング"
+    },
+    {
+      "id": "card_005",
+      "front": "Googleが開発した双方向Transformerベースの事前学習モデル",
+      "back": "BERT (Bidirectional Encoder Representations from Transformers)",
+      "story": "「BERT」は、文脈を双方向から学習することで、より高い精度を実現しました。穴埋め問題（Masked Language Model）と次文予測（Next Sentence Prediction）で事前学習されます。",
+      "searchQuery": "BERT 仕組み MLM NSP"
+    },
+    {
+      "id": "card_006",
+      "front": "OpenAIが開発したTransformerベースの自己回帰型言語モデル",
+      "back": "GPT (Generative Pre-trained Transformer)",
+      "story": "「GPT」は、Transformerのデコーダー部分を使い、前の単語から次の単語を予測する自己回帰的に文章を生成します。そのため、自然な文章生成能力に優れています。",
+      "searchQuery": "GPT 自己回帰 生成AI"
+    },
+    {
+      "id": "card_007",
+      "front": "数十億〜数千億パラメータを持つ巨大な言語モデル",
+      "back": "大規模言語モデル (LLM: Large Language Model)",
+      "story": "「LLM」は、膨大なテキストデータで学習され、驚くほどの言語理解・生成能力を持ちます。パラメータ数が増えるほど、創発的な能力（Emergent Abilities）が生まれることが指摘されています。",
+      "searchQuery": "LLM 特徴 創発的"
+    },
+    {
+      "id": "card_008",
+      "front": "テキスト、画像、音声などを新たに作り出すAIの総称",
+      "back": "生成AI (Generative AI)",
+      "story": "「生成AI」は、既存のデータから学習したパターンに基づき、オリジナルのコンテンツを生成します。2022年頃からChatGPTやStable Diffusionの登場で爆発的に注目を集めました。",
+      "searchQuery": "生成AI 種類 ユースケース"
+    },
+    {
+      "id": "card_009",
+      "front": "ノイズから画像を生成する確率モデル",
+      "back": "拡散モデル (Diffusion Model)",
+      "story": "「拡散モデル」は、まず画像にノイズを徐々に加えていき、その逆の過程（ノイズ除去）を学習することで画像を生成します。Stable DiffusionやDALL-E 2の基盤技術です。",
+      "searchQuery": "拡散モデル 仕組み Stable Diffusion"
+    },
+    {
+      "id": "card_010",
+      "front": "外部知識を検索して回答生成に活用する手法",
+      "back": "RAG (Retrieval-Augmented Generation)",
+      "story": "「RAG」は、LLMが知らない情報や最新情報を補うため、外部DBから関連情報を検索し、参考に回答を生成。ハルシネーション（幻覚）を減らす効果も期待されます。",
+      "searchQuery": "RAG 仕組み LLM ハルシネーション"
+    },
+    {
+      "id": "card_011",
+      "front": "大規模モデルの効率的なファインチューニング手法",
+      "back": "LoRA (Low-Rank Adaptation)",
+      "story": "「LoRA」は、大規模モデルの全パラメータ更新ではなく、ごく一部の低ランク行列を追加・学習することで、計算コストとメモリ消費を大幅削減し、性能を維持します。",
+      "searchQuery": "LoRA ファインチューニング PEFT"
+    },
+    {
+      "id": "card_012",
+      "front": "事前学習済みモデルを特定のタスクに最適化する学習",
+      "back": "ファインチューニング (Fine-tuning)",
+      "story": "「ファインチューニング」は、汎用的な知識を持つ事前学習済みモデルを、特定の少量データで再学習させることで、そのタスクに特化した高い性能を引き出す手法です。",
+      "searchQuery": "ファインチューニング 事前学習 転移学習"
+    },
+    {
+      "id": "card_013",
+      "front": "生成AIから望む出力を得るための指示文の工夫",
+      "back": "プロンプトエンジニアリング (Prompt Engineering)",
+      "story": "「プロンプトエンジニアリング」は、AIへの指示文（プロンプト）をいかに工夫して書くかという技術です。これにより、AIの潜在能力を最大限に引き出し、より精度の高い回答を得られます。",
+      "searchQuery": "プロンプトエンジニアリング コツ LLM"
+    },
+    {
+      "id": "card_014",
+      "front": "生成AIが事実に基づかない情報を生成すること",
+      "back": "ハルシネーション (Hallucination)",
+      "story": "「ハルシネーション」は、AIが自信ありげにデタラメな情報を生成する現象です。学習データにない情報や、曖昧な指示に対して発生しやすく、利用時には注意が必要です。",
+      "searchQuery": "AI ハルシネーション 対策"
+    },
+    {
+      "id": "card_015",
+      "front": "テキストをAIが処理できる最小単位に分割する工程",
+      "back": "トークン化 (Tokenization)",
+      "story": "「トークン化」は、文章を単語やサブワード、文字などの「トークン」に分割する処理です。例えば\"unbelievable\"は\"un\" \"##believe\" \"##able\"のように分割されることがあります。",
+      "searchQuery": "トークン化 サブワード"
+    },
+    {
+      "id": "card_016",
+      "front": "トークンや単語を多次元ベクトルで表現する技術",
+      "back": "埋め込み (Embedding)",
+      "story": "「埋め込み」は、単語やトークンが持つ意味を数値のベクトルで表現します。これにより、意味的に近い単語はベクトル空間上で近くに配置され、AIが単語の意味を理解しやすくなります。",
+      "searchQuery": "単語埋め込み 意味"
+    },
+    {
+      "id": "card_017",
+      "front": "ラベル付けされていないデータから、自分自身で教師信号を生成して学習する手法",
+      "back": "自己教師あり学習 (Self-supervised Learning)",
+      "story": "「自己教師あり学習」は、大量のラベルなしデータから、一部を隠したり加工したりして問題を生成し、それを予測することで学習を進めます。BERTの穴埋め問題などが代表例です。",
+      "searchQuery": "自己教師あり学習 事前学習"
+    },
+    {
+      "id": "card_018",
+      "front": "あるタスクで学習したモデルを別のタスクに応用する手法",
+      "back": "転移学習 (Transfer Learning)",
+      "story": "「転移学習」は、例えば画像認識で学習済みのモデルの知識を、別の類似画像認識タスクに適用することで、少ないデータでも高い性能を発揮させる効率的な学習方法です。",
+      "searchQuery": "転移学習 メリット"
+    },
+    {
+      "id": "card_019",
+      "front": "複数の異なる情報形式（テキスト、画像、音声など）を統合して処理するAI",
+      "back": "マルチモーダルAI",
+      "story": "「マルチモーダルAI」は、人間が五感で世界を認識するように、テキストだけでなく画像や音声など複数の情報を同時に理解・生成できるAIです。より高度な認識や対話が可能になります。",
+      "searchQuery": "マルチモーダルAI 事例"
+    },
+    {
+      "id": "card_020",
+      "front": "未知のタスクやクラスに対し、一度も学習せずに推論する能力",
+      "back": "ゼロショット学習 (Zero-shot Learning)",
+      "story": "「ゼロショット学習」は、例えば「見たことのない動物」を言葉による説明だけで識別するような能力です。LLMは大量の事前学習により、この能力を持つことがあります。",
+      "searchQuery": "ゼロショット学習 LLM"
+    },
+    {
+      "id": "card_021",
+      "front": "少数の具体例（数ショット）を与えることで、未知のタスクを解く能力",
+      "back": "フューショット学習 (Few-shot Learning)",
+      "story": "「フューショット学習」は、LLMにタスクの例を数個だけ提示することで、そのタスクのルールを理解させ、新たな問題に対応させる手法です。プロンプトエンジニアリングと密接に関わります。",
+      "searchQuery": "フューショット学習 LLM プロンプト"
+    },
+    {
+      "id": "card_022",
+      "front": "モデルのパラメータを更新せず、プロンプト内で学習させること",
+      "back": "In-context Learning",
+      "story": "「In-context Learning」は、フューショット学習のように、プロンプト内にタスクの例をいくつか含めることで、モデルがその場で学習し、正しい出力を生成する能力を指します。",
+      "searchQuery": "In-context Learning フューショット"
+    },
+    {
+      "id": "card_023",
+      "front": "複雑な問題を段階的な思考プロセスで解かせるプロンプト手法",
+      "back": "Chain-of-Thought (CoT)",
+      "story": "「CoT」は、LLMに最終的な答えだけでなく、その答えに至るまでの思考過程を段階的に出力させることで、複雑な問題解決能力を向上させるプロンプト技法です。",
+      "searchQuery": "Chain-of-Thought プロンプト"
+    },
+    {
+      "id": "card_024",
+      "front": "大規模モデルのファインチューニングを効率化する手法群",
+      "back": "PEFT (Parameter-Efficient Fine-Tuning)",
+      "story": "「PEFT」は、LoRAのように、モデル全体を再学習するのではなく、ごく一部のパラメータのみを学習させることで、計算コストやメモリ消費を大幅に削減し、効率的なチューニングを可能にします。",
+      "searchQuery": "PEFT LoRA 効率化"
+    },
+    {
+      "id": "card_025",
+      "front": "生成器と識別器が競い合いながら学習する生成モデル",
+      "back": "敵対的生成ネットワーク (GAN: Generative Adversarial Network)",
+      "story": "「GAN」は、偽画像を生成する「生成器」と、本物か見分ける「識別器」が競い合い学習することで、非常にリアルな画像を生成できるようになる画期的な手法です。",
+      "searchQuery": "GAN 仕組み 生成器 識別器"
+    },
+    {
+      "id": "card_026",
+      "front": "離散的な潜在表現を持つ変分オートエンコーダ",
+      "back": "VQ-VAE (Vector Quantized Variational AutoEncoder)",
+      "story": "「VQ-VAE」は、画像を圧縮して離散的なコード（デジタルな表現）に変換し、それを元に画像を再構築します。DALL-Eなどの画像生成モデルの基盤技術の一つです。",
+      "searchQuery": "VQ-VAE DALL-E 離散"
+    },
+    {
+      "id": "card_027",
+      "front": "画像とテキストの関連性を学習するモデル",
+      "back": "CLIP (Contrastive Language-Image Pre-training)",
+      "story": "「CLIP」は、インターネット上の大量の画像とテキストのペアから学習し、画像とテキストのどちらからも同じ意味空間に埋め込むことで、両者の関連性を理解します。画像検索やゼロショット分類に活用されます。",
+      "searchQuery": "CLIP 画像認識 テキスト"
+    },
+    {
+      "id": "card_028",
+      "front": "画像生成に広く利用されるオープンソースの拡散モデル",
+      "back": "Stable Diffusion",
+      "story": "「Stable Diffusion」は、テキストから画像を生成するオープンソースのモデルで、その高い性能とカスタマイズ性から爆発的に普及しました。多くの派生モデルやツールが生まれています。",
+      "searchQuery": "Stable Diffusion 画像生成 オープンソース"
+    },
+    {
+      "id": "card_029",
+      "front": "OpenAIが開発したテキストから画像を生成するモデル",
+      "back": "DALL-E",
+      "story": "「DALL-E」は、テキストの説明文から驚くほど多様で創造的な画像を生成するAIです。「ダリ」と「ウォーリー」から名付けられました。",
+      "searchQuery": "DALL-E OpenAI 画像生成"
+    },
+    {
+      "id": "card_030",
+      "front": "人間のフィードバックで調整されたGPTモデル",
+      "back": "InstructGPT",
+      "story": "「InstructGPT」は、人間のフィードバックでモデルを調整する「RLHF」により、指示に忠実で安全な応答能力を向上。ChatGPTの基盤技術となりました。",
+      "searchQuery": "InstructGPT RLHF ChatGPT"
+    },
+    {
+      "id": "card_031",
+      "front": "OpenAIが開発した対話型AIチャットボット",
+      "back": "ChatGPT",
+      "story": "「ChatGPT」は、InstructGPTをベースにした画期的な対話型AIで、自然な会話能力と多様なタスク処理能力で世界中に衝撃を与えました。生成AIブームの火付け役です。",
+      "searchQuery": "ChatGPT OpenAI 対話AI"
+    },
+    {
+      "id": "card_032",
+      "front": "Googleが開発したマルチモーダル大規模言語モデル",
+      "back": "Gemini",
+      "story": "「Gemini」は、Googleが開発した次世代のLLMで、テキストだけでなく画像や音声など複数の情報形式を統合的に処理できる「マルチモーダル」な能力が特徴です。",
+      "searchQuery": "Gemini Google マルチモーダル"
+    },
+    {
+      "id": "card_033",
+      "front": "Anthropicが開発した安全性を重視した大規模言語モデル",
+      "back": "Claude",
+      "story": "「Claude」は、Anthropic社が開発したLLMで、AIの安全性や倫理性に特に焦点を当て、「Constitutional AI」というアプローチで有害な出力を抑制する設計思想を持っています。",
+      "searchQuery": "Claude Anthropic 安全性"
+    },
+    {
+      "id": "card_034",
+      "front": "時系列データ処理に用いられる再帰型ニューラルネットワーク",
+      "back": "RNN (Recurrent Neural Network)",
+      "story": "「RNN」は、過去の情報を内部状態（隠れ状態）として保持し、次の入力に利用することで、文章や音声のような時系列データを処理できます。しかし、長距離の依存関係は苦手でした。",
+      "searchQuery": "RNN 時系列 隠れ状態"
+    },
+    {
+      "id": "card_035",
+      "front": "RNNの課題を解決した長期記憶を持つニューラルネットワーク",
+      "back": "LSTM (Long Short-Term Memory)",
+      "story": "「LSTM」は、RNNの勾配消失問題を解決し、セル状態とゲート機構（入力、忘却、出力）により、より長い期間の情報を記憶・利用できるように改良されました。",
+      "searchQuery": "LSTM 勾配消失 長期記憶"
+    },
+    {
+      "id": "card_036",
+      "front": "ある系列データから別の系列データを生成するモデル",
+      "back": "Seq2Seqモデル (Sequence to Sequence model)",
+      "story": "「Seq2Seqモデル」は、翻訳のように、入力の系列（例：英語の文）から出力の系列（例：日本語の文）を生成するモデルです。エンコーダーとデコーダーで構成されます。",
+      "searchQuery": "Seq2Seq 翻訳 エンコーダー デコーダー"
+    },
+    {
+      "id": "card_037",
+      "front": "Seq2Seqモデルにおける入力解釈と出力生成の役割",
+      "back": "エンコーダー・デコーダー (Encoder-Decoder)",
+      "story": "「エンコーダー」は入力系列を固定長のベクトル（文脈ベクトル）に変換し、「デコーダー」はそのベクトルと過去の出力を基に新しい系列を生成します。Transformerもこの構造を拡張しています。",
+      "searchQuery": "エンコーダー デコーダー Seq2Seq"
+    },
+    {
+      "id": "card_038",
+      "front": "モデルの入力に特定の「プロンプト」を追加して性能を向上させる手法",
+      "back": "プロンプトチューニング (Prompt Tuning)",
+      "story": "「プロンプトチューニング」は、モデルの重みを変更せず、入力シーケンスの前に小さな学習可能なベクトル（ソフトプロンプト）を追加することで、特定のタスクにモデルを適応させるPEFTの一種です。",
+      "searchQuery": "プロンプトチューニング PEFT ソフトプロンプト"
+    },
+    {
+      "id": "card_039",
+      "front": "人間のフィードバックでAIモデルを改善する強化学習手法",
+      "back": "RLHF (Reinforcement Learning from Human Feedback)",
+      "story": "「RLHF」は、人間がAI出力の良し悪しを評価し、そのフィードバックを報酬信号としてモデルを学習させる強化学習。InstructGPTやChatGPTの性能向上に貢献しました。",
+      "searchQuery": "RLHF 強化学習 人間フィードバック"
+    },
+    {
+      "id": "card_040",
+      "front": "大規模モデルが特定のスケールを超えた時に突如現れる能力",
+      "back": "創発的能力 (Emergent Abilities)",
+      "story": "「創発的能力」は、モデルの規模が大きくなるにつれて、それまでの小さなモデルには見られなかったような、予期せぬ新しい能力が突然現れる現象を指します。複雑な推論などがその例です。",
+      "searchQuery": "創発的能力 LLM スケール"
+    },
+    {
+      "id": "card_041",
+      "front": "AIが自然な文章やコードなどを自動で作り出すこと",
+      "back": "テキスト生成",
+      "story": "「テキスト生成」は、LLMの最も基本的な能力の一つで、与えられたプロンプトに基づいて、記事、詩、コード、要約など、様々な形式のテキストを人間が書いたかのように生成します。",
+      "searchQuery": "テキスト生成 LLM 事例"
+    },
+    {
+      "id": "card_042",
+      "front": "AIがテキストや他の画像から新たな画像を創り出すこと",
+      "back": "画像生成",
+      "story": "「画像生成」は、Stable DiffusionやDALL-Eに代表される技術で、テキストの指示（プロンプト）から、その内容に合致するオリジナル画像を生成します。広告やデザイン分野で活用が進んでいます。",
+      "searchQuery": "画像生成 AI 活用"
+    },
+    {
+      "id": "card_043",
+      "front": "AIがテキストや画像から動画コンテンツを自動で作り出すこと",
+      "back": "動画生成",
+      "story": "「動画生成」は、画像生成の進化系で、テキストプロンプトや静止画から、動きのある動画を生成する技術です。まだ発展途上ですが、将来的にコンテンツ制作を大きく変える可能性があります。",
+      "searchQuery": "動画生成 AI 技術"
+    },
+    {
+      "id": "card_044",
+      "front": "AIがテキストやパラメーターから自然な音声を創り出すこと",
+      "back": "音声生成 (Text-to-Speech, TTS)",
+      "story": "「音声生成」は、テキストを人間のような自然な音声に変換する技術（TTS）や、特定の声質を模倣したり、新しいメロディを生成したりする技術を含みます。",
+      "searchQuery": "音声生成 TTS AI"
+    },
+    {
+      "id": "card_045",
+      "front": "AI開発・利用に伴う公平性、プライバシー、安全性などの問題",
+      "back": "倫理的課題 (AI Ethics)",
+      "story": "「AIの倫理的課題」は、AIによる差別、個人情報悪用、誤情報拡散など。社会全体で議論し、適切な規制やガイドラインを設けることが必要です。",
+      "searchQuery": "AI倫理 ガイドライン 問題点"
+    },
+    {
+      "id": "card_046",
+      "front": "AIモデルが特定の集団に対して不公平な判断を下す傾向",
+      "back": "バイアス (AI Bias)",
+      "story": "「AIのバイアス」は、学習データに偏りがある場合や、モデル設計に不備がある場合に発生します。例えば、特定の性別や人種に対する差別的な判断などが問題視されます。",
+      "searchQuery": "AI バイアス 対策 データ"
+    },
+    {
+      "id": "card_047",
+      "front": "AIモデルの意思決定プロセスを人間が理解できること",
+      "back": "モデルの透明性 (Interpretability/Explainability)",
+      "story": "「モデルの透明性」は、AIがなぜその判断を下したかを人間が理解できるかという課題。医療や金融など、高い信頼性が求められる分野で重要視されます。",
+      "searchQuery": "AI 透明性 説明可能性"
+    },
+    {
+      "id": "card_048",
+      "front": "モデルのパラメータ精度を下げて計算効率を向上させる手法",
+      "back": "量子化 (Quantization)",
+      "story": "「量子化」は、モデルの重みや活性化値を、例えば32ビット浮動小数点から8ビット整数など、より低いビット数で表現することで、モデルサイズを小さくし、推論速度を向上させます。",
+      "searchQuery": "量子化 LLM 推論 効率化"
+    },
+    {
+      "id": "card_049",
+      "front": "学習済みAIモデルに新しいデータを与えて予測や生成を行うこと",
+      "back": "推論 (Inference)",
+      "story": "「推論」は、AIモデルが学習を終えた後、実際の運用段階で未知のデータに対して予測や判断を行うプロセスを指します。生成AIでは、プロンプトからテキストや画像を生成する作業がこれにあたります。",
+      "searchQuery": "AI 推論 速度 効率"
+    },
+    {
+      "id": "card_050",
+      "front": "大規模データで事前に訓練された汎用的なAIモデル",
+      "back": "学習済みモデル (Pre-trained Model)",
+      "story": "「学習済みモデル」は、インターネット上の膨大なデータで事前に学習されており、様々なタスクの基礎能力を持っています。これをファインチューニングすることで、特定のタスクに特化させることができます。",
+      "searchQuery": "学習済みモデル 転移学習 事前学習"
+    }
+  ]
+}
