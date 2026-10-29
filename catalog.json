@@ -647,5 +647,16 @@
     "subCategory": "英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_7.json"
+  },
+  {
+    "id": "eng_high_core_8",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "🏫 高校英語 (Vol.8) 文脈をひっくり返す副詞・接続表現30",
+    "note": "文脈の転換を示す重要表現30選",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_8.json"
   }
 ]
