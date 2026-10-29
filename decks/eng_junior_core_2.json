@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_junior_core_2",
+  "version": "1.0.0",
+  "updatedAt": "2024-07-20",
+  "schemaVersion": 2,
+  "title": "🏫 中学英語 (Vol.2) 感情・様子を表す形容詞＆副詞30",
+  "note": "気持ちや様子を表す描写語彙。",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "happy",
+      "back": "幸せな",
+      "story": "「幸せ」を意味するhappyは、元々「幸運な」という偶然性を示す言葉でした。運がいいと幸せ、と考えるのは面白いですね。I'm happy for you! (おめでとう！)",
+      "searchQuery": "happy 語源 英語"
+    },
+    {
+      "id": "card_002",
+      "front": "sad",
+      "back": "悲しい",
+      "story": "sadは「満腹」を意味するラテン語「satis」が語源。満ち足りて重くなった状態から、心が沈む「悲しい」へ。お腹がいっぱいだと動きたくない、そんな重い気持ちと似ていますね。Don't be sad. (悲しまないで。)",
+      "searchQuery": "sad 語源 英語"
+    },
+    {
+      "id": "card_003",
+      "front": "angry",
+      "back": "怒っている",
+      "story": "angryは、古ノルド語の「angr」（苦痛、悲しみ）が起源。怒りは苦痛から生まれる感情なんですね。Are you angry with me? (私に怒ってる？)",
+      "searchQuery": "angry 語源 英語"
+    },
+    {
+      "id": "card_004",
+      "front": "excited",
+      "back": "わくわくした",
+      "story": "exciteは、ラテン語で「外へ動かす」を意味する「excitare」から来ています。感情が外へあふれ出す様子ですね。I'm so excited about the trip! (旅行がとても楽しみ！)",
+      "searchQuery": "excited 語源 英語"
+    },
+    {
+      "id": "card_005",
+      "front": "bored",
+      "back": "退屈な",
+      "story": "boreは「穴を開ける」という意味。退屈で時間を潰す感覚が、まるで穴を開けるようにゆっくり進む時間と重なります。I'm bored with this game. (このゲームには飽きた。)",
+      "searchQuery": "bored 語源 英語"
+    },
+    {
+      "id": "card_006",
+      "front": "tired",
+      "back": "疲れた",
+      "story": "tireは古英語で「疲れる、くたくたになる」が語源。車輪のタイヤがすり減って「疲れる」ように、体も活動で消耗するイメージです。I'm very tired today. (今日はとても疲れている。)",
+      "searchQuery": "tired 語源 英語"
+    },
+    {
+      "id": "card_007",
+      "front": "hungry",
+      "back": "お腹が空いた",
+      "story": "hungryは古英語の「hungrig」から。お腹が空くと、体が「もっと食べたい！」と強く求める、そんな切実な状態を表します。I'm hungry! Let's eat. (お腹空いた！食べよう。)",
+      "searchQuery": "hungry 語源 英語"
+    },
+    {
+      "id": "card_008",
+      "front": "thirsty",
+      "back": "喉が渇いた",
+      "story": "thirstyは古英語の「þyrstig」が起源。喉がカラカラで、水への「渇望」が止まらない。体が水を強く求める状態です。I'm thirsty. Can I have some water? (喉が渇いた。水をください。)",
+      "searchQuery": "thirsty 語源 英語"
+    },
+    {
+      "id": "card_009",
+      "front": "sleepy",
+      "back": "眠い",
+      "story": "sleepyは、まるで重い瞼が「ずるずる」と落ちてくるような、眠気が襲ってくる状態。体が休息を求めているサインです。I feel sleepy after lunch. (お昼ごはんの後で眠くなる。)",
+      "searchQuery": "sleepy 語源 英語"
+    },
+    {
+      "id": "card_010",
+      "front": "scared",
+      "back": "怖がった",
+      "story": "scareは「突然おびえさせる」という意味。元々は「突然跳ね上がる、逃げ出す」という行動を表す言葉でした。Don't be scared. (怖がらないで。)",
+      "searchQuery": "scared 語源 英語"
+    },
+    {
+      "id": "card_011",
+      "front": "surprised",
+      "back": "驚いた",
+      "story": "surpriseは、ラテン語で「不意打ち」を意味する「surprendre」が語源。突然上から捕まえられるような「不意打ち」の驚きですね。I was surprised by the news. (そのニュースに驚いた。)",
+      "searchQuery": "surprised 語源 英語"
+    },
+    {
+      "id": "card_012",
+      "front": "worried",
+      "back": "心配な",
+      "story": "worryは、古英語の「wyrgan」（首を絞める）が語源。心配事が頭を締め付けるような感覚を表す言葉です。Don't worry about it. (そのことについては心配しないで。)",
+      "searchQuery": "worried 語源 英語"
+    },
+    {
+      "id": "card_013",
+      "front": "nervous",
+      "back": "緊張した",
+      "story": "nerve（神経）に-ous（～の状態の）が付いて「神経が過敏な」という意味に。緊張して神経が張り詰めている様子がよくわかりますね。I'm nervous about the presentation. (プレゼンテーションに緊張している。)",
+      "searchQuery": "nervous 語源 英語"
+    },
+    {
+      "id": "card_014",
+      "front": "proud",
+      "back": "誇りに思う",
+      "story": "proudは、古フランス語の「prud」（勇敢な、立派な）が語源。自分や誰かの立派な行いを誇らしく思う気持ちです。I'm proud of you. (君を誇りに思うよ。)",
+      "searchQuery": "proud 語源 英語"
+    },
+    {
+      "id": "card_015",
+      "front": "lonely",
+      "back": "寂しい",
+      "story": "lone（単独の）に-ly（～のような）が付いて「単独のような状態」を意味します。一人でいることの寂しさですね。She felt lonely after moving. (引っ越した後、彼女は寂しさを感じた。)",
+      "searchQuery": "lonely 語源 英語"
+    },
+    {
+      "id": "card_016",
+      "front": "busy",
+      "back": "忙しい",
+      "story": "busyは古英語の「bysig」から。蜂がせっせと蜜を集めるように、常に何かをしていて休む暇がない状態です。I'm busy right now. (今、忙しいです。)",
+      "searchQuery": "busy 語源 英語"
+    },
+    {
+      "id": "card_017",
+      "front": "free",
+      "back": "自由な",
+      "story": "freeは、古英語の「frēo」に由来し、「束縛されていない」という意味。時間があるときも、束縛から解放された状態と捉えられます。Are you free this weekend? (今週末、暇ですか？)",
+      "searchQuery": "free 語源 英語"
+    },
+    {
+      "id": "card_018",
+      "front": "kind",
+      "back": "親切な",
+      "story": "kindは、元々「生まれつきの性質」を意味する言葉でした。親切な人は、生まれつき良い性質を持っている、と考えるのは素敵ですね。She is a very kind person. (彼女はとても親切な人だ。)",
+      "searchQuery": "kind 語源 英語"
+    },
+    {
+      "id": "card_019",
+      "front": "polite",
+      "back": "丁寧な",
+      "story": "politeは、ラテン語の「politus」（磨かれた、洗練された）が語源。礼儀正しい態度は、心が磨かれている証拠だと考えられますね。He is always polite to everyone. (彼はいつも誰にでも丁寧だ。)",
+      "searchQuery": "polite 語源 英語"
+    },
+    {
+      "id": "card_020",
+      "front": "rude",
+      "back": "失礼な",
+      "story": "rudeは、ラテン語の「rudis」（未加工の、粗野な）が語源。洗練されていない、粗野な態度が失礼にあたる、という感覚です。Don't be rude to your elders. (年上の人に失礼な態度をとるな。)",
+      "searchQuery": "rude 語源 英語"
+    },
+    {
+      "id": "card_021",
+      "front": "careful",
+      "back": "注意深い",
+      "story": "care（注意、気遣い）に-ful（～に満ちた）が付いて「注意に満ちた」という意味。細心の注意を払う様子を表します。Be careful! (気を付けて！)",
+      "searchQuery": "careful 語源 英語"
+    },
+    {
+      "id": "card_022",
+      "front": "carefully",
+      "back": "注意深く",
+      "story": "carefulは「注意深い」ですが、carefullyは「注意深く」という動作の様子。まるでガラス細工を扱うように、一つ一つの動きに気を配るイメージです。He drives carefully. (彼は注意深く運転する。)",
+      "searchQuery": "carefully 語源 英語"
+    },
+    {
+      "id": "card_023",
+      "front": "quickly",
+      "back": "素早く",
+      "story": "quickは「速い」ですが、quicklyは「素早く」という動作の様子。まるで瞬きをする間に、サッと行動を終えるような速さです。Hurry up! Do it quickly. (急いで！素早くやって。)",
+      "searchQuery": "quickly 語源 英語"
+    },
+    {
+      "id": "card_024",
+      "front": "slowly",
+      "back": "ゆっくりと",
+      "story": "slowは「遅い」ですが、slowlyは「ゆっくりと」という動作の様子。まるでスローモーション映像のように、一つ一つの動きを丁寧に、時間をかけて行うイメージです。Please speak slowly. (ゆっくり話してください。)",
+      "searchQuery": "slowly 語源 英語"
+    },
+    {
+      "id": "card_025",
+      "front": "loudly",
+      "back": "大声で",
+      "story": "loudは「大きい音の」ですが、loudlyは「大声で」という動作の様子。まるでメガホンで話すように、遠くまで響く声で話すイメージです。Don't talk loudly in the library. (図書館で大声で話さないで。)",
+      "searchQuery": "loudly 語源 英語"
+    },
+    {
+      "id": "card_026",
+      "front": "quietly",
+      "back": "静かに",
+      "story": "quietは「静かな」ですが、quietlyは「静かに」という動作の様子。まるで忍者のように、足音一つ立てずにそっと行動するイメージです。He entered the room quietly. (彼は静かに部屋に入った。)",
+      "searchQuery": "quietly 語源 英語"
+    },
+    {
+      "id": "card_027",
+      "front": "easily",
+      "back": "簡単に",
+      "story": "easyは「簡単な」ですが、easilyは「簡単に」という動作の様子。まるで魔法のように、何の苦労もなくスッとできてしまうイメージです。You can do it easily. (あなたはそれを簡単にできるよ。)",
+      "searchQuery": "easily 語源 英語"
+    },
+    {
+      "id": "card_028",
+      "front": "difficult",
+      "back": "難しい",
+      "story": "difficultは、ラテン語の「dis-」（否定）と「facilis」（簡単な）が合わさった「difficilis」が語源。「簡単ではない」という意味から来ています。This problem is difficult. (この問題は難しい。)",
+      "searchQuery": "difficult 語源 英語"
+    },
+    {
+      "id": "card_029",
+      "front": "hard",
+      "back": "一生懸命に",
+      "story": "hardは元々「堅固な、困難な」が語源。そこから、困難に立ち向かうように「一生懸命に」努力する様子を表す副詞になりました。まるで岩を砕くような、強い意志を感じさせます。He works hard. (彼が一生懸命働く。)",
+      "searchQuery": "hard 語源 英語"
+    },
+    {
+      "id": "card_030",
+      "front": "suddenly",
+      "back": "突然に",
+      "story": "suddenは「突然の」ですが、suddenlyは「突然に」という動作の様子。まるで雷が落ちるように、何の予告もなく急に起こる出来事を表します。Suddenly, it started to rain. (突然、雨が降り始めた。)",
+      "searchQuery": "suddenly 語源 英語"
+    }
+  ]
+}
