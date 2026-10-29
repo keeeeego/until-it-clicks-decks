@@ -614,5 +614,16 @@
     "subCategory": "英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_4.json"
+  },
+  {
+    "id": "eng_high_core_5",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "🏫 高校英語 (Vol.5) 多義語・文脈判断キラー30",
+    "note": "多義語で差をつける最重要30語",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_5.json"
   }
 ]
