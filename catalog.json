@@ -713,5 +713,16 @@
     "subCategory": "英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_5.json"
+  },
+  {
+    "id": "eng_advanced_core_6",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "🎓 難関大英語 (Vol.6) 難関大・差がつく最難関ラスト30",
+    "note": "最難関大で差がつくハイレベル語彙30選",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_6.json"
   }
 ]
