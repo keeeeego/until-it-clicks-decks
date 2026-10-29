@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_junior_core_4",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "🏫 中学英語 (Vol.4) 高校入試・差がつく頻出派生語30",
+  "note": "高校入試頻出の重要派生語30選！",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "decide (動詞)",
+      "back": "decision (名詞)",
+      "story": "「決める」のdecideは、\"de-\"（離れて）と\"caedere\"（切る）が語源。「選択肢を切り離して決断する」イメージです。",
+      "searchQuery": "decide decision 派生語"
+    },
+    {
+      "id": "card_002",
+      "front": "protect (動詞)",
+      "back": "protection (名詞)",
+      "story": "「守る」のprotectは、\"pro-\"（前に）と\"tegere\"（覆う）から。「前に立ちはだかり覆って守る」様子が目に浮かびますね。",
+      "searchQuery": "protect protection 語源"
+    },
+    {
+      "id": "card_003",
+      "front": "create (動詞)",
+      "back": "creation (名詞)",
+      "story": "「創造する」のcreateは「生み出す」が語源。神が世界を「創造」したように、何もないところから新しいものを「生み出す」イメージです。",
+      "searchQuery": "create creation 派生語"
+    },
+    {
+      "id": "card_004",
+      "front": "explain (動詞)",
+      "back": "explanation (名詞)",
+      "story": "「説明する」のexplainは、\"ex-\"（外へ）と\"planare\"（平らにする）が語源。複雑なものを平らに広げて分かりやすくするイメージです。",
+      "searchQuery": "explain explanation 派生語"
+    },
+    {
+      "id": "card_005",
+      "front": "develop (動詞)",
+      "back": "development (名詞)",
+      "story": "「発展させる」のdevelopは、\"dis-\"（離れて）と\"volvere\"（巻く）が語源。巻かれたものを広げて成長させるニュアンスがあります。",
+      "searchQuery": "develop development 派生語"
+    },
+    {
+      "id": "card_006",
+      "front": "enjoy (動詞)",
+      "back": "enjoyment (名詞)",
+      "story": "「楽しむ」のenjoyは「喜び」を意味するjoyに「〜の状態にする」en-が合体。心の中に喜びを「注入する」ように、活動を満喫するイメージです。",
+      "searchQuery": "enjoy enjoyment 派生語"
+    },
+    {
+      "id": "card_007",
+      "front": "agree (動詞)",
+      "back": "agreement (名詞)",
+      "story": "「同意する」のagreeは、\"ad-\"（〜へ）と\"gratus\"（喜ばしい）が語源。「心が喜んで一つになる」という素敵な意味合い。",
+      "searchQuery": "agree agreement 派生語"
+    },
+    {
+      "id": "card_008",
+      "front": "move (動詞)",
+      "back": "movement (名詞)",
+      "story": "「動く」のmoveは「動かす」が語源。物理的な移動だけでなく、社会を「動かす」運動や、心の「動き」まで、幅広い「動き」を表します。",
+      "searchQuery": "move movement 派生"
+    },
+    {
+      "id": "card_009",
+      "front": "achieve (動詞)",
+      "back": "achievement (名詞)",
+      "story": "「達成する」のachieveは、\"ad-\"（〜へ）と\"chef\"（頭、終わり）が語源。「目標の終点に到達する」イメージです。",
+      "searchQuery": "achieve achievement 派生語"
+    },
+    {
+      "id": "card_010",
+      "front": "govern (動詞)",
+      "back": "government (名詞)",
+      "story": "「統治する」のgovernは、\"gubernare\"（舵を取る）が語源。国のかじ取りをする様子が想像できますね。",
+      "searchQuery": "govern government 派生語"
+    },
+    {
+      "id": "card_011",
+      "front": "interest (動詞/名詞)",
+      "back": "interesting (形容詞) / interested (形容詞)",
+      "story": "「興味」のinterest。-ingは「興味を\"引き起こす\"側」、-edは「興味を\"持たされた\"側」。面白い本は\"interesting\"で、それを読んだ私は\"interested\"！",
+      "searchQuery": "interesting interested 違い"
+    },
+    {
+      "id": "card_012",
+      "front": "excite (動詞)",
+      "back": "exciting (形容詞) / excited (形容詞)",
+      "story": "「興奮させる」excite。-ingは「興奮を\"引き起こす\"側」、-edは「興奮を\"させられた\"側」。ジェットコースターは\"exciting\"で、乗った私は\"excited\"！",
+      "searchQuery": "exciting excited 用法"
+    },
+    {
+      "id": "card_013",
+      "front": "surprise (動詞/名詞)",
+      "back": "surprising (形容詞) / surprised (形容詞)",
+      "story": "「驚かせる」surprise。-ingは「驚きを\"引き起こす\"側」、-edは「驚きを\"させられた\"側」。突然のプレゼントは\"surprising\"で、受け取った私は\"surprised\"！",
+      "searchQuery": "surprising surprised 例文"
+    },
+    {
+      "id": "card_014",
+      "front": "bore (動詞)",
+      "back": "boring (形容詞) / bored (形容詞)",
+      "story": "「退屈させる」bore。-ingは「退屈を\"引き起こす\"側」、-edは「退屈を\"させられた\"側」。つまらない映画は\"boring\"で、観客は\"bored\"になる。",
+      "searchQuery": "boring bored 違い"
+    },
+    {
+      "id": "card_015",
+      "front": "please (動詞)",
+      "back": "pleasant (形容詞) / pleased (形容詞)",
+      "story": "「喜ばせる」please。pleasantは「心地よい、喜ばしい（させる側）」、pleasedは「喜んでいる（させられた側）」。心地よい音楽は\"pleasant\"で、それを聴いて私は\"pleased\"になる。",
+      "searchQuery": "please pleasant pleased"
+    },
+    {
+      "id": "card_016",
+      "front": "beauty (名詞)",
+      "back": "beautiful (形容詞)",
+      "story": "「美」のbeautyから「美しい」のbeautiful。-fulは「〜で満ちた」という意味の接尾辞です。たくさんの美が詰まっている感じ。",
+      "searchQuery": "beauty beautiful 語形変化"
+    },
+    {
+      "id": "card_017",
+      "front": "danger (名詞)",
+      "back": "dangerous (形容詞)",
+      "story": "「危険」のdangerから「危険な」のdangerous。-ousは「〜の性質を持つ、〜に満ちた」という意味。危険がいっぱい。",
+      "searchQuery": "danger dangerous 接尾辞"
+    },
+    {
+      "id": "card_018",
+      "front": "care (名詞/動詞)",
+      "back": "careful (形容詞) / careless (形容詞)",
+      "story": "「注意」のcare。-fulで「注意深い」、-lessで「不注意な」と反対の意味に。接尾辞で意味が逆転する例。",
+      "searchQuery": "care careful careless"
+    },
+    {
+      "id": "card_019",
+      "front": "health (名詞)",
+      "back": "healthy (形容詞)",
+      "story": "「健康」のhealthから「健康な」のhealthy。-yは「〜の性質を持つ、〜で満ちた」という意味。健康に満ちた状態。",
+      "searchQuery": "health healthy 派生語"
+    },
+    {
+      "id": "card_020",
+      "front": "comfort (名詞/動詞)",
+      "back": "comfortable (形容詞)",
+      "story": "「快適さ」のcomfortから「快適な」のcomfortable。-ableは「〜できる、〜に適した」という意味。快適さを享受できる。",
+      "searchQuery": "comfort comfortable 派生語"
+    },
+    {
+      "id": "card_021",
+      "front": "luck (名詞)",
+      "back": "lucky (形容詞)",
+      "story": "「幸運」のluckに-yが付くと「幸運な」luckyに。名詞が形容詞に「変身」する魔法の接尾辞-y。",
+      "searchQuery": "luck lucky 派生語"
+    },
+    {
+      "id": "card_022",
+      "front": "friend (名詞)",
+      "back": "friendly (形容詞)",
+      "story": "「友達」のfriendから「友好的な」のfriendly。-lyは副詞だけでなく、名詞に付くと形容詞になることもあります。",
+      "searchQuery": "friend friendly 違い"
+    },
+    {
+      "id": "card_023",
+      "front": "quick (形容詞)",
+      "back": "quickly (副詞)",
+      "story": "「速い」quickに-lyが付くと「速く」quickly。形容詞が「どんな風に？」という動作の様子を表す副詞に「変身」する基本パターンです。",
+      "searchQuery": "quick quickly 副詞"
+    },
+    {
+      "id": "card_024",
+      "front": "careful (形容詞)",
+      "back": "carefully (副詞)",
+      "story": "「注意深い」carefulに-lyが付くと「注意深く」carefully。-fulで終わる形容詞も、そのまま-lyを付けて副詞に。ルールはシンプル！",
+      "searchQuery": "careful carefully 使い方"
+    },
+    {
+      "id": "card_025",
+      "front": "easy (形容詞)",
+      "back": "easily (副詞)",
+      "story": "「簡単な」easyに-lyが付くと「簡単に」easily。-yで終わる形容詞は、-yを-iに変える「鉄のルール」。これは見逃せない！",
+      "searchQuery": "easy easily 変化"
+    },
+    {
+      "id": "card_026",
+      "front": "happy (形容詞)",
+      "back": "happily (副詞)",
+      "story": "「幸せな」happyに-lyが付くと「幸せに」happily。easyと同じく、-yを-iに変える「鉄のルール」の適用例。この変化はマスター必須！",
+      "searchQuery": "happy happily 文法"
+    },
+    {
+      "id": "card_027",
+      "front": "real (形容詞)",
+      "back": "really (副詞)",
+      "story": "「本当の」realに-lyが付くと「本当に」really。形容詞に-lyを付けるだけのシンプル変化。日常会話で「本当に？」「すごく！」と大活躍します。",
+      "searchQuery": "real really 意味"
+    },
+    {
+      "id": "card_028",
+      "front": "kind (形容詞)",
+      "back": "kindness (名詞)",
+      "story": "「親切な」kindに-nessが付くと「親切さ」kindness。目に見えない「性質」や「状態」を名詞にする魔法の接尾辞-ness。",
+      "searchQuery": "kind kindness 派生"
+    },
+    {
+      "id": "card_029",
+      "front": "dark (形容詞)",
+      "back": "darkness (名詞)",
+      "story": "「暗い」darkに-nessが付くと「暗闇」darkness。形容詞が表す「性質」を、抽象的な「概念」としての名詞に変える-ness。",
+      "searchQuery": "dark darkness 派生語"
+    },
+    {
+      "id": "card_030",
+      "front": "true (形容詞)",
+      "back": "truth (名詞)",
+      "story": "「真実の」trueから「真実」のtruth。-thは質や状態を表す名詞を作る接尾辞で、warmth（暖かさ）なども同じパターン。",
+      "searchQuery": "true truth 語源"
+    }
+  ]
+}
