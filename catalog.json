@@ -668,5 +668,16 @@
     "subCategory": "英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_3.json"
+  },
+  {
+    "id": "eng_high_core_4",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "🏫 高校英語 (Vol.4) 重要抽象名詞 (社会・科学) 30",
+    "note": "科学・社会テーマの頻出抽象名詞30選。",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_4.json"
   }
 ]
