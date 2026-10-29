@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_advanced_core_4",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "🎓 難関大英語 (Vol.4) 英検準1級・頻出語彙30",
+  "note": "英検準1級・TOEIC800点頻出語彙30選",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "vulnerable",
+      "back": "傷つきやすい状態",
+      "story": "語源はラテン語の「傷」を意味する`vulnus`。まるで鎧の「傷口」のように、外部からの攻撃に弱い状態。物理的な弱点だけでなく、感情的な脆さにも使う。",
+      "searchQuery": "vulnerable 語源 例文"
+    },
+    {
+      "id": "card_002",
+      "front": "lucrative",
+      "back": "高収益な事業",
+      "story": "ラテン語の「利益」を意味する`lucrum`が語源。まるで「金を生む木」のように、多大な収益をもたらす事業や投資を指す。",
+      "searchQuery": "lucrative 語源 例文"
+    },
+    {
+      "id": "card_003",
+      "front": "ambiguous",
+      "back": "曖昧な意味",
+      "story": "`ambi-`（両方の）と`agere`（導く）が語源。まるで「二股の道」のように、どちらに進むべきか、どちらの意味か判然としない状況。",
+      "searchQuery": "ambiguous 語源 例文"
+    },
+    {
+      "id": "card_004",
+      "front": "plausible",
+      "back": "もっともらしい説明",
+      "story": "ラテン語で「拍手されるに値する」が語源。聞く人が「なるほど！」と手を叩きたくなるほど、一見もっともらしく聞こえる説明や言い訳に使う。",
+      "searchQuery": "plausible 語源 例文"
+    },
+    {
+      "id": "card_005",
+      "front": "ubiquitous",
+      "back": "至る所にある存在",
+      "story": "ラテン語の「どこにでも」が語源。まるで「空気」のように、意識せずとも至る所に存在し、もはや当たり前になっているもの。",
+      "searchQuery": "ubiquitous 語源 例文"
+    },
+    {
+      "id": "card_006",
+      "front": "meticulous",
+      "back": "綿密な作業",
+      "story": "ラテン語の「恐れ」が語源。まるで「失敗を恐れるあまり」細部にまで異常なほど気を配り、完璧を期す態度。",
+      "searchQuery": "meticulous 語源 例文"
+    },
+    {
+      "id": "card_007",
+      "front": "benevolent",
+      "back": "慈悲深い行為",
+      "story": "`bene`（良い）と`volens`（望む）が語源。まるで「善意の天使」のように、他者の幸福を心から願い、惜しみなく助けを与える心。",
+      "searchQuery": "benevolent 語源 例文"
+    },
+    {
+      "id": "card_008",
+      "front": "malevolent",
+      "back": "悪意ある行動",
+      "story": "`male`（悪い）と`volens`（望む）が語源。`benevolent`の対義語。まるで「悪意の魔女」のように、他者の不幸を願い、害をなそうとする心。",
+      "searchQuery": "malevolent 語源 例文"
+    },
+    {
+      "id": "card_009",
+      "front": "eradicate",
+      "back": "根絶",
+      "story": "`e-`（外へ）と`radix`（根）が語源。まるで「雑草を根こそぎ引き抜く」ように、問題や病気を完全に消滅させること。",
+      "searchQuery": "eradicate 語源 例文"
+    },
+    {
+      "id": "card_010",
+      "front": "mitigate",
+      "back": "和らげること",
+      "story": "ラテン語の「穏やかな」が語源。まるで「嵐を鎮める」ように、痛みや危険、問題の深刻さを和らげ、軽減させること。",
+      "searchQuery": "mitigate 語源 例文"
+    },
+    {
+      "id": "card_011",
+      "front": "conjecture",
+      "back": "根拠のない推測",
+      "story": "`con-`（共に）と`jacere`（投げる）が語源。まるで「バラバラの断片情報」をかき集めて、確証なく推測を「投げかける」こと。",
+      "searchQuery": "conjecture 語源 例文"
+    },
+    {
+      "id": "card_012",
+      "front": "discrepancy",
+      "back": "データ間の相違",
+      "story": "`dis-`（離れて）と`crepare`（音を立てる）が語源。まるで「異なる楽器がバラバラの音を立てる」ように、二つのデータや情報が大きく食い違う状況。",
+      "searchQuery": "discrepancy 語源 例文"
+    },
+    {
+      "id": "card_013",
+      "front": "exacerbate",
+      "back": "状況の悪化",
+      "story": "`ex-`（強調）と`acerbus`（苦い）が語源。まるで「火に油を注ぐ」ように、既に悪い状況や問題をさらに深刻化させること。",
+      "searchQuery": "exacerbate 語源 例文"
+    },
+    {
+      "id": "card_014",
+      "front": "pervasive",
+      "back": "広範囲に蔓延",
+      "story": "`per-`（〜を通して）と`vadere`（行く）が語源。まるで「ウイルス」のように、目に見えない形で隅々まで広がり、全体に影響を及ぼす様子。",
+      "searchQuery": "pervasive 語源 例文"
+    },
+    {
+      "id": "card_015",
+      "front": "resilient",
+      "back": "高い回復力",
+      "story": "`re-`（再び）と`salire`（跳ねる）が語源。まるで「ゴムボール」のように、強い衝撃を受けてもすぐに元の形に戻る、しなやかな回復力。",
+      "searchQuery": "resilient 語源 例文"
+    },
+    {
+      "id": "card_016",
+      "front": "ostentatious",
+      "back": "見せびらかす態度",
+      "story": "ラテン語の「見せつける」が語源。まるで「孔雀が羽を広げる」ように、自分の富や才能をこれみよがしに誇示し、注目を集めようとする態度。",
+      "searchQuery": "ostentatious 語源 例文"
+    },
+    {
+      "id": "card_017",
+      "front": "ephemeral",
+      "back": "短命な存在",
+      "story": "ギリシャ語で「一日限りの」が語源。まるで「朝露」のように、ほんの一時だけ存在し、すぐに消え去ってしまう儚いもの。",
+      "searchQuery": "ephemeral 語源 例文"
+    },
+    {
+      "id": "card_018",
+      "front": "gregarious",
+      "back": "社交的な性格",
+      "story": "ラテン語の「群れ」が語源。まるで「社交的な動物」のように、常に人と一緒にいることを好み、活発に交流する性格。",
+      "searchQuery": "gregarious 語源 例文"
+    },
+    {
+      "id": "card_019",
+      "front": "innocuous",
+      "back": "無害な物質",
+      "story": "`in-`（否定）と`nocuus`（有害な）が語源。まるで「毒のないキノコ」のように、見た目は怪しくても実際には何の害もないこと。",
+      "searchQuery": "innocuous 語源 例文"
+    },
+    {
+      "id": "card_020",
+      "front": "clandestine",
+      "back": "秘密裏の行動",
+      "story": "ラテン語の「秘密に」が語源。まるで「スパイの密会」のように、人目を忍んでこっそり行われる、隠密で怪しげな行動や計画。",
+      "searchQuery": "clandestine 語源 例文"
+    },
+    {
+      "id": "card_021",
+      "front": "capricious",
+      "back": "気まぐれな性格",
+      "story": "イタリア語の`capriccio`（気まぐれ）が語源。まるで「予測不能に跳ね回るヤギ」のように、気分や状況がコロコロと変わりやすい様子。",
+      "searchQuery": "capricious 語源 例文"
+    },
+    {
+      "id": "card_022",
+      "front": "indigenous",
+      "back": "先住民族",
+      "story": "`indu-`（中に）と`gignere`（生み出す）が語源。まるで「その土地の土から生まれた」かのように、特定の地域に古くから住む人々や、その土地固有の動植物。",
+      "searchQuery": "indigenous 語源 例文"
+    },
+    {
+      "id": "card_023",
+      "front": "precarious",
+      "back": "不安定な状況",
+      "story": "ラテン語の「頼みによって得られる」が語源。まるで「崖っぷちの岩」のように、いつ崩れてもおかしくないほど不安定で、神頼みするしかない危険な状況。",
+      "searchQuery": "precarious 語源 例文"
+    },
+    {
+      "id": "card_024",
+      "front": "sanction",
+      "back": "経済制裁／正式な認可",
+      "story": "ラテン語の「神聖な」が語源。元は「神聖な法」に由来し、その法が「認める」ことと、「違反者を罰する」ことの両方を意味する、珍しい二面性を持つ単語。",
+      "searchQuery": "sanction 語源 例文"
+    },
+    {
+      "id": "card_025",
+      "front": "chasm",
+      "back": "深い裂け目",
+      "story": "ギリシャ語の「口を開ける」が語源。まるで「大地が大きく口を開けた」ような深い裂け目。物理的なものだけでなく、意見や思想の「埋めがたい隔たり」にも使う。",
+      "searchQuery": "chasm 語源 例文"
+    },
+    {
+      "id": "card_026",
+      "front": "cacophony",
+      "back": "不快な不協和音",
+      "story": "`kakos`（悪い）と`phone`（音）が語源。まるで「調律されていないオーケストラ」のように、様々な音が不規則に混じり合い、耳障りで不快な騒音。",
+      "searchQuery": "cacophony 語源 例文"
+    },
+    {
+      "id": "card_027",
+      "front": "dearth",
+      "back": "深刻な不足",
+      "story": "古英語の`deore`（高価な）が語源。物が「少ないからこそ貴重で高価になる」という発想から、深刻な不足や欠乏状態を指すようになった。",
+      "searchQuery": "dearth 語源 例文"
+    },
+    {
+      "id": "card_028",
+      "front": "perfunctory",
+      "back": "形式的な対応",
+      "story": "`per-`（〜を通して）と`fungi`（実行する）が語源。まるで「義務だから仕方なく」こなすように、心が入っておらず、形だけをなぞるいい加減な対応。",
+      "searchQuery": "perfunctory 語源 例文"
+    },
+    {
+      "id": "card_029",
+      "front": "culminate",
+      "back": "最高潮に達する結末",
+      "story": "ラテン語の「頂点」が語源。まるで「山登りの終着点」のように、長い過程を経て最高潮に達し、最終的な結果や結末を迎えること。",
+      "searchQuery": "culminate 語源 例文"
+    },
+    {
+      "id": "card_030",
+      "front": "resurgence",
+      "back": "劇的な復活",
+      "story": "`re-`（再び）と`surgere`（立ち上がる）が語源。まるで「不死鳥」のように、一度衰退したものが再び勢いを盛り返し、力強く復活すること。",
+      "searchQuery": "resurgence 語源 例文"
+    }
+  ]
+}
