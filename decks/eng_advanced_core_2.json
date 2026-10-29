@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_advanced_core_2",
+  "version": "1.0.0",
+  "updatedAt": "2024-07-29",
+  "schemaVersion": 2,
+  "title": "🎓 難関大英語 (Vol.2) 社会・時事・経済・国際30",
+  "note": "国際情勢・経済論説頻出の30語。",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "leverage",
+      "back": "てこの原理、強み活用",
+      "story": "「てこ」が語源。物理の「てこの原理」のように、少ない資源で大きな効果を生み出すこと。ビジネスでは「自社の強みをレバレッジする」と使う。",
+      "searchQuery": "leverage 語源 経済"
+    },
+    {
+      "id": "card_002",
+      "front": "fluctuate",
+      "back": "変動、上下動",
+      "story": "ラテン語「fluctus（波）」が語源。波が打ち寄せては引くように、一定せず上下に動く様子。株価や気温の「変動」に使う。",
+      "searchQuery": "fluctuate 類義語 グラフ"
+    },
+    {
+      "id": "card_003",
+      "front": "deficit",
+      "back": "赤字、不足額",
+      "story": "ラテン語「deficere（不足する）」が由来。「足りない」状態。会計で収入より支出が多い「赤字」や、貿易収支の「不足」を指す。",
+      "searchQuery": "deficit budget 財政赤字"
+    },
+    {
+      "id": "card_004",
+      "front": "sanction",
+      "back": "制裁、法的認可",
+      "story": "ラテン語「sanctus（神聖な）」が起源。元は「神聖な法による認可」だったが、法を破った者への「制裁」へと意味が転じた。",
+      "searchQuery": "sanction economic trade embargo"
+    },
+    {
+      "id": "card_005",
+      "front": "consensus",
+      "back": "総意、意見一致",
+      "story": "ラテン語「con-（共に）＋sentire（感じる）」が語源。「皆が同じように感じる」ことから、集団全体の「意見の一致」や「総意」を指す。",
+      "searchQuery": "consensus building collective agreement"
+    },
+    {
+      "id": "card_006",
+      "front": "mitigate",
+      "back": "軽減、緩和",
+      "story": "ラテン語「mitis（穏やかな）」が語源。苦痛や厳しさを「穏やかにする」イメージ。災害リスクや影響を「軽減する」際に使う。",
+      "searchQuery": "mitigate risk reduce impact"
+    },
+    {
+      "id": "card_007",
+      "front": "disparity",
+      "back": "格差、不均衡",
+      "story": "ラテン語「dis-（否定）＋par（等しい）」が語源。「等しくない状態」を指し、賃金や地域間の「格差」や「不均衡」に使う。",
+      "searchQuery": "income disparity gender inequality"
+    },
+    {
+      "id": "card_008",
+      "front": "arbitrary",
+      "back": "恣意的、独断的",
+      "story": "ラテン語「arbiter（仲裁人）」が語源。仲裁人の判断は「根拠なく決められる」ことがあるため、「独断的で恣意的な」という意味になった。",
+      "searchQuery": "arbitrary decision random choice"
+    },
+    {
+      "id": "card_009",
+      "front": "precedent",
+      "back": "先例、前例",
+      "story": "ラテン語「praecedere（先立つ）」が語源。「先に起こった出来事」が、その後の判断や行動の「基準」となること。",
+      "searchQuery": "legal precedent historical example"
+    },
+    {
+      "id": "card_010",
+      "front": "unilateral",
+      "back": "一方的、単独行動",
+      "story": "ラテン語「uni-（一つ）＋latus（側面）」が語源。「片側だけの」という意味で、国際関係などで「一方的な行動」を指す。",
+      "searchQuery": "unilateral action foreign policy"
+    },
+    {
+      "id": "card_011",
+      "front": "bilateral",
+      "back": "二国間、双方",
+      "story": "ラテン語「bi-（二つ）＋latus（側面）」が語源。「両側に」という意味で、二つの国や組織間の「関係」や「合意」に使う。",
+      "searchQuery": "bilateral agreement trade relations"
+    },
+    {
+      "id": "card_012",
+      "front": "multilateral",
+      "back": "多国間、多数",
+      "story": "ラテン語「multi-（多数）＋latus（側面）」が語源。「多くの側に」という意味で、三つ以上の国や組織が関わる「協力」や「交渉」に使う。",
+      "searchQuery": "multilateral cooperation international organizations"
+    },
+    {
+      "id": "card_013",
+      "front": "sovereignty",
+      "back": "主権、統治権",
+      "story": "ラテン語「superanus（最高の）」が語源。国家が持つ「最高の権力」で、他国に干渉されない「独立性」や「統治権」を指す。",
+      "searchQuery": "national sovereignty self-governance"
+    },
+    {
+      "id": "card_014",
+      "front": "belligerent",
+      "back": "好戦的、けんか腰",
+      "story": "ラテン語「bellum（戦争）＋gerere（行う）」が語源。「戦争を行う者」から転じて、「好戦的な」態度や「けんか腰の」国を指す。",
+      "searchQuery": "belligerent state aggressive behavior"
+    },
+    {
+      "id": "card_015",
+      "front": "hegemony",
+      "back": "覇権、支配的地位",
+      "story": "ギリシャ語「hēgemonia（指導、支配）」が語源。ある国や勢力が、他を圧倒する「支配的な地位」や「覇権」を持つこと。",
+      "searchQuery": "global hegemony power dynamics"
+    },
+    {
+      "id": "card_016",
+      "front": "dilemma",
+      "back": "ジレンマ、板挟み",
+      "story": "ギリシャ語「di-（二つ）＋lemma（前提）」が語源。「二つの選択肢があり、どちらを選んでも望ましくない」「板挟み」の状況。",
+      "searchQuery": "ethical dilemma difficult choice"
+    },
+    {
+      "id": "card_017",
+      "front": "exacerbate",
+      "back": "悪化、激化",
+      "story": "ラテン語「ex-（強調）＋acerbus（苦い、厳しい）」が語源。「さらに苦く、厳しくする」イメージで、状況を「悪化させる」こと。",
+      "searchQuery": "exacerbate problem worsen situation"
+    },
+    {
+      "id": "card_018",
+      "front": "repercussion",
+      "back": "悪影響、反響",
+      "story": "ラテン語「re-（再び）＋percutere（打つ）」が語源。「跳ね返ってくる衝撃」のように、予期せぬ「悪い影響」や「反響」を指す。",
+      "searchQuery": "negative repercussions ripple effect"
+    },
+    {
+      "id": "card_019",
+      "front": "contingency",
+      "back": "不測の事態、偶発性",
+      "story": "ラテン語「contingere（接触する、起こる）」が語源。「たまたま起こりうる」「不測の事態」や「偶発的な出来事」を指す。",
+      "searchQuery": "contingency plan emergency preparedness"
+    },
+    {
+      "id": "card_020",
+      "front": "paradigm",
+      "back": "パラダイム、思考枠組み",
+      "story": "ギリシャ語「paradeigma（見本、パターン）」が語源。ある分野で共有される「ものの見方や考え方の枠組み」。科学の「パラダイムシフト」で有名。",
+      "searchQuery": "paradigm shift scientific revolution"
+    },
+    {
+      "id": "card_021",
+      "front": "stagnation",
+      "back": "停滞、不景気",
+      "story": "ラテン語「stagnare（水がよどむ）」が語源。水が流れないように「よどんで動かない」状態。経済活動の「停滞」や「不景気」を指す。",
+      "searchQuery": "economic stagnation growth slowdown"
+    },
+    {
+      "id": "card_022",
+      "front": "inflation",
+      "back": "インフレ、物価上昇",
+      "story": "ラテン語「inflare（膨らませる）」が語源。貨幣の価値が「膨張して」下がり、相対的に「物価が上昇する」経済現象。",
+      "searchQuery": "inflation rate consumer price index"
+    },
+    {
+      "id": "card_023",
+      "front": "recession",
+      "back": "景気後退、不況",
+      "story": "ラテン語「recedere（後退する）」が語源。経済活動が「後退し」、生産や雇用が減少する「不況」の状態。",
+      "searchQuery": "economic recession market downturn"
+    },
+    {
+      "id": "card_024",
+      "front": "subsidy",
+      "back": "補助金、助成金",
+      "story": "ラテン語「subsidium（援軍、支援）」が語源。政府が特定の産業や活動を「支援するため」に与える「補助金」や「助成金」。",
+      "searchQuery": "government subsidy agricultural support"
+    },
+    {
+      "id": "card_025",
+      "front": "tariff",
+      "back": "関税、料金表",
+      "story": "アラビア語「ta'rif（告知、定義）」が起源。元は「公的な告知」で、交易品の価格表が転じて「関税」の意味になった。",
+      "searchQuery": "import tariff trade barrier"
+    },
+    {
+      "id": "card_026",
+      "front": "embargo",
+      "back": "禁輸措置、出入港禁止",
+      "story": "スペイン語「embargar（妨げる）」が語源。政府が特定の国との貿易を「妨げる」ために課す「禁輸措置」や「出入港禁止」。",
+      "searchQuery": "trade embargo economic blockade"
+    },
+    {
+      "id": "card_027",
+      "front": "proxy",
+      "back": "代理、代理人",
+      "story": "ラテン語「procurator（代理人）」が短縮された形。「代理として行動する」人や物、またはその権限を指す。",
+      "searchQuery": "proxy war representative vote"
+    },
+    {
+      "id": "card_028",
+      "front": "proliferation",
+      "back": "拡散、増殖",
+      "story": "ラテン語「proles（子孫）＋ferre（運ぶ）」が語源。生物の「増殖」から転じて、核兵器などの「拡散」に使う。",
+      "searchQuery": "nuclear proliferation weapon spread"
+    },
+    {
+      "id": "card_029",
+      "front": "deterrence",
+      "back": "抑止、阻止",
+      "story": "ラテン語「deterrere（怖がらせて思いとどまらせる）」が語源。相手に「思いとどまらせる」ための「抑止力」や「阻止」を意味する。",
+      "searchQuery": "nuclear deterrence security strategy"
+    },
+    {
+      "id": "card_030",
+      "front": "ratify",
+      "back": "批准、承認",
+      "story": "ラテン語「ratus（確定した）＋facere（行う）」が語源。「正式に有効にする」という意味で、条約や協定の「批准」や「承認」に使う。",
+      "searchQuery": "ratify treaty approve agreement"
+    }
+  ]
+}
