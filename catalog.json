@@ -591,5 +591,16 @@
     "subCategory": "漢検",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_correction_1.json"
+  },
+  {
+    "id": "eng_junior_core_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "🏫 中学英語 (Vol.1) 超必須・日常基本動詞30",
+    "note": "中学英語の基本動詞30選を語源と感覚でマスター！",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_junior_core_1.json"
   }
 ]
