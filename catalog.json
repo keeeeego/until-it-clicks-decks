@@ -702,5 +702,16 @@
     "subCategory": "英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_4.json"
+  },
+  {
+    "id": "eng_advanced_core_5",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "🎓 難関大英語 (Vol.5) ネイティブ教養・比喩表現30",
+    "note": "英米の知識層が好む比喩表現30選。",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_5.json"
   }
 ]
