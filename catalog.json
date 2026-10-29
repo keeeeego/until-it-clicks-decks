@@ -558,5 +558,16 @@
     "subCategory": "漢検",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_reading_1.json"
+  },
+  {
+    "id": "kanken_2_yoji_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "💮 漢検2級 (Vol.3) 得点源にする必須四字熟語50",
+    "note": "漢検2級の最重要四字熟語50選",
+    "category": "資格・検定",
+    "subCategory": "漢検",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_yoji_1.json"
   }
 ]
