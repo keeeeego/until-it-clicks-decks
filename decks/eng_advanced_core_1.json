@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_advanced_core_1",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "🎓 難関大英語 (Vol.1) 学術・論説・アカデミック30",
+  "note": "難関大の学術論説文を読み解く重要英単語30選。",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "hypothesis",
+      "back": "仮説",
+      "story": "ギリシャ語の「hypo-（下に）+ tithenai（置く）」が語源。まだ証明されていない「下に置かれた考え」のこと。",
+      "searchQuery": "hypothesis etymology scientific method"
+    },
+    {
+      "id": "card_002",
+      "front": "synthesize",
+      "back": "統合する、合成する",
+      "story": "「syn-（共に）+ tithenai（置く）」が語源。バラバラな要素を「一つにまとめ上げ、新たな全体を創り出す」イメージ。料理の食材から論文の論点まで。",
+      "searchQuery": "synthesize meaning academic writing"
+    },
+    {
+      "id": "card_003",
+      "front": "empirical",
+      "back": "経験的、実証的",
+      "story": "ギリシャ語「em-（中へ）+ peira（経験）」由来。机上の空論ではなく、「五感で捉えた事実や実験結果」に基づいていること。",
+      "searchQuery": "empirical evidence definition"
+    },
+    {
+      "id": "card_004",
+      "front": "paradox",
+      "back": "逆説、パラドックス",
+      "story": "「para-（反対の）+ doxa（意見）」が語源。常識に反するように見えて、実は「深い真実を突いている」ような表現や状況。",
+      "searchQuery": "paradox examples literary device"
+    },
+    {
+      "id": "card_005",
+      "front": "ubiquitous",
+      "back": "どこにでもある、遍在する",
+      "story": "ラテン語「ubi（どこに）」由来。まるで空気のように「意識せずとも、そこかしこに存在する」状態。スマホやWi-Fiが典型例。",
+      "searchQuery": "ubiquitous computing prevalence"
+    },
+    {
+      "id": "card_006",
+      "front": "mitigate",
+      "back": "和らげる、軽減する",
+      "story": "ラテン語「mitis（穏やかな）+ agere（行う）」が語源。悪い影響やリスクを「穏やかにし、深刻さを減らす」こと。被害を最小限に抑える。",
+      "searchQuery": "mitigate risk climate change"
+    },
+    {
+      "id": "card_007",
+      "front": "elucidate",
+      "back": "明らかにする、解明する",
+      "story": "「e-（外へ）+ lucidus（明るい）」が語源。複雑で不明瞭な事柄に「光を当て、隅々までクリアにする」ように説明すること。",
+      "searchQuery": "elucidate complex concept explanation"
+    },
+    {
+      "id": "card_008",
+      "front": "paradigm",
+      "back": "模範、典型、パラダイム",
+      "story": "「para-（並んで）+ deiknunai（示す）」が語源。ある時代や分野で「当然とされている、思考の根本的な枠組み」。これが変わるのがパラダイムシフト。",
+      "searchQuery": "paradigm shift definition Thomas Kuhn"
+    },
+    {
+      "id": "card_009",
+      "front": "inherent",
+      "back": "固有の、本来備わった",
+      "story": "「in-（中に）+ haerere（くっつく）」が語源。そのものの「本質として、切り離すことのできない」性質や特性。生まれつき備わっている。",
+      "searchQuery": "inherent property characteristic"
+    },
+    {
+      "id": "card_010",
+      "front": "discrepancy",
+      "back": "相違、矛盾",
+      "story": "「dis-（離れて）+ crepare（きしむ）」が語源。二つの情報やデータが「食い違い、整合性が取れない」状態。まるで歯車がきしむよう。",
+      "searchQuery": "discrepancy in data accounting"
+    },
+    {
+      "id": "card_011",
+      "front": "ostensibly",
+      "back": "表向きは、うわべは",
+      "story": "ラテン語「ostendere（見せる）」由来。真意は別にあるかもしれないが、「外見上は、建前としては」そう見える、というニュアンス。",
+      "searchQuery": "ostensibly meaning example sentences"
+    },
+    {
+      "id": "card_012",
+      "front": "conjecture",
+      "back": "推測、憶測",
+      "story": "「con-（共に）+ jacere（投げる）」が語源。確たる証拠がない中で、「あれこれと可能性を投げかけ、推し量る」こと。仮説よりも根拠が薄い。",
+      "searchQuery": "conjecture vs hypothesis difference"
+    },
+    {
+      "id": "card_013",
+      "front": "substantiate",
+      "back": "実証する、具体化する",
+      "story": "「sub-（下に）+ stare（立つ）」が語源。漠然とした主張や仮説に「具体的な証拠や事実を与え、揺るぎないものにする」こと。",
+      "searchQuery": "substantiate claims evidence"
+    },
+    {
+      "id": "card_014",
+      "front": "pervasive",
+      "back": "普及した、蔓延した",
+      "story": "「per-（通して）+ vadere（行く）」が語源。まるで水が染み渡るように、「あらゆる場所に広がり、深く浸透している」状態。",
+      "searchQuery": "pervasive influence technology"
+    },
+    {
+      "id": "card_015",
+      "front": "delineate",
+      "back": "描写する、輪郭を描く",
+      "story": "「de-（完全に）+ lineare（線を引く）」が語源。複雑な概念や範囲を「線で区切るように、明確に定義し説明する」こと。",
+      "searchQuery": "delineate boundaries scope"
+    },
+    {
+      "id": "card_016",
+      "front": "corroborate",
+      "back": "裏付ける、確証する",
+      "story": "「com-（共に）+ robur（力）」が語源。別の証拠や情報で「主張や事実を補強し、確かなものにする」こと。",
+      "searchQuery": "corroborate testimony evidence"
+    },
+    {
+      "id": "card_017",
+      "front": "equivocal",
+      "back": "曖昧な、多義的な",
+      "story": "「aequus（等しい）+ vocare（呼ぶ）」が語源。複数の意味に「等しく解釈できるため、真意がはっきりしない」状態。玉虫色の発言。",
+      "searchQuery": "equivocal statement ambiguous meaning"
+    },
+    {
+      "id": "card_018",
+      "front": "exacerbate",
+      "back": "悪化させる",
+      "story": "「ex-（外へ）+ acerbus（苦い）」が語源。すでに悪い状況や問題を「さらに深刻にし、耐え難いものにする」こと。",
+      "searchQuery": "exacerbate problem situation"
+    },
+    {
+      "id": "card_019",
+      "front": "ameliorate",
+      "back": "改善する、向上させる",
+      "story": "「ad-（〜へ）+ melior（より良い）」が語源。困難な状況や問題を「より良い状態へと積極的に改善する」こと。exacerbateの対義語。",
+      "searchQuery": "ameliorate conditions poverty"
+    },
+    {
+      "id": "card_020",
+      "front": "propensity",
+      "back": "傾向、性癖",
+      "story": "「pro-（前へ）+ pendere（ぶら下がる）」が語源。ある行動や状態に「自然と引き寄せられ、そうなりがちな」傾向や性質。",
+      "searchQuery": "propensity for violence human behavior"
+    },
+    {
+      "id": "card_021",
+      "front": "reiterate",
+      "back": "繰り返して言う",
+      "story": "「re-（再び）+ iterare（繰り返す）」が語源。聞き逃しや誤解がないよう、あるいは強調のために「同じことを改めて、繰り返し述べる」こと。",
+      "searchQuery": "reiterate point emphasize"
+    },
+    {
+      "id": "card_022",
+      "front": "conundrum",
+      "back": "難問、なぞなぞ",
+      "story": "語源は不明だが、16世紀の大学スラングに由来。解決策が「見当もつかず、頭を悩ませるような」複雑な難問やジレンマ。",
+      "searchQuery": "conundrum meaning example riddle"
+    },
+    {
+      "id": "card_023",
+      "front": "presuppose",
+      "back": "前提とする",
+      "story": "「pre-（前に）+ supponere（下に置く）」が語源。議論や主張の「根底に、当然のこととしてあらかじめ置かれている」考えや条件。",
+      "searchQuery": "presuppose knowledge assumption"
+    },
+    {
+      "id": "card_024",
+      "front": "immutable",
+      "back": "不変の、変えられない",
+      "story": "「im-（否定）+ mutare（変える）」が語源。時間や状況によって「一切変化することがなく、固定されている」性質。絶対的な真理など。",
+      "searchQuery": "immutable law principle"
+    },
+    {
+      "id": "card_025",
+      "front": "ephemeral",
+      "back": "短命な、はかない",
+      "story": "ギリシャ語「epi-（上に）+ hemera（日）」が語源。「一日で散る桜のように、ごく短い期間しか存在しない」はかないもの。",
+      "searchQuery": "ephemeral beauty fleeting moment"
+    },
+    {
+      "id": "card_026",
+      "front": "resilience",
+      "back": "回復力、弾力性",
+      "story": "「re-（再び）+ salire（跳ねる）」が語源。困難や逆境に直面しても「しなやかに跳ね返し、元の状態に戻る」精神的・物理的な強さ。",
+      "searchQuery": "resilience in psychology stress"
+    },
+    {
+      "id": "card_027",
+      "front": "discern",
+      "back": "見分ける、識別する",
+      "story": "「dis-（離れて）+ cernere（ふるい分ける）」が語源。複雑な情報の中から「本質的な違いや真実を、注意深く見極める」こと。",
+      "searchQuery": "discern truth fact difference"
+    },
+    {
+      "id": "card_028",
+      "front": "unprecedented",
+      "back": "前例のない",
+      "story": "「un-（否定）+ pre-（前）+ cedere（行く）」が語源。過去に「一度も例がなく、全く新しい」出来事や状況。歴史的な転換点。",
+      "searchQuery": "unprecedented event historical"
+    },
+    {
+      "id": "card_029",
+      "front": "perfunctory",
+      "back": "形式的、おざなりな",
+      "story": "「per-（完全に）+ fungi（実行する）」が語源。義務だから「仕方なく、最小限の努力で形だけこなす」ような、熱意のない態度。",
+      "searchQuery": "perfunctory effort superficial"
+    },
+    {
+      "id": "card_030",
+      "front": "arbitrary",
+      "back": "恣意的、独断的",
+      "story": "ラテン語「arbiter（仲裁人）」が語源。明確な理由や論理がなく、「個人の気分や独断で勝手に決められる」こと。",
+      "searchQuery": "arbitrary decision subjective"
+    }
+  ]
+}
