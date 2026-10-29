@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_advanced_core_6",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "🎓 難関大英語 (Vol.6) 難関大・差がつく最難関ラスト30",
+  "note": "最難関大で差がつくハイレベル語彙30選",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "ubiquitous",
+      "back": "遍在する",
+      "story": "ラテン語の「ubique（どこにでも）」が語源。まるで空気のように、意識しないうちに「どこにでも存在する」状態。スマホやWi-Fiがまさに現代のubiquitousな存在です。",
+      "searchQuery": "ubiquitous 語源 例文"
+    },
+    {
+      "id": "card_002",
+      "front": "ephemeral",
+      "back": "短命な、はかない",
+      "story": "ギリシャ語で「epi-（〜の上）+ hemera（一日）」。つまり「一日限りの命」。桜の花や夏の夜の夢のように、あっという間に消え去る「はかなさ」を表現します。",
+      "searchQuery": "ephemeral 例文 語源"
+    },
+    {
+      "id": "card_003",
+      "front": "pragmatic",
+      "back": "実用的な、現実主義の",
+      "story": "ギリシャ語「pragma（行為、事実）」が語源。理想論より「実際にどう動くか、どう役立つか」を重視する考え方。机上の空論ではなく、現実的な解決策を求める姿勢です。",
+      "searchQuery": "pragmatic 意味 使い方"
+    },
+    {
+      "id": "card_004",
+      "front": "resilient",
+      "back": "回復力のある",
+      "story": "ラテン語「resilire（跳ね返る）」が語源。ゴムのように「跳ね返る」強さ。困難に直面しても、すぐに立ち直る精神的な回復力や、物理的な弾力性を指します。",
+      "searchQuery": "resilient 語源 例文"
+    },
+    {
+      "id": "card_005",
+      "front": "benevolent",
+      "back": "慈悲深い、親切な",
+      "story": "ラテン語「bene（良い）+ volens（望む）」が語源。「良いことを望む心」から、他人への親切や寛大な振る舞いを表します。サンタクロースのようなイメージ。",
+      "searchQuery": "benevolent 類語 語源"
+    },
+    {
+      "id": "card_006",
+      "front": "malevolent",
+      "back": "悪意のある、邪悪な",
+      "story": "ラテン語「male（悪い）+ volens（望む）」が語源。「悪いことを望む心」から、他人に害を与えようとする悪意や邪悪さを指します。benevolentの完璧な対義語。",
+      "searchQuery": "malevolent 例文 反対語"
+    },
+    {
+      "id": "card_007",
+      "front": "altruistic",
+      "back": "利他的な",
+      "story": "フランス語「autrui（他者）」が語源。自分の利益を顧みず、他者の幸福を最優先する行動や思想。自己犠牲を伴うような、深いレベルの「利他性」を表します。",
+      "searchQuery": "altruistic 語源 例文"
+    },
+    {
+      "id": "card_008",
+      "front": "capricious",
+      "back": "気まぐれな、移り気な",
+      "story": "イタリア語「capriccio（気まぐれ）」が語源。まるで猫のように、予測不能に気分や行動がコロコロ変わる様子。天気や人の性格、市場の動向などによく使われます。",
+      "searchQuery": "capricious 意味 使い方"
+    },
+    {
+      "id": "card_009",
+      "front": "cacophony",
+      "back": "不協和音、耳障りな音",
+      "story": "ギリシャ語「kakos（悪い）+ phone（音）」が語源。まるで調律されていないオーケストラのように、聞くに堪えない「不快な音の集合体」を指します。",
+      "searchQuery": "cacophony 語源 例文"
+    },
+    {
+      "id": "card_010",
+      "front": "clandestine",
+      "back": "秘密裏の",
+      "story": "ラテン語「clandestinus（秘密の）」が語源。まるでスパイ映画のように、人目を避けて「秘密裏に、こっそり」行われる行動や計画を指します。",
+      "searchQuery": "clandestine 例文 シノニム"
+    },
+    {
+      "id": "card_011",
+      "front": "deleterious",
+      "back": "有害な、悪影響を及ぼす",
+      "story": "ギリシャ語「deleterios（有害な）」が語源。すぐに致命的でなくても、健康や環境に「じわじわと、長期的に悪影響を及ぼす」ような有害さを指します。",
+      "searchQuery": "deleterious 語源 意味"
+    },
+    {
+      "id": "card_012",
+      "front": "disseminate",
+      "back": "普及させる、広める",
+      "story": "ラテン語「dis-（離れて）+ seminare（種をまく）」が語源。情報や知識を「種をまくように」広範囲に、そして効率的に「普及させる」ことを意味します。",
+      "searchQuery": "disseminate 例文 語源"
+    },
+    {
+      "id": "card_013",
+      "front": "egregious",
+      "back": "言語道断な、ひどい",
+      "story": "ラテン語「e-（外へ）+ grex（群れ）」が語源。「群れから飛び出すほどひどい」という意味。常識を逸脱した、目に余る「言語道断な」過ちや行動に使われます。",
+      "searchQuery": "egregious 語源 使い方"
+    },
+    {
+      "id": "card_014",
+      "front": "enigmatic",
+      "back": "謎めいた、不可解な",
+      "story": "ギリシャ語「ainigma（なぞなぞ）」が語源。まるで解読不能な暗号のように、理解しがたく「謎めいた」人や状況を指します。ミステリアスな魅力にも使われます。",
+      "searchQuery": "enigmatic 例文 類語"
+    },
+    {
+      "id": "card_015",
+      "front": "exacerbate",
+      "back": "悪化させる",
+      "story": "ラテン語「ex-（外へ）+ acerbus（苦い）」が語源。「苦い状況をさらに悪くする」イメージ。すでに悪い状態を、さらに「悪化させる」ことを指します。",
+      "searchQuery": "exacerbate 語源 意味"
+    },
+    {
+      "id": "card_016",
+      "front": "fastidious",
+      "back": "細かいことにうるさい",
+      "story": "ラテン語「fastidium（嫌悪、うんざり）」が語源。あまりに細かすぎて、他人を「うんざりさせる」ほど。完璧主義で、ちょっとしたことにも「うるさい」様子を表します。",
+      "searchQuery": "fastidious 例文 類語"
+    },
+    {
+      "id": "card_017",
+      "front": "gregarious",
+      "back": "社交的な、群れるのが好きな",
+      "story": "ラテン語「grex（群れ）」が語源。まるで羊の群れのように、人々と一緒にいることを好み「社交的な」性格や、群れて生活する動物を指します。",
+      "searchQuery": "gregarious 語源 例文"
+    },
+    {
+      "id": "card_018",
+      "front": "harbinger",
+      "back": "先触れ、前兆",
+      "story": "古フランス語で「宿屋を提供する人」。元は王や軍隊の到着前に宿を手配する役人。転じて、何かが起こる「先触れ」や「前兆」となるものを指します。",
+      "searchQuery": "harbinger 語源 意味"
+    },
+    {
+      "id": "card_019",
+      "front": "impecunious",
+      "back": "貧乏な、金欠の",
+      "story": "ラテン語「im-（〜でない）+ pecunia（お金）」が語源。「お金がない」状態をフォーマルに表現。まるで財布に一銭もないような「貧乏な」状況を指します。",
+      "searchQuery": "impecunious 語源 例文"
+    },
+    {
+      "id": "card_020",
+      "front": "juxtapose",
+      "back": "並置する、並列させる",
+      "story": "ラテン語「juxta（隣に）+ ponere（置く）」が語源。まるで白と黒を隣り合わせるように、対照的なものを「並置する」ことで、その違いや効果を強調します。",
+      "searchQuery": "juxtapose 語源 使い方"
+    },
+    {
+      "id": "card_021",
+      "front": "labyrinthine",
+      "back": "迷路のような、複雑な",
+      "story": "ギリシャ神話の「ラビリンス（迷宮）」が語源。まるで出口のない迷路のように、複雑に入り組んだ構造や、理解しにくい計画・議論などを形容します。",
+      "searchQuery": "labyrinthine 例文 語源"
+    },
+    {
+      "id": "card_022",
+      "front": "languid",
+      "back": "けだるい、活気のない",
+      "story": "ラテン語「languere（弱る、だるい）」が語源。夏の暑さで「ぐったり」するような、気だるく、活気のない、ゆっくりとした様子を表します。",
+      "searchQuery": "languid 語源 意味"
+    },
+    {
+      "id": "card_023",
+      "front": "magnanimous",
+      "back": "寛大な、度量の大きい",
+      "story": "ラテン語「magnus（大きい）+ animus（精神）」が語源。「大きな心を持つ」人。相手の過ちを許し、気前よく振る舞うような「寛大な」精神を指します。",
+      "searchQuery": "magnanimous 語源 例文"
+    },
+    {
+      "id": "card_024",
+      "front": "meticulous",
+      "back": "細心な、几帳面な",
+      "story": "ラテン語「metus（恐怖）」が語源。元は「怖がりで、細かいことに気を遣う」という意味。転じて、失敗を恐れるあまり、細部にまで「細心な」注意を払う几帳面さを指します。",
+      "searchQuery": "meticulous 語源 意味"
+    },
+    {
+      "id": "card_025",
+      "front": "oscillate",
+      "back": "振動する、揺れ動く",
+      "story": "ラテン語「oscillare（揺れる）」が語源。振り子のように「規則的に揺れ動く」様子。物理的な振動だけでなく、意見や感情が一定の範囲で「行ったり来たり」する状態にも使われます。",
+      "searchQuery": "oscillate 語源 例文"
+    },
+    {
+      "id": "card_026",
+      "front": "peruse",
+      "back": "熟読する、精読する",
+      "story": "ラテン語「per-（完全に）+ usus（使用）」が語源。単に読むのではなく、隅々まで「完全に使い尽くす」ように、注意深く「熟読する」ことを意味します。",
+      "searchQuery": "peruse 意味 使い方"
+    },
+    {
+      "id": "card_027",
+      "front": "plethora",
+      "back": "過多、過剰",
+      "story": "ギリシャ語「plethore（満ち溢れる）」が語源。まるでコップから水が溢れるように、必要以上の「過剰な量」や「過多」の状態を指します。良いものにも悪いものにも使えます。",
+      "searchQuery": "plethora 語源 例文"
+    },
+    {
+      "id": "card_028",
+      "front": "quiescent",
+      "back": "静止した、休止状態の",
+      "story": "ラテン語「quiescere（静かになる）」が語源。まるで休火山のように、一時的に活動を停止し「静止した、休止状態の」様子を表します。",
+      "searchQuery": "quiescent 語源 意味"
+    },
+    {
+      "id": "card_029",
+      "front": "reclusive",
+      "back": "世捨て人のような、引きこもりがちな",
+      "story": "ラテン語「re-（後ろへ）+ claudere（閉じる）」が語源。まるで自分の殻に「閉じこもる」ように、社会から離れて人との交流を避ける「世捨て人のような」生活態度を指します。",
+      "searchQuery": "reclusive 例文 類語"
+    },
+    {
+      "id": "card_030",
+      "front": "sagacious",
+      "back": "賢明な、洞察力のある",
+      "story": "ラテン語「sagax（賢い）」が語源。まるで老賢者のように、経験と知識に基づき、物事の本質を見抜き「賢明な」判断を下せる洞察力を指します。",
+      "searchQuery": "sagacious 語源 例文"
+    }
+  ]
+}
