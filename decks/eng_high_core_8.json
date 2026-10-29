@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_high_core_8",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "🏫 高校英語 (Vol.8) 文脈をひっくり返す副詞・接続表現30",
+  "note": "文脈の転換を示す重要表現30選",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "nevertheless",
+      "back": "それにもかかわらず",
+      "story": "「never」（決して～ない）と「the less」（より少なく）の合体。「どんなに少なく見積もっても、それでも」という語源から、強い逆接を表す。",
+      "searchQuery": "nevertheless 類語 使い方 例文"
+    },
+    {
+      "id": "card_002",
+      "front": "however",
+      "back": "しかし、だが",
+      "story": "「How」（どのように）と「ever」（常に）が合体。「どんな方法でも、常に」という譲歩の意味から、逆接へ。文頭では強い逆接、文中では補足的に使う。",
+      "searchQuery": "however 使い方 接続詞 副詞 違い"
+    },
+    {
+      "id": "card_003",
+      "front": "nonetheless",
+      "back": "それにもかかわらず",
+      "story": "「non」（～でない）と「the less」（より少なく）の合体。「それでも少ないわけではない」という語源から、neverthelessよりやや硬い逆接表現に。",
+      "searchQuery": "nonetheless nevertheless 違い 硬い表現"
+    },
+    {
+      "id": "card_004",
+      "front": "still",
+      "back": "それでもなお",
+      "story": "「静止した」という意味から派生。「状況が変わっても、心は動かずに」というニュアンスで逆接を表す。感情的な逆接によく使われる。",
+      "searchQuery": "still 逆接 意味 副詞"
+    },
+    {
+      "id": "card_005",
+      "front": "even so",
+      "back": "たとえそうであっても",
+      "story": "「たとえそう（so）であっても、なお（even）」という直訳がそのまま意味になる。前の文の事実を認めた上で、それでも逆接を述べる際に使う。",
+      "searchQuery": "even so 使い方 例文 口語"
+    },
+    {
+      "id": "card_006",
+      "front": "on the contrary",
+      "back": "それどころか",
+      "story": "相手の意見や一般的な考えを「真っ向から否定し、全く逆の事実」を述べる際に使う。単なる対比ではなく、反論のニュアンスが強い。",
+      "searchQuery": "on the contrary 使い方 例文 否定"
+    },
+    {
+      "id": "card_007",
+      "front": "in contrast",
+      "back": "対照的に",
+      "story": "「in」（～の中に）「contrast」（対比）で、「対比の中にある」という客観的な比較を表す。on the contraryのような反論ではなく、事実の並列。",
+      "searchQuery": "in contrast 使い方 例文 比較"
+    },
+    {
+      "id": "card_008",
+      "front": "rather",
+      "back": "むしろ、かえって",
+      "story": "「早すぎる」を意味する古英語が語源。「期待や予想よりも早く」というニュアンスから、修正や訂正、好みを表す「むしろ」へ。",
+      "searchQuery": "rather 使い方 例文 むしろ"
+    },
+    {
+      "id": "card_009",
+      "front": "conversely",
+      "back": "逆に",
+      "story": "「converse」（逆の）から派生。論理的な関係や状況が「逆転する」ことを示す。学術的な文脈でよく使われる硬い表現。",
+      "searchQuery": "conversely 使い方 例文 論理"
+    },
+    {
+      "id": "card_010",
+      "front": "whereas",
+      "back": "～である一方",
+      "story": "「where」（どこで）と「as」（～のように）が合体。「～である場所で、同時に」という対比のニュアンス。法律文書などで使われるフォーマルな接続詞。",
+      "searchQuery": "whereas 使い方 例文 接続詞"
+    },
+    {
+      "id": "card_011",
+      "front": "while",
+      "back": "～である一方",
+      "story": "「～する間」という時間軸の意味から、「その間に別のことが起こる」という対比や譲歩へ。時間の流れの中で「一方では」と状況を並列する。",
+      "searchQuery": "while 接続詞 意味 使い方"
+    },
+    {
+      "id": "card_012",
+      "front": "despite",
+      "back": "～にもかかわらず",
+      "story": "古フランス語の「despit」（軽蔑）が語源。「軽蔑すべき障害にもかかわらず」というニュアンスから、前置詞として「～にもかかわらず」の意味に。",
+      "searchQuery": "despite 使い方 例文 前置詞"
+    },
+    {
+      "id": "card_013",
+      "front": "in spite of",
+      "back": "～にもかかわらず",
+      "story": "「spite」（悪意、軽蔑）が語源。「悪意や障害にもかかわらず」という強いニュアンス。despiteよりやや文語的で強調が強い。",
+      "searchQuery": "in spite of despite 違い 使い方"
+    },
+    {
+      "id": "card_014",
+      "front": "though",
+      "back": "～だけれど",
+      "story": "「although」の短縮形として、よりカジュアルな譲歩の接続詞。文末に置かれると「～だけどね」という軽い逆接や補足のニュアンスになる。",
+      "searchQuery": "though 使い方 例文 副詞 接続詞"
+    },
+    {
+      "id": "card_015",
+      "front": "although",
+      "back": "～だけれども",
+      "story": "「all」（全て）と「though」（～だけれど）が合体。「全てを認めつつも、しかし」という強い譲歩を表す。文頭で使うとフォーマルな印象。",
+      "searchQuery": "although 使い方 例文 接続詞"
+    },
+    {
+      "id": "card_016",
+      "front": "even though",
+      "back": "たとえ～だとしても",
+      "story": "「even」（～でさえ）が加わることで、「～という事実があっても、なお」と、譲歩の度合いを強調する。驚きや意外性を伴う逆接。",
+      "searchQuery": "even though although 違い 強調"
+    },
+    {
+      "id": "card_017",
+      "front": "consequently",
+      "back": "結果として",
+      "story": "「consequence」（結果）から派生。「論理的な帰結」や「必然的な結果」を示す。フォーマルな文脈で、原因と結果を明確に繋ぐ。",
+      "searchQuery": "consequently 使い方 例文 結果"
+    },
+    {
+      "id": "card_018",
+      "front": "therefore",
+      "back": "それゆえに",
+      "story": "「there」（そこで）と「for」（～のために）が結合した古英語に由来。「そのために」という論理的な結論を導く。数学の証明でも使われる。",
+      "searchQuery": "therefore 使い方 例文 論理的"
+    },
+    {
+      "id": "card_019",
+      "front": "thus",
+      "back": "このように",
+      "story": "古英語の「this」（これ）に由来。「このようにして」という手段や方法、あるいは「その結果として」を簡潔に示す。やや硬い表現。",
+      "searchQuery": "thus 使い方 例文 副詞"
+    },
+    {
+      "id": "card_020",
+      "front": "hence",
+      "back": "それゆえに",
+      "story": "「ここから（here from）」という意味から転じて、「この結果として」という論理的な帰結を示す。簡潔でフォーマルな表現。",
+      "searchQuery": "hence 使い方 例文 フォーマル"
+    },
+    {
+      "id": "card_021",
+      "front": "as a result",
+      "back": "結果として",
+      "story": "「～として（as）結果（a result）」という直訳がそのまま意味になる。原因と結果の因果関係を最も直接的かつ明確に示す表現。",
+      "searchQuery": "as a result 使い方 例文 原因結果"
+    },
+    {
+      "id": "card_022",
+      "front": "accordingly",
+      "back": "それに応じて",
+      "story": "「accord」（一致する、調和する）から派生。前の状況や指示に「合わせて」行動した「結果として」～となる、というニュアンス。",
+      "searchQuery": "accordingly 使い方 例文"
+    },
+    {
+      "id": "card_023",
+      "front": "in short",
+      "back": "要するに",
+      "story": "「短い（short）中に（in）」という直訳。「長い話や議論を短くまとめて」というニュアンスで、要点を伝える際に使う。",
+      "searchQuery": "in short 使い方 例文 要約"
+    },
+    {
+      "id": "card_024",
+      "front": "in conclusion",
+      "back": "結論として",
+      "story": "「結論（conclusion）の中に（in）」という直訳。論文やスピーチの「締めくくり」として、全体のまとめや最終的な意見を述べる際に使う。",
+      "searchQuery": "in conclusion 使い方 例文 論文"
+    },
+    {
+      "id": "card_025",
+      "front": "to sum up",
+      "back": "要約すると",
+      "story": "「sum」（合計する）が語源。多くの情報を「合計して、簡潔にまとめる」というニュアンス。口語でも文語でも使える。",
+      "searchQuery": "to sum up 使い方 例文 まとめ"
+    },
+    {
+      "id": "card_026",
+      "front": "inevitably",
+      "back": "必然的に",
+      "story": "「in-」（否定）＋「evitable」（避けられる）＝「避けられない」が語源。運命や状況から「逃れられない必然性」を示す。",
+      "searchQuery": "inevitably 語源 使い方 必然"
+    },
+    {
+      "id": "card_027",
+      "front": "necessarily",
+      "back": "必然的に",
+      "story": "「necessary」（必要）から派生。「必要だからこそ、必然的にそうなる」という論理的な帰結。否定形not necessarilyは「必ずしも必要ではない」と、部分否定の落とし穴として重要。",
+      "searchQuery": "necessarily 使い方 例文 not necessarily"
+    },
+    {
+      "id": "card_028",
+      "front": "otherwise",
+      "back": "さもなければ",
+      "story": "「other」（別の）と「wise」（方法）が合体。「別の方法で」という意味から、「もしそうしなければ」という仮定の逆接や結果を示す。",
+      "searchQuery": "otherwise 使い方 例文 さもなければ"
+    },
+    {
+      "id": "card_029",
+      "front": "undoubtedly",
+      "back": "疑いなく",
+      "story": "「un-」（否定）＋「doubt」（疑い）＝「疑いがない」が語源。確実性や「断定的な意見」を述べる際に、説得力を加える。",
+      "searchQuery": "undoubtedly 使い方 例文 確実性"
+    },
+    {
+      "id": "card_030",
+      "front": "indeed",
+      "back": "実際に、本当に",
+      "story": "「in」（～の中に）と「deed」（行為）が語源。「行為の中にある真実」というニュアンスから、前の発言を強調したり、確認したりする。",
+      "searchQuery": "indeed 使い方 例文 強調"
+    }
+  ]
+}
