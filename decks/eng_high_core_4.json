@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_high_core_4",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "🏫 高校英語 (Vol.4) 重要抽象名詞 (社会・科学) 30",
+  "note": "科学・社会テーマの頻出抽象名詞30選。",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "phenomenon",
+      "back": "現象",
+      "story": "ギリシャ語で「現れるもの」が語源。まるで舞台の幕が上がって、目の前に突然現れる出来事のように、自然界や社会で観察できる事柄を指す。「なぜ起こるか」よりも「何が起こったか」に注目するニュアンス。",
+      "searchQuery": "phenomenon 語源 例文"
+    },
+    {
+      "id": "card_002",
+      "front": "evidence",
+      "back": "証拠",
+      "story": "ラテン語で「はっきり見える」が語源。探偵が事件の真相を暴くとき、隠されていた事実が目の前に「はっきり見える」ように提示されるものが「証拠」だ。疑いの余地なく真実を示すもの。",
+      "searchQuery": "evidence 意味 使い方"
+    },
+    {
+      "id": "card_003",
+      "front": "principle",
+      "back": "原理、原則",
+      "story": "ラテン語で「始まり、基礎」が語源。まるで建物の土台のように、物事の最も根本にある「揺るぎないルール」や「基本的な考え方」を指す。ここから全てが始まる、というニュアンス。",
+      "searchQuery": "principle theory 違い"
+    },
+    {
+      "id": "card_004",
+      "front": "institution",
+      "back": "制度、機関",
+      "story": "ラテン語で「設立する、教える」が語源。学校や病院、法律など、社会が機能するために「設立され、定着した」仕組みや組織のこと。人々の行動を規定し、社会を安定させる役割を持つ。",
+      "searchQuery": "institution 例文 語源"
+    },
+    {
+      "id": "card_005",
+      "front": "concept",
+      "back": "概念",
+      "story": "ラテン語で「理解する、心に抱く」が語源。例えば「愛」や「自由」のように、具体的な形はないけれど、誰もが頭の中で「共通して思い描く」抽象的なイメージや考えのこと。",
+      "searchQuery": "concept definition"
+    },
+    {
+      "id": "card_006",
+      "front": "theory",
+      "back": "理論",
+      "story": "ギリシャ語で「観察、熟考」が語源。多くの実験や観察によって「裏付けられ」、物事がなぜそうなるのかを「体系的に説明する」考え方のこと。単なる思いつきではなく、確かな根拠に基づいている。",
+      "searchQuery": "theory hypothesis 違い"
+    },
+    {
+      "id": "card_007",
+      "front": "hypothesis",
+      "back": "仮説",
+      "story": "ギリシャ語で「下に置く」が語源。科学者が実験を始める前に、まず「こうなるだろう」と「仮に立てる」予想や説明のこと。検証によって正しいか間違っているかが決まる、研究の出発点。",
+      "searchQuery": "hypothesis 意味 科学"
+    },
+    {
+      "id": "card_008",
+      "front": "methodology",
+      "back": "方法論",
+      "story": "「method」（方法）と「-ology」（学問）の組み合わせ。単なるやり方ではなく、研究や分析を「どのように進めるべきか」という、その「方法全体を支配する考え方や体系」のこと。料理で言えばレシピではなく、料理哲学。",
+      "searchQuery": "methodology research"
+    },
+    {
+      "id": "card_009",
+      "front": "analysis",
+      "back": "分析",
+      "story": "ギリシャ語で「分解」が語源。複雑な機械を「部品一つ一つにバラバラにして」、それぞれの役割や仕組みを詳しく調べるように、物事を細かく分けて本質を理解すること。",
+      "searchQuery": "analysis 意味 使い方"
+    },
+    {
+      "id": "card_010",
+      "front": "synthesis",
+      "back": "総合、統合",
+      "story": "ギリシャ語で「共に置く」が語源。分析でバラバラにした部品を「再び組み立てて」、全体として新しい価値や意味を生み出すこと。個々の要素を統合し、より大きなものを作り出す作業。",
+      "searchQuery": "synthesis analysis 違い"
+    },
+    {
+      "id": "card_011",
+      "front": "perspective",
+      "back": "視点、見方",
+      "story": "ラテン語で「見通す」が語源。同じ絵を見ても、見る人の立つ位置や角度によって「見え方が変わる」ように、物事を捉える「独自の立場や考え方」のこと。多角的な視点を持つことが重要。",
+      "searchQuery": "perspective point of view"
+    },
+    {
+      "id": "card_012",
+      "front": "implication",
+      "back": "影響、含意",
+      "story": "ラテン語で「巻き込む、織り込む」が語源。直接言葉には出されないけれど、その発言や行動の「裏に隠された意味」や、将来「引き起こされるであろう潜在的な影響」のこと。行間を読むようなニュアンス。",
+      "searchQuery": "implication 例文 意味"
+    },
+    {
+      "id": "card_013",
+      "front": "consequence",
+      "back": "結果",
+      "story": "ラテン語で「共に続く」が語源。ある行動や出来事の「後に必ずついてくる」結果、特に「重大な影響や報い」を指すことが多い。良い結果にも悪い結果にも使われるが、後者のニュアンスが強い。",
+      "searchQuery": "consequence effect difference"
+    },
+    {
+      "id": "card_014",
+      "front": "factor",
+      "back": "要因",
+      "story": "ラテン語で「作る、行う」が語源。料理の材料のように、ある結果や状況を「生み出すために不可欠な要素」のこと。複数の要因が組み合わさって、一つの現象が起こる。",
+      "searchQuery": "factor cause difference"
+    },
+    {
+      "id": "card_015",
+      "front": "variable",
+      "back": "変数",
+      "story": "ラテン語で「変化しやすい」が語源。実験や調査において、その「値や状態が変わりうる」要素のこと。例えば、気温や湿度、年齢など、結果に影響を与える可能性のある「変動する条件」を指す。",
+      "searchQuery": "variable constant"
+    },
+    {
+      "id": "card_016",
+      "front": "correlation",
+      "back": "相関",
+      "story": "「co-」（共に）＋「relation」（関係）が語源。アイスクリームの売上が上がると、水難事故も増える、といったように、二つの事柄が「互いに関連して動く傾向」のこと。ただし、一方がもう一方の原因とは限らない。",
+      "searchQuery": "correlation causation"
+    },
+    {
+      "id": "card_017",
+      "front": "distinction",
+      "back": "区別、差異",
+      "story": "ラテン語で「区別する」が語源。双子でも「性格や趣味の違い」を見分けて、それぞれを「はっきりと区別する」ように、二つ以上の物事の「明確な差異」や、その差異を見分ける行為を指す。",
+      "searchQuery": "distinction difference nuance"
+    },
+    {
+      "id": "card_018",
+      "front": "framework",
+      "back": "枠組み",
+      "story": "「frame」（枠）と「work」（構造）の組み合わせ。家を建てる際の「骨組み」のように、ある議論や研究を進める上で「土台となる基本的な構造」や「思考の枠」のこと。その中で物事を考え、整理する。",
+      "searchQuery": "framework concept model"
+    },
+    {
+      "id": "card_019",
+      "front": "paradigm",
+      "back": "パラダイム、規範",
+      "story": "ギリシャ語で「模範、例」が語源。ある時代や分野で「当たり前とされている、世界を見るための基本的な枠組みや考え方」のこと。これが大きく変わることを「パラダイムシフト」と呼ぶ。",
+      "searchQuery": "paradigm shift 意味"
+    },
+    {
+      "id": "card_020",
+      "front": "consensus",
+      "back": "合意",
+      "story": "ラテン語で「共に感じる」が語源。会議で全員が「心から納得し、同じ方向を向く」ように、複数の人々の間で「意見が一致し、同意が得られる」こと。形式的な賛成だけでなく、内面的な納得を伴う。",
+      "searchQuery": "consensus agreement difference"
+    },
+    {
+      "id": "card_021",
+      "front": "discrepancy",
+      "back": "相違、矛盾",
+      "story": "ラテン語で「きしむ、音を立てる」が語源。報告書と実際のデータが「食い違って、まるで歯車がギシギシと噛み合わない」ように、二つの事柄の間に「不一致や矛盾」がある状態を指す。",
+      "searchQuery": "discrepancy inconsistency"
+    },
+    {
+      "id": "card_022",
+      "front": "validity",
+      "back": "妥当性",
+      "story": "ラテン語で「強い、有効な」が語源。テストが「本当に測りたい能力を正確に測れているか」のように、ある測定や結論が「目的と合致し、適切である」こと。的外れではないか、という視点。",
+      "searchQuery": "validity reliability 違い"
+    },
+    {
+      "id": "card_023",
+      "front": "reliability",
+      "back": "信頼性",
+      "story": "「rely」（信頼する）＋「-ability」（能力）が語源。体重計が「いつ測ってもほぼ同じ値を示す」ように、測定やデータが「繰り返し行っても一貫した結果を示す」こと。安定していて信用できる度合い。",
+      "searchQuery": "reliability definition research"
+    },
+    {
+      "id": "card_024",
+      "front": "diversity",
+      "back": "多様性",
+      "story": "ラテン語で「異なる方向を向く」が語源。サラダボウルに様々な野菜や具材が「それぞれ異なる個性を持って混ざり合っている」ように、集団や環境の中に「多種多様な要素が存在する」状態。",
+      "searchQuery": "diversity inclusion 意味"
+    },
+    {
+      "id": "card_025",
+      "front": "equality",
+      "back": "平等",
+      "story": "ラテン語で「等しい」が語源。マラソンで「全員が同じスタートラインから走り出す」ように、全ての人に「同じ権利や機会が与えられ、同じように扱われる」こと。結果の平等ではなく、機会の平等に重きを置く。",
+      "searchQuery": "equality equity difference"
+    },
+    {
+      "id": "card_026",
+      "front": "justice",
+      "back": "正義",
+      "story": "ラテン語で「正しい」が語源。社会において「何が公平で、何が道徳的に正しいか」という、人々の行動や判断を導く「根本的な規範」のこと。悪を罰し、善を報いるという考え方。",
+      "searchQuery": "justice fairness definition"
+    },
+    {
+      "id": "card_027",
+      "front": "sustainability",
+      "back": "持続可能性",
+      "story": "「sustain」（維持する）＋「-ability」（能力）が語源。地球の資源を「使い果たさずに、未来の世代も豊かに暮らせるように維持し続ける」能力のこと。環境保護や資源管理の文脈でよく使われる。",
+      "searchQuery": "sustainability environment SDGs"
+    },
+    {
+      "id": "card_028",
+      "front": "innovation",
+      "back": "革新",
+      "story": "ラテン語で「新しくする」が語源。既存の製品やサービス、方法に「新しいアイデアや技術を導入して、より良いものに変える」こと。単なる発明だけでなく、社会に新しい価値を生み出す変化を指す。",
+      "searchQuery": "innovation invention creativity"
+    },
+    {
+      "id": "card_029",
+      "front": "evolution",
+      "back": "進化",
+      "story": "ラテン語で「広げる、展開する」が語源。生物が長い時間をかけて「環境に適応し、徐々に姿や能力を変えていく」ように、物事が「段階的に発展し、より複雑で高度になる」過程。",
+      "searchQuery": "evolution theory biology"
+    },
+    {
+      "id": "card_030",
+      "front": "revolution",
+      "back": "革命",
+      "story": "ラテン語で「回転する、元に戻る」が語源。地球が自転するように「一気に大きく回転し、元の状態とは全く異なる新しい体制や状況に根本から変わる」こと。急激で劇的な変化を指す。",
+      "searchQuery": "revolution history social change"
+    }
+  ]
+}
