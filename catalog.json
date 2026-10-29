@@ -569,5 +569,16 @@
     "subCategory": "漢検",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_yoji_1.json"
+  },
+  {
+    "id": "kanken_2_antonym_1",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "💮 漢検2級 (Vol.4) 瞬発力・対義語＆類義語50",
+    "note": "漢検2級対義語・類義語を瞬発力UP！",
+    "category": "資格・検定",
+    "subCategory": "漢検",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_antonym_1.json"
   }
 ]
