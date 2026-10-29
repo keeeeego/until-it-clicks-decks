@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_advanced_core_5",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "🎓 難関大英語 (Vol.5) ネイティブ教養・比喩表現30",
+  "note": "英米の知識層が好む比喩表現30選。",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "catalyst",
+      "back": "変化の触媒",
+      "story": "ギリシャ語の\"katalysis\"（溶解）が語源。化学用語の「触媒」から、議論や変化のきっかけとなる人や物を指す。",
+      "searchQuery": "catalyst meaning etymology"
+    },
+    {
+      "id": "card_002",
+      "front": "scapegoat",
+      "back": "責任を負わされる人",
+      "story": "旧約聖書に由来。贖罪日に人々の罪を負って荒野に放たれたヤギのこと。転じて、他人の罪を負わされる人。",
+      "searchQuery": "scapegoat origin bible"
+    },
+    {
+      "id": "card_003",
+      "front": "bottleneck",
+      "back": "業務の停滞箇所",
+      "story": "瓶の首のように狭い部分。そこが詰まると全体の流れが滞ることから、生産やプロセスの障害となる部分を指す。",
+      "searchQuery": "bottleneck business meaning"
+    },
+    {
+      "id": "card_004",
+      "front": "hurdle",
+      "back": "乗り越えるべき障害",
+      "story": "陸上競技の「ハードル走」から。乗り越えるべき物理的・比喩的な障害物を意味する。古英語の\"hyrdel\"（編み垣）が語源。",
+      "searchQuery": "hurdle metaphor origin"
+    },
+    {
+      "id": "card_005",
+      "front": "vanguard",
+      "back": "思想・運動の先駆者",
+      "story": "軍事用語の「前衛」が語源。フランス語の\"avant-garde\"から。思想や運動の最先端を行く人々を指す。",
+      "searchQuery": "vanguard etymology art"
+    },
+    {
+      "id": "card_006",
+      "front": "bellwether",
+      "back": "先行指標となるもの",
+      "story": "羊の群れの先頭に立ち、首に鈴(bell)をつけた去勢された雄羊(wether)のこと。転じて、傾向を示す先行指標。",
+      "searchQuery": "bellwether origin meaning"
+    },
+    {
+      "id": "card_007",
+      "front": "litmus test",
+      "back": "真価を問う試金石",
+      "story": "化学で酸性・アルカリ性を示すリトマス紙から。ある状況や人物の真の性質や意図を明らかにする決定的なテスト。",
+      "searchQuery": "litmus test metaphor"
+    },
+    {
+      "id": "card_008",
+      "front": "watershed moment",
+      "back": "歴史的転換点",
+      "story": "地形学の「分水嶺」から。雨水が流れ出す方向を分ける境界。転じて、事態の方向性を決定づける重要な瞬間を指す。",
+      "searchQuery": "watershed moment origin"
+    },
+    {
+      "id": "card_009",
+      "front": "prodigal son",
+      "back": "放蕩の末に改心した息子",
+      "story": "新約聖書のたとえ話に登場。財産を使い果たし放蕩の限りを尽くすが、後に改心して父に迎えられる息子。",
+      "searchQuery": "prodigal son biblical meaning"
+    },
+    {
+      "id": "card_010",
+      "front": "Pyrrhic victory",
+      "back": "損害が大きすぎる勝利",
+      "story": "紀元前3世紀、エピロス王ピュロスがローマに勝利したが、甚大な犠牲を払ったことに由来する。",
+      "searchQuery": "Pyrrhic victory origin"
+    },
+    {
+      "id": "card_011",
+      "front": "Gordian knot",
+      "back": "解決困難な難問",
+      "story": "伝説の複雑な結び目。アレクサンドロス大王が剣で一刀両断した逸話から、困難な問題を大胆に解決すること。",
+      "searchQuery": "Gordian knot meaning"
+    },
+    {
+      "id": "card_012",
+      "front": "Achilles' heel",
+      "back": "唯一の致命的弱点",
+      "story": "ギリシャ神話の英雄アキレスが唯一無敵でなかったかかと。どんなに強くても、そこを突かれると致命傷になる弱点。",
+      "searchQuery": "Achilles' heel origin myth"
+    },
+    {
+      "id": "card_013",
+      "front": "swan song",
+      "back": "最後の傑作や活動",
+      "story": "古代ギリシャの伝説。白鳥は死ぬ直前に最も美しい歌を歌うとされた。転じて、芸術家などの最後の傑作や活動。",
+      "searchQuery": "swan song origin myth"
+    },
+    {
+      "id": "card_014",
+      "front": "Hobson's choice",
+      "back": "選択の余地がない状況",
+      "story": "17世紀の馬貸しホブソンが「一番手前の馬を借りるか、借りないか」しか選ばせなかったことから。実質的な選択肢がないこと。",
+      "searchQuery": "Hobson's choice origin"
+    },
+    {
+      "id": "card_015",
+      "front": "Catch-22",
+      "back": "不合理な矛盾した規則",
+      "story": "ジョセフ・ヘラーの小説タイトルから。論理的に矛盾し、抜け出すことのできない状況や規則を指す。",
+      "searchQuery": "Catch-22 meaning paradox"
+    },
+    {
+      "id": "card_016",
+      "front": "Pandora's box",
+      "back": "災いの元となるもの",
+      "story": "ギリシャ神話。パンドラが開けた箱からあらゆる災いが飛び出した。一度開けると不幸が次々に出てくる問題。",
+      "searchQuery": "Pandora's box myth meaning"
+    },
+    {
+      "id": "card_017",
+      "front": "red herring",
+      "back": "議論をそらす偽情報",
+      "story": "燻製ニシン(red herring)の強い匂いで猟犬の追跡をそらす訓練に使われたことから。議論の焦点をそらすための偽情報。",
+      "searchQuery": "red herring origin fallacy"
+    },
+    {
+      "id": "card_018",
+      "front": "the elephant in the room",
+      "back": "誰もが避ける明白な問題",
+      "story": "部屋にゾウがいるのに誰も言及しないという不条理な状況。明白なのに、気まずさから無視されている大きな問題。",
+      "searchQuery": "elephant in the room idiom"
+    },
+    {
+      "id": "card_019",
+      "front": "to cross the Rubicon",
+      "back": "後戻りできない決断",
+      "story": "ユリウス・カエサルがローマ進軍の際に渡った川。軍を率いて渡ると内乱罪となるため、後には引けない決断の象徴。",
+      "searchQuery": "cross the Rubicon origin Caesar"
+    },
+    {
+      "id": "card_020",
+      "front": "to tilt at windmills",
+      "back": "無益な幻想との戦い",
+      "story": "ドン・キホーテが風車を巨人だと勘違いして戦いを挑んだ逸話から。現実離れした敵や問題と無駄に戦うこと。",
+      "searchQuery": "tilt at windmills Don Quixote"
+    },
+    {
+      "id": "card_021",
+      "front": "to burn the midnight oil",
+      "back": "夜遅くまで熱心に働く",
+      "story": "昔、電気がなく夜中に油（oil）を燃やすランプで勉強したことから。深夜まで熱心に作業に打ち込む様子。",
+      "searchQuery": "burn the midnight oil origin"
+    },
+    {
+      "id": "card_022",
+      "front": "to throw in the towel",
+      "back": "敗北を認め諦める",
+      "story": "ボクシングで、セコンドが試合続行不可能と判断した際にタオルをリングに投げ入れる行為から。敗北を認め諦めること。",
+      "searchQuery": "throw in the towel origin boxing"
+    },
+    {
+      "id": "card_023",
+      "front": "to bite the bullet",
+      "back": "困難な状況に耐え抜く",
+      "story": "昔、手術で麻酔がない時代に患者が痛みに耐えるため弾丸を噛みしめたという説。苦しい状況を我慢して乗り切る。",
+      "searchQuery": "bite the bullet origin"
+    },
+    {
+      "id": "card_024",
+      "front": "to turn a blind eye",
+      "back": "意図的に見て見ぬふり",
+      "story": "ネルソン提督が、上官の命令旗信号を「見えない」と片目を覆って無視し、敵艦隊を攻撃した逸話に由来。",
+      "searchQuery": "turn a blind eye Nelson"
+    },
+    {
+      "id": "card_025",
+      "front": "to jump on the bandwagon",
+      "back": "流行や人気に便乗する",
+      "story": "昔、巡業の際に楽団(band)が乗る馬車(wagon)に人々が飛び乗ってパレードに参加したことから。流行や人気に乗っかる。",
+      "searchQuery": "jump on the bandwagon origin"
+    },
+    {
+      "id": "card_026",
+      "front": "to break the ice",
+      "back": "場の緊張を和ませる",
+      "story": "昔、凍った川を船が通る際に氷を砕いて航路を開いたことから。初対面の人々の間の気まずい沈黙を破り、打ち解ける。",
+      "searchQuery": "break the ice origin"
+    },
+    {
+      "id": "card_027",
+      "front": "to get cold feet",
+      "back": "計画直前に怖気づく",
+      "story": "寒くて足が冷えると動きが鈍くなることから、あるいは兵士が戦場から逃げるために足を凍らせたという説も。計画直前に臆病になる。",
+      "searchQuery": "get cold feet origin"
+    },
+    {
+      "id": "card_028",
+      "front": "to open a can of worms",
+      "back": "厄介な問題を引き起こす",
+      "story": "釣りの餌として使うミミズの缶を開けると、ミミズが絡み合って収拾がつかなくなる様子から。複雑な問題を引き起こすこと。",
+      "searchQuery": "open a can of worms idiom"
+    },
+    {
+      "id": "card_029",
+      "front": "to beat around the bush",
+      "back": "核心を避けて遠回しに言う",
+      "story": "昔の鳥狩りでは、直接茂みに踏み込まず、周囲を叩いて鳥を追い出してから捕らえたことから。本題に入らず回りくどい話し方。",
+      "searchQuery": "beat around the bush origin"
+    },
+    {
+      "id": "card_030",
+      "front": "to hit the nail on the head",
+      "back": "的確に核心を突く",
+      "story": "金槌で釘を打ち込む際に、頭（head）の真ん中を正確に叩く様子から。まさにその通り、正確に問題を指摘すること。",
+      "searchQuery": "hit the nail on the head origin"
+    }
+  ]
+}
