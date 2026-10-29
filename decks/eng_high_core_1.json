@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_high_core_1",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "🏫 高校英語 (Vol.1) 読解コア動詞 (基礎) 30",
+  "note": "共通テスト読解コア動詞30選",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "affect",
+      "back": "影響を与えること",
+      "story": "ラテン語「ad- (〜へ) + facere (する)」が語源。何かを「〜へ向かってする」から、働きかけ、変化をもたらす意味に。**A**ffectは**A**ction（動詞）で「影響を与える」、**E**ffectは**E**nd（名詞）で「結果」と覚えよ。",
+      "searchQuery": "affect effect 違い 語源"
+    },
+    {
+      "id": "card_002",
+      "front": "achieve",
+      "back": "達成すること",
+      "story": "古フランス語「a chef (to the head/end)」が語源。目標の「頭（chef）」、つまり頂点に到達するイメージ。料理の「シェフ」がチームの「長」として目標を「達成する」姿を重ねて覚えよ。",
+      "searchQuery": "achieve 語源 達成"
+    },
+    {
+      "id": "card_003",
+      "front": "require",
+      "back": "要求すること",
+      "story": "ラテン語「re- (再び) + quaerere (求める)」が語源。何度も「繰り返し求める」切実なニュアンス。まるで「これがないと困る！」と強く要求する場面を想像せよ。",
+      "searchQuery": "require 語源 類語"
+    },
+    {
+      "id": "card_004",
+      "front": "provide",
+      "back": "供給すること",
+      "story": "ラテン語「pro- (前もって) + videre (見る)」が語源。「前もって見て」必要なものを「備える」イメージ。プロバイダー（provider）がインターネットを「供給する」のも、事前に準備しているからだ。",
+      "searchQuery": "provide 語源 供給"
+    },
+    {
+      "id": "card_005",
+      "front": "allow",
+      "back": "許可すること",
+      "story": "古フランス語「alouer (許可する)」が語源。元は「賞賛する」から「認める」を経て「許可する」へ。相手の行動を「良い」と認め、自由にさせるニュアンス。",
+      "searchQuery": "allow permit 違い"
+    },
+    {
+      "id": "card_006",
+      "front": "appear",
+      "back": "現れること",
+      "story": "ラテン語「ad- (〜へ) + parere (現れる)」が語源。「目の前にパッと現れる」イメージ。幽霊が「出現する」のも `appear`。`seem` が内面的な印象なのに対し、`appear` は視覚的な現れ。",
+      "searchQuery": "appear seem 違い 語源"
+    },
+    {
+      "id": "card_007",
+      "front": "approach",
+      "back": "近づくこと",
+      "story": "ラテン語「ad- (〜へ) + prope (近い)」が語源。「〜へ近く」から、物理的・抽象的に「近づく」こと。異性に「アプローチをかける」ように、目標や問題に「取り組む」際にも使う。",
+      "searchQuery": "approach 語源 類義語"
+    },
+    {
+      "id": "card_008",
+      "front": "assume",
+      "back": "仮定すること",
+      "story": "ラテン語「ad- (〜へ) + sumere (取る)」が語源。「自分のものとして取り入れる」から「責任を引き受ける」や「事実として仮定する」へ。根拠がなくても「そうだろうと決めつける」ニュアンス。",
+      "searchQuery": "assume 語源 assume that"
+    },
+    {
+      "id": "card_009",
+      "front": "consider",
+      "back": "考慮すること",
+      "story": "ラテン語「con- (共に) + sidus (星)」が語源。古代の占星術師が「星々をじっと見つめ、その配置から未来を熟考する」イメージ。あらゆる要素を「考慮に入れる」熟慮の動詞。",
+      "searchQuery": "consider 語源 熟考"
+    },
+    {
+      "id": "card_010",
+      "front": "develop",
+      "back": "発展させること",
+      "story": "古フランス語「des- (離れて) + voloper (包む)」が語源。「包みを解いて広げる」イメージ。写真のフィルムを「現像する」ように、潜在的なものを「引き出し、発展させる」ニュアンス。",
+      "searchQuery": "develop 語源 開発"
+    },
+    {
+      "id": "card_011",
+      "front": "establish",
+      "back": "設立すること",
+      "story": "ラテン語「e- (外へ) + stabilire (安定させる)」が語源。「外に安定したものを築く」イメージ。会社や制度を「設立する」だけでなく、地位や評判を「確立する」際にも使う、盤石な動詞。",
+      "searchQuery": "establish 語源 設立"
+    },
+    {
+      "id": "card_012",
+      "front": "express",
+      "back": "表現すること",
+      "story": "ラテン語「ex- (外へ) + premere (押す)」が語源。内にある感情や考えを「外へ押し出す」イメージ。エクスプレス（急行）が速く目的地へ「運ぶ」ように、思いを明確に「表現する」。",
+      "searchQuery": "express 語源 表現"
+    },
+    {
+      "id": "card_013",
+      "front": "identify",
+      "back": "特定すること",
+      "story": "ラテン語「idem (同じ) + facere (作る)」が語源。「これと同じものだ」と見極め、「それが何であるか」を突き止めるイメージ。指紋やDNAで「身元を特定する」ように、本質を見抜く動詞。",
+      "searchQuery": "identify 語源 識別"
+    },
+    {
+      "id": "card_014",
+      "front": "involve",
+      "back": "巻き込むこと",
+      "story": "ラテン語「in- (中に) + volvere (巻く)」が語源。「中にぐるぐると巻き込む」イメージ。事件に「巻き込まれる」ように、ある状況や活動に深く「関与させる」ニュアンス。",
+      "searchQuery": "involve 語源 関与"
+    },
+    {
+      "id": "card_015",
+      "front": "maintain",
+      "back": "維持すること",
+      "story": "ラテン語「manu tenere (手で持つ)」が語源。「手でしっかり持ち続ける」イメージ。現状を「維持する」だけでなく、自分の意見を「主張し続ける」際にも使う、粘り強さのある動詞。",
+      "searchQuery": "maintain 語源 維持"
+    },
+    {
+      "id": "card_016",
+      "front": "obtain",
+      "back": "入手すること",
+      "story": "ラテン語「ob- (〜へ向かって) + tenere (持つ)」が語源。「目標に向かって手を伸ばし、しっかりと掴み取る」イメージ。努力や手続きを経て、何かを「獲得する」フォーマルな動詞。",
+      "searchQuery": "obtain 語源 get 違い"
+    },
+    {
+      "id": "card_017",
+      "front": "observe",
+      "back": "観察すること",
+      "story": "ラテン語「ob- (〜へ向かって) + servare (守る/見る)」が語源。「注意深く見守る」から「観察する」。また、規則を「守る（遵守する）」という意味も。まるで監視カメラがじっと「見守る」ように。",
+      "searchQuery": "observe 語源 観察"
+    },
+    {
+      "id": "card_018",
+      "front": "perform",
+      "back": "実行すること",
+      "story": "古フランス語「par- (完全に) + fournir (供給する)」が語源。「完全にやり遂げる」イメージ。舞台で役を「演じる」ように、与えられた役割やタスクを「実行する」際に使う。",
+      "searchQuery": "perform 語源 実行"
+    },
+    {
+      "id": "card_019",
+      "front": "prevent",
+      "back": "予防すること",
+      "story": "ラテン語「prae- (前に) + venire (来る)」が語源。「問題が起こる前に、先回りしてやって来て防ぐ」イメージ。病気を「予防する」ように、悪い事態を未然に「妨げる」動詞。",
+      "searchQuery": "prevent 語源 予防"
+    },
+    {
+      "id": "card_020",
+      "front": "propose",
+      "back": "提案すること",
+      "story": "ラテン語「pro- (前に) + ponere (置く)」が語源。「考えを相手の前に置く」イメージ。結婚の「プロポーズ」のように、自分の意見や計画を明確に「提案する」際に使う。",
+      "searchQuery": "propose 語源 プロポーズ"
+    },
+    {
+      "id": "card_021",
+      "front": "recognize",
+      "back": "認識すること",
+      "story": "ラテン語「re- (再び) + cognoscere (知る)」が語源。「一度知ったことを再び認識する」イメージ。久しぶりに会った友人を「見覚えがある」と「認識する」ように、事実や存在を「認める」動詞。",
+      "searchQuery": "recognize 語源 認識"
+    },
+    {
+      "id": "card_022",
+      "front": "reduce",
+      "back": "減らすこと",
+      "story": "ラテン語「re- (戻って) + ducere (導く)」が語源。「元の状態へと導き戻す」イメージ。ダイエットで体重を「減らす」ように、量や規模を「縮小する」際に使う。",
+      "searchQuery": "reduce 語源 削減"
+    },
+    {
+      "id": "card_023",
+      "front": "relate",
+      "back": "関連付けること",
+      "story": "ラテン語「re- (再び) + latus (運ばれた)」が語源。「再び運び、結びつける」イメージ。物事の間に「関係性を見出す」こと。親戚を `relative` と呼ぶように、互いに「関連がある」状態。",
+      "searchQuery": "relate 語源 関係"
+    },
+    {
+      "id": "card_024",
+      "front": "remain",
+      "back": "残ること",
+      "story": "ラテン語「re- (後ろに) + manere (留まる)」が語源。「後ろに留まり続ける」イメージ。嵐が過ぎ去っても「残る」もの、あるいは特定の状態を「維持し続ける」ニュアンス。",
+      "searchQuery": "remain 語源 残る"
+    },
+    {
+      "id": "card_025",
+      "front": "represent",
+      "back": "代表すること",
+      "story": "ラテン語「re- (再び) + praesentare (提示する)」が語源。「目の前に再び提示する」イメージ。国旗が国を「象徴する」ように、ある集団や概念を「代表する」動詞。",
+      "searchQuery": "represent 語源 代表"
+    },
+    {
+      "id": "card_026",
+      "front": "reveal",
+      "back": "明らかにすること",
+      "story": "ラテン語「re- (後ろへ) + velare (覆う)」が語源。「覆いを後ろへ取り除き、隠されていたものを白日の下に晒す」イメージ。秘密を「暴露する」ように、真実を「明らかにする」動詞。",
+      "searchQuery": "reveal 語源 暴露"
+    },
+    {
+      "id": "card_027",
+      "front": "seek",
+      "back": "求めること",
+      "story": "古英語「secan」が語源。単に「探す」のではなく、目標や助けを「積極的に探し求める」ニュアンス。フォーマルな場面で「平和を求める (seek peace)」のように使う。",
+      "searchQuery": "seek 語源 探す"
+    },
+    {
+      "id": "card_028",
+      "front": "suffer",
+      "back": "苦しむこと",
+      "story": "ラテン語「sub- (下に) + ferre (運ぶ)」が語源。「重い負担を下に抱え込む」イメージ。病気や苦痛を「被る」ように、精神的・肉体的に「苦しむ」動詞。",
+      "searchQuery": "suffer 語源 苦痛"
+    },
+    {
+      "id": "card_029",
+      "front": "suggest",
+      "back": "提案すること",
+      "story": "ラテン語「sub- (下に) + gerere (運ぶ)」が語源。「そっと下に差し出す」イメージ。直接的ではなく、ヒントを与えたり、遠回しに「示唆する」ニュアンスの「提案」動詞。",
+      "searchQuery": "suggest 語源 提案"
+    },
+    {
+      "id": "card_030",
+      "front": "tend",
+      "back": "傾向があること",
+      "story": "ラテン語「tendere (伸ばす)」が語源。ある方向へ「伸びていく」ことから「〜する傾向がある」。また、注意を「向ける」から、子供や植物を「世話をする」という意味にも派生。",
+      "searchQuery": "tend 語源 傾向"
+    }
+  ]
+}
