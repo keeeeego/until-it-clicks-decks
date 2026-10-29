@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_high_core_7",
+  "version": "1.0.0",
+  "updatedAt": "2024-07-30",
+  "schemaVersion": 2,
+  "title": "🏫 高校英語 (Vol.7) 論説文で頻出する形容詞30",
+  "note": "論説文で評価・重要度を見抜くキー形容詞",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "significant",
+      "back": "重要な",
+      "story": "「sign-（印）」と「-fic（作る）」が語源。議論において「印を作るほど注目すべき」点を指す。筆者が強調したい主張の核によく使われる。",
+      "searchQuery": "significant 語源 類義語"
+    },
+    {
+      "id": "card_002",
+      "front": "essential",
+      "back": "不可欠な",
+      "story": "「esse（存在する）」が語源。「存在するために絶対に欠かせない」という意味。論説文では、ある主張やシステムの根幹を成す要素を表す。",
+      "searchQuery": "essential 語源 使い方"
+    },
+    {
+      "id": "card_003",
+      "front": "relevant",
+      "back": "関連する",
+      "story": "「re-（再び）」と「levare（持ち上げる）」が語源。議論において、主題に「再び持ち上げる価値がある」ほど直接関係していることを示す。",
+      "searchQuery": "relevant 語源 opposite"
+    },
+    {
+      "id": "card_004",
+      "front": "evident",
+      "back": "明白な",
+      "story": "「e-（外へ）」と「videre（見る）」が語源。「外から見れば明らか」なほど、確かな証拠や根拠に基づいて明白であることを強調する。",
+      "searchQuery": "evident 類義語 proof"
+    },
+    {
+      "id": "card_005",
+      "front": "crucial",
+      "back": "決定的な",
+      "story": "ラテン語の「crux（十字架）」が語源。十字路のように、どちらを選ぶかで運命が分かれるような「極めて重要な、決定的な」局面や要素を指す。",
+      "searchQuery": "crucial 語源 critical"
+    },
+    {
+      "id": "card_006",
+      "front": "critical",
+      "back": "批判的な／極めて重要な",
+      "story": "ギリシャ語「krinein（判断する）」が語源。物事を厳しく「判断」する視点と、その判断を左右する「決定的な」重要性という二つの意味を持つ。",
+      "searchQuery": "critical thinking 語源"
+    },
+    {
+      "id": "card_007",
+      "front": "primary",
+      "back": "主要な",
+      "story": "ラテン語の「primus（最初の）」が語源。時間的に最初であるだけでなく、「最も重要で優先順位が高い」ことを示す。",
+      "searchQuery": "primary secondary tertiary"
+    },
+    {
+      "id": "card_008",
+      "front": "fundamental",
+      "back": "根源的な",
+      "story": "ラテン語「fundus（土台）」が語源。建物の土台のように、物事の「根本」を成し、それなしには成り立たない要素を指す。",
+      "searchQuery": "fundamental principles 語源"
+    },
+    {
+      "id": "card_009",
+      "front": "major",
+      "back": "主要な",
+      "story": "ラテン語「magnus（大きい）」の比較級が語源。「より大きな」という意味から、規模や重要性において「主要な」部分や多数派を表す。",
+      "searchQuery": "major minor differences"
+    },
+    {
+      "id": "card_010",
+      "front": "minor",
+      "back": "重要でない",
+      "story": "ラテン語「magnus（大きい）」の比較級「minor（より小さい）」が語源。重要度が低い、あるいは規模が小さいことを示す。",
+      "searchQuery": "minor problems trivial"
+    },
+    {
+      "id": "card_011",
+      "front": "considerable",
+      "back": "かなりの",
+      "story": "「consider（熟考する）」から派生。「熟考するに値するほど」の量や重要性があることを示す。単なる「多い」ではなく、無視できない程度。",
+      "searchQuery": "considerable amount of 類義語"
+    },
+    {
+      "id": "card_012",
+      "front": "substantial",
+      "back": "実質的な",
+      "story": "「substare（下に立つ）」が語源。物理的な「実体」があることや、量・価値が「相当な」ことを意味し、根拠や内容の重みを強調する。",
+      "searchQuery": "substantial evidence 語源"
+    },
+    {
+      "id": "card_013",
+      "front": "adequate",
+      "back": "十分な",
+      "story": "「ad-（～へ）」と「aequus（等しい）」が語源。「目的に対して等しく、必要条件を完全に満たしている」状態。過不足なく適切。",
+      "searchQuery": "adequate supply sufficient"
+    },
+    {
+      "id": "card_014",
+      "front": "insufficient",
+      "back": "不十分な",
+      "story": "「in-（否定）」と「sufficient（十分な）」の組み合わせ。ある目的や基準に対して「足りていない、不十分な」状態を表す。",
+      "searchQuery": "insufficient evidence lack of"
+    },
+    {
+      "id": "card_015",
+      "front": "effective",
+      "back": "効果的な",
+      "story": "「ex-（外へ）」と「facere（行う）」が語源。「外に結果を出す」という意味。目的を達成する能力があり、実際に良い結果を生むことを示す。",
+      "searchQuery": "effective methods efficient"
+    },
+    {
+      "id": "card_016",
+      "front": "ineffective",
+      "back": "効果のない",
+      "story": "「in-（否定）」と「effective（効果的な）」の組み合わせ。望ましい結果や目的を達成できない状態を指す。",
+      "searchQuery": "ineffective strategies pointless"
+    },
+    {
+      "id": "card_017",
+      "front": "valid",
+      "back": "正当な",
+      "story": "ラテン語「validus（強い）」が語源。「根拠が強く、論理的に正当な」という意味。議論や主張が理にかなっていることを強調する。",
+      "searchQuery": "valid argument logical"
+    },
+    {
+      "id": "card_018",
+      "front": "invalid",
+      "back": "根拠のない",
+      "story": "「in-（否定）」と「valid（正当な）」の組み合わせ。論理的根拠がない、あるいは法的に効力がない状態を指す。",
+      "searchQuery": "invalid claim false"
+    },
+    {
+      "id": "card_019",
+      "front": "objective",
+      "back": "客観的な",
+      "story": "「ob-（～に向かって）」と「jacere（投げる）」が語源。自分を離れて「対象に向かって」見る視点。個人的な感情や偏見を排した公平な判断。",
+      "searchQuery": "objective vs subjective neutral"
+    },
+    {
+      "id": "card_020",
+      "front": "subjective",
+      "back": "主観的な",
+      "story": "「sub-（下に）」と「jacere（投げる）」が語源。自分自身の内側に「投げられた」視点。個人的な感情や意見に基づくことを示す。",
+      "searchQuery": "subjective opinion personal bias"
+    },
+    {
+      "id": "card_021",
+      "front": "accurate",
+      "back": "正確な",
+      "story": "ラテン語「ad-（～へ）」と「cura（注意）」が語源。「注意を払って完璧に」という意味。事実と寸分違わず、間違いがないことを強調する。",
+      "searchQuery": "accurate data precise"
+    },
+    {
+      "id": "card_022",
+      "front": "inaccurate",
+      "back": "不正確な",
+      "story": "「in-（否定）」と「accurate（正確な）」の組み合わせ。事実と異なる、あるいは間違いを含んでいる状態を指す。",
+      "searchQuery": "inaccurate information misleading"
+    },
+    {
+      "id": "card_023",
+      "front": "diverse",
+      "back": "多様な",
+      "story": "「di-（離れて）」と「vertere（向く）」が語源。「様々な方向を向く」ことから、多くの種類や違いがあることを意味する。",
+      "searchQuery": "diverse culture variety"
+    },
+    {
+      "id": "card_024",
+      "front": "numerous",
+      "back": "多数の",
+      "story": "ラテン語「numerus（数）」が語源。単に数が多いだけでなく、数えきれないほどの多さを強調するニュアンスがある。",
+      "searchQuery": "numerous examples countless"
+    },
+    {
+      "id": "card_025",
+      "front": "potential",
+      "back": "潜在的な",
+      "story": "ラテン語「potens（力のある）」が語源。まだ実現していないが、「可能性を秘めた力」があることを示す。将来性や未開発の能力。",
+      "searchQuery": "potential energy future possibility"
+    },
+    {
+      "id": "card_026",
+      "front": "obvious",
+      "back": "明白な",
+      "story": "「ob-（～に向かって）」と「via（道）」が語源。「道の途中に現れる」ことから、誰の目にも明らかで、説明するまでもないほど明白なことを意味する。",
+      "searchQuery": "obvious truth self-evident"
+    },
+    {
+      "id": "card_027",
+      "front": "distinct",
+      "back": "明確な",
+      "story": "「dis-（離れて）」と「stingere（刺す）」が語源。まるで区切りを「刺し示す」ように、他のものとはっきりと区別できるほど明確なことを示す。",
+      "searchQuery": "distinct difference unique"
+    },
+    {
+      "id": "card_028",
+      "front": "specific",
+      "back": "特定の",
+      "story": "ラテン語「species（種類）」が語源。一般的なものではなく、「特定の種類」に限定されることや、詳細にわたる具体的な事柄を表す。",
+      "searchQuery": "specific details precise"
+    },
+    {
+      "id": "card_029",
+      "front": "general",
+      "back": "一般的な",
+      "story": "ラテン語「genus（種類、種族）」が語源。特定の対象ではなく、「全体にわたる」広範な事柄を指す。包括的で詳細にこだわらない。",
+      "searchQuery": "general idea comprehensive"
+    },
+    {
+      "id": "card_030",
+      "front": "widespread",
+      "back": "広範囲の",
+      "story": "「wide（広い）」と「spread（広がる）」の組み合わせ。地理的、あるいは社会的に「広く普及している」状態を表す。多くの場所や人々に及ぶ。",
+      "searchQuery": "widespread phenomenon common"
+    }
+  ]
+}
