@@ -7,6 +7,7 @@
     "note": "空港の搭乗手続き、税関、入国審査で役立つ頻出英会話表現",
     "category": "語学",
     "subCategory": "英語",
+    "series": "空港英会話",
     "cardCount": 20,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_airport_sample_20.json"
   },
@@ -18,6 +19,7 @@
     "note": "AIの歴史・機械学習・法律倫理の最重要50選",
     "category": "資格・AI",
     "subCategory": "G検定",
+    "series": "G検定",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_50_1.json"
   },
@@ -29,6 +31,7 @@
     "note": "日常でそのまま使える定番の一言・短文フレーズ20選",
     "category": "教養・カルチャー",
     "subCategory": "方言",
+    "series": "新潟弁日常会話",
     "cardCount": 20,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/niigata_dialect_basic_1.json"
   },
@@ -40,6 +43,7 @@
     "note": "現代語トラップ＆超頻出の最重要古語50選",
     "category": "語学",
     "subCategory": "古文",
+    "series": "古文単語",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_basic_1.json"
   },
@@ -51,6 +55,7 @@
     "note": "共通テスト頻出！確実に得点源にする基礎50選",
     "category": "語学",
     "subCategory": "古文",
+    "series": "古文単語",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_basic_2.json"
   },
@@ -62,6 +67,7 @@
     "note": "登場人物の心情や情景描写を読み解く標準50選",
     "category": "語学",
     "subCategory": "古文",
+    "series": "古文単語",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_standard_1.json"
   },
@@ -73,6 +79,7 @@
     "note": "ストーリー展開を握る重要動詞と生活習慣50選",
     "category": "語学",
     "subCategory": "古文",
+    "series": "古文単語",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_standard_2.json"
   },
@@ -84,6 +91,7 @@
     "note": "二次・難関私大で差がつく重要副詞と多義語50選",
     "category": "語学",
     "subCategory": "古文",
+    "series": "古文単語",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_advanced_1.json"
   },
@@ -95,6 +103,7 @@
     "note": "平安・中世の美意識や仏教・世相を完全制覇する50選",
     "category": "語学",
     "subCategory": "古文",
+    "series": "古文単語",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kobun_vocab_advanced_2.json"
   },
@@ -106,6 +115,7 @@
     "note": "出国から入国審査、機内・乗継ぎの必須フレーズ",
     "category": "語学",
     "subCategory": "英語",
+    "series": "旅行英語",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_airport_1.json"
   },
@@ -117,6 +127,7 @@
     "note": "チェックイン/アウト、備品リクエスト、荷物預け",
     "category": "語学",
     "subCategory": "英語",
+    "series": "旅行英語",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_hotel_1.json"
   },
@@ -128,6 +139,7 @@
     "note": "入店から注文、カスタムオーダー、お会計まで",
     "category": "語学",
     "subCategory": "英語",
+    "series": "旅行英語",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_dining_1.json"
   },
@@ -139,6 +151,7 @@
     "note": "試着、サイズ・色違い確認、免税手続き",
     "category": "語学",
     "subCategory": "英語",
+    "series": "旅行英語",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_shopping_1.json"
   },
@@ -150,6 +163,7 @@
     "note": "タクシー・電車の乗り方、道案内、体調不良・紛失",
     "category": "語学",
     "subCategory": "英語",
+    "series": "旅行英語",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/travel_eng_transit_trouble_1.json"
   },
@@ -161,6 +175,7 @@
     "note": "文明の起源・諸子百家から秦漢帝国の成立まで必須50選",
     "category": "世界史",
     "subCategory": "中国史",
+    "series": "中国史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_1.json"
   },
@@ -172,6 +187,7 @@
     "note": "三国時代から律令国家・唐宋変革への激動50選",
     "category": "世界史",
     "subCategory": "中国史",
+    "series": "中国史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_2.json"
   },
@@ -183,6 +199,7 @@
     "note": "文治政治・北方征服王朝からモンゴル大帝国まで50選",
     "category": "世界史",
     "subCategory": "中国史",
+    "series": "中国史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_3.json"
   },
@@ -194,6 +211,7 @@
     "note": "皇帝独裁・一条鞭法・地丁銀から康乾盛世まで50選",
     "category": "世界史",
     "subCategory": "中国史",
+    "series": "中国史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_4.json"
   },
@@ -205,6 +223,7 @@
     "note": "アヘン戦争から太平天国・洋務運動・義和団まで50選",
     "category": "世界史",
     "subCategory": "中国史",
+    "series": "中国史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_5.json"
   },
@@ -216,6 +235,7 @@
     "note": "辛亥革命・五四運動から国共合作・抗日戦争まで50選",
     "category": "世界史",
     "subCategory": "中国史",
+    "series": "中国史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_6.json"
   },
@@ -227,6 +247,7 @@
     "note": "建国・大躍進・文革から改革開放・現代まで50選",
     "category": "世界史",
     "subCategory": "中国史",
+    "series": "中国史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_7.json"
   },
@@ -238,6 +259,7 @@
     "note": "土地・税制・官吏登用制度と重要文化・思想の総まとめ50選",
     "category": "世界史",
     "subCategory": "中国史",
+    "series": "中国史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_8.json"
   },
@@ -249,6 +271,7 @@
     "note": "ニーハオからお礼、すみません、1〜100の数字まで完全制覇",
     "category": "語学",
     "subCategory": "中国語",
+    "series": "中国語キホン",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_basic_survival_1.json"
   },
@@ -260,6 +283,7 @@
     "note": "买单(お会計)、おすすめ、パクチー抜き、氷水など即戦力25選",
     "category": "語学",
     "subCategory": "中国語",
+    "series": "中国語キホン",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_travel_dining_1.json"
   },
@@ -271,6 +295,7 @@
     "note": "いくら？、安くして、アリペイ・WeChat Payの必須フレーズ",
     "category": "語学",
     "subCategory": "中国語",
+    "series": "中国語キホン",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_travel_shopping_1.json"
   },
@@ -282,6 +307,7 @@
     "note": "ここへ行って、トイレはどこ？、切符購入と移動の決定版",
     "category": "語学",
     "subCategory": "中国語",
+    "series": "中国語キホン",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_travel_transit_1.json"
   },
@@ -293,6 +319,7 @@
     "note": "チェックイン、Wi-Fi、荷物預け、紛失・体調不良のレスキュー25選",
     "category": "語学",
     "subCategory": "中国語",
+    "series": "中国語キホン",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_travel_hotel_trouble_1.json"
   },
@@ -304,6 +331,7 @@
     "note": "行く・見る・食べる・大きい・忙しいなどHSK1〜2級レベルの基礎50選",
     "category": "語学",
     "subCategory": "中国語",
+    "series": "中国語キホン",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_vocab_core_1.json"
   },
@@ -315,6 +343,7 @@
     "note": "家族・時間・場所・交通機関など日常会話を形づくる核となる名詞50選",
     "category": "語学",
     "subCategory": "中国語",
+    "series": "中国語キホン",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/zh_vocab_core_2.json"
   },
@@ -326,6 +355,7 @@
     "note": "チャオからお礼、すみません、1〜100の数字まで完全制覇",
     "category": "語学",
     "subCategory": "イタリア語",
+    "series": "イタリア語キホン",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/it_basic_survival_1.json"
   },
@@ -337,6 +367,7 @@
     "note": "カウンター注文、ガス入り/なし水、エスプレッソ文化、お会計",
     "category": "語学",
     "subCategory": "イタリア語",
+    "series": "イタリア語キホン",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/it_travel_dining_1.json"
   },
@@ -348,6 +379,7 @@
     "note": "打刻機の罠、道案内、駅・切符購入、トイレの場所とサバイバル",
     "category": "語学",
     "subCategory": "イタリア語",
+    "series": "イタリア語キホン",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/it_travel_transit_1.json"
   },
@@ -359,6 +391,7 @@
     "note": "試着、サイズ確認、市場の量り売り、スーパーのルールと決済",
     "category": "語学",
     "subCategory": "イタリア語",
+    "series": "イタリア語キホン",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/it_travel_shopping_1.json"
   },
@@ -370,6 +403,7 @@
     "note": "チェックイン、美術館予約、スリ・荷物紛失・体調不良のSOS",
     "category": "語学",
     "subCategory": "イタリア語",
+    "series": "イタリア語キホン",
     "cardCount": 25,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/it_travel_hotel_trouble_1.json"
   },
@@ -381,6 +415,7 @@
     "note": "andare, fare, essere, avere など最重要動詞と基本形容詞50選",
     "category": "語学",
     "subCategory": "イタリア語",
+    "series": "イタリア語キホン",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/it_vocab_core_1.json"
   },
@@ -392,6 +427,7 @@
     "note": "街・時間・家族・食べ物など日常会話の基盤となる名詞50選",
     "category": "語学",
     "subCategory": "イタリア語",
+    "series": "イタリア語キホン",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/it_vocab_core_2.json"
   },
@@ -403,6 +439,7 @@
     "note": "建国神話・身分闘争・ポエニ戦争からカエサルと内乱の1世紀まで50選",
     "category": "世界史",
     "subCategory": "イタリア史",
+    "series": "イタリア史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_italy_1.json"
   },
@@ -414,6 +451,7 @@
     "note": "元首政・パクス＝ロマーナ・軍人皇帝から東西分裂まで50選",
     "category": "世界史",
     "subCategory": "イタリア史",
+    "series": "イタリア史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_italy_2.json"
   },
@@ -425,6 +463,7 @@
     "note": "教皇領・カノッサの屈辱からヴェネツィア・ジェノヴァ東方貿易まで50選",
     "category": "世界史",
     "subCategory": "イタリア史",
+    "series": "イタリア史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_italy_3.json"
   },
@@ -436,6 +475,7 @@
     "note": "フィレンツェ・メディチ家、三大巨匠からマキァヴェリ、主権国家への激動50選",
     "category": "世界史",
     "subCategory": "イタリア史",
+    "series": "イタリア史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_italy_4.json"
   },
@@ -447,6 +487,7 @@
     "note": "G検定シラバス：CNNの構造、ResNet/YOLO等の代表モデル、RNN/LSTM、画像・音声のディープラーニング必須用語",
     "category": "資格・AI",
     "subCategory": "G検定",
+    "series": "G検定",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_vision_time_1.json"
   },
@@ -458,6 +499,7 @@
     "note": "G検定シラバス：Word2vec、Transformer、BERT、GPT、拡散モデル、RAG、LoRAなど最新生成AIキーワード",
     "category": "資格・AI",
     "subCategory": "G検定",
+    "series": "G検定",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_nlp_genai_1.json"
   },
@@ -469,6 +511,7 @@
     "note": "G検定シラバス：強化学習（Q学習/DQN）、著作権法30条の4、EU AI法、GDPR、XAI（SHAP/LIME）、AI社会実装",
     "category": "資格・AI",
     "subCategory": "G検定",
+    "series": "G検定",
     "cardCount": 40,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/g_kentei_law_ethics_1.json"
   },
@@ -480,6 +523,7 @@
     "note": "漢検2級の最頻出書き取り問題。カタカナ部を漢字にする形式。前後の文脈から正解が1点に絞れるシャープな例文とし、storyには漢字の成り立ち・部首・へぇ〜となる覚え方を入れること",
     "category": "資格・検定",
     "subCategory": "漢検",
+    "series": "漢検2級",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_writing_1.json"
   },
@@ -491,6 +535,7 @@
     "note": "漢検2級の同訓異字（治める/修める/収める/納めるなど）の使い分けや間違えやすい送り仮名。storyには使い分けの明確な基準や語源を入れること",
     "category": "資格・検定",
     "subCategory": "漢検",
+    "series": "漢検2級",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_reading_1.json"
   },
@@ -502,6 +547,7 @@
     "note": "漢検2級の最重要四字熟語50選。frontは四字熟語または意味からの穴埋め。storyには故事成語の由来、背景の漢文エピソード、直感的な現代例えを入れること",
     "category": "資格・検定",
     "subCategory": "漢検",
+    "series": "漢検2級",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_yoji_1.json"
   },
@@ -513,6 +559,7 @@
     "note": "漢検2級頻出の対義語・類義語。語彙のネットワークで記憶が定着する構成とし、storyには言葉のニュアンスの違いや日常での使われ方を入れること",
     "category": "資格・検定",
     "subCategory": "漢検",
+    "series": "漢検2級",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_antonym_1.json"
   },
@@ -524,6 +571,7 @@
     "note": "漢検2級の誤字訂正問題および熟語の組み立て（主述・修飾・対立など）。storyにはなぜその漢字を間違えやすいのかの心理や構造解説を入れること",
     "category": "資格・検定",
     "subCategory": "漢検",
+    "series": "漢検2級",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/kanken_2_correction_1.json"
   },
@@ -535,6 +583,7 @@
     "note": "take, get, have, make 等の基本動詞と語源の感覚。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "中学英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_junior_core_1.json"
   },
@@ -546,6 +595,7 @@
     "note": "気持ちや情景を表現する中学必須の描写語彙。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "中学英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_junior_core_2.json"
   },
@@ -557,6 +607,7 @@
     "note": "高校入試・中学教科書頻出の生活・社会名詞30語。例文と小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "中学英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_junior_core_3.json"
   },
@@ -568,6 +619,7 @@
     "note": "高校入試で狙われる重要派生語・語形変化30語。例文と小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "中学英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_junior_core_4.json"
   },
@@ -579,6 +631,7 @@
     "note": "共通テスト読解の骨格となる最重要基本動詞30語。affect, achieve, require, provide等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "高校英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_1.json"
   },
@@ -590,6 +643,7 @@
     "note": "論説文で主旨を正確に読み解くための展開動詞30語。indicate, distinguish, represent, appreciate等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "高校英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_2.json"
   },
@@ -601,6 +655,7 @@
     "note": "視点、態度、結果など長文の論理構造を握る名詞30語。perspective, attitude, consequence, aspect等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "高校英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_3.json"
   },
@@ -612,6 +667,7 @@
     "note": "科学論説や社会問題テーマで頻出する客観名詞30語。phenomenon, evidence, principle, institution等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "高校英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_4.json"
   },
@@ -620,9 +676,10 @@
     "version": "1.0.0",
     "updatedAt": "2026-10-29",
     "title": "🏫 高校英語 (Vol.5) 多義語・文脈判断キラー30",
-    "note": "多義語で差をつける最重要30語",
+    "note": "知っている単語の意外な意味で差がつく最重要語30語。run「経営する」、fire「解雇する」、sound「賢明な」等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "高校英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_5.json"
   },
@@ -631,9 +688,10 @@
     "version": "1.0.0",
     "updatedAt": "2026-10-29",
     "title": "🏫 高校英語 (Vol.6) 重要コロケーション・前置詞連動30",
-    "note": "前置詞で意味が変わる句動詞30選",
+    "note": "動詞＋前置詞のカタマリで反射的に意味を捉える表現30語。rely on, contribute to, refer to等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "高校英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_6.json"
   },
@@ -642,9 +700,10 @@
     "version": "1.0.0",
     "updatedAt": "2026-10-29",
     "title": "🏫 高校英語 (Vol.7) 論説文で頻出する形容詞30",
-    "note": "論説文で評価・重要度を見抜くキー形容詞",
+    "note": "筆者の評価や重要度を瞬時に見抜くキー形容詞30語。significant, essential, relevant, evident等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "高校英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_7.json"
   },
@@ -653,9 +712,10 @@
     "version": "1.0.0",
     "updatedAt": "2026-10-29",
     "title": "🏫 高校英語 (Vol.8) 文脈をひっくり返す副詞・接続表現30",
-    "note": "文脈の転換を示す重要表現30選",
+    "note": "逆接・結論・必然性を導くパラグラフ読解の要となる副詞・接続表現30語。nevertheless, consequently, inevitably等。例文と小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "高校英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_high_core_8.json"
   },
@@ -664,9 +724,10 @@
     "version": "1.0.0",
     "updatedAt": "2026-10-29",
     "title": "🎓 難関大英語 (Vol.1) 学術・論説・アカデミック30",
-    "note": "難関大の学術論説文を読み解く重要英単語30選。",
+    "note": "早慶・旧帝大の学術論説文で頻出する重要学術語30語。hypothesis, synthesize, empirical, paradox等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "難関大英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_1.json"
   },
@@ -675,9 +736,10 @@
     "version": "1.0.0",
     "updatedAt": "2026-10-29",
     "title": "🎓 難関大英語 (Vol.2) 社会・時事・経済・国際30",
-    "note": "国際情勢・経済論説頻出の30語。",
+    "note": "国際情勢・経済論説で頻出する上級時事語彙30語。leverage, fluctuate, deficit, sanction等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "難関大英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_2.json"
   },
@@ -686,9 +748,10 @@
     "version": "1.0.0",
     "updatedAt": "2026-10-29",
     "title": "🎓 難関大英語 (Vol.3) 心理・認知・哲学30",
-    "note": "心理・哲学・認知の抽象語彙で差をつける。",
+    "note": "心理学・言語学・哲学論説で差がつく抽象語彙30語。paradigm, cognitive, subconscious, subjective等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "難関大英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_3.json"
   },
@@ -697,9 +760,10 @@
     "version": "1.0.0",
     "updatedAt": "2026-10-29",
     "title": "🎓 難関大英語 (Vol.4) 英検準1級・頻出語彙30",
-    "note": "英検準1級・TOEIC800点頻出語彙30選",
+    "note": "英検準1級・TOEIC800点突破の頻出難単語30語。vulnerable, lucrative, ambiguous, plausible等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "難関大英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_4.json"
   },
@@ -708,9 +772,10 @@
     "version": "1.0.0",
     "updatedAt": "2026-10-29",
     "title": "🎓 難関大英語 (Vol.5) ネイティブ教養・比喩表現30",
-    "note": "英米の知識層が好む比喩表現30選。",
+    "note": "英米の知識層が好んで使う比喩的成句・表現30語。catalyst, scapegoat, bottleneck, hurdle等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "難関大英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_5.json"
   },
@@ -719,9 +784,10 @@
     "version": "1.0.0",
     "updatedAt": "2026-10-29",
     "title": "🎓 難関大英語 (Vol.6) 難関大・差がつく最難関ラスト30",
-    "note": "最難関大で差がつくハイレベル語彙30選",
+    "note": "最難関私大・国公立2次で差がつくハイレベル語彙30語。ubiquitous, ephemeral, pragmatic, resilient等。例文と語源小話を含めて作成してください。",
     "category": "語学",
     "subCategory": "英語",
+    "series": "難関大英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_6.json"
   }
