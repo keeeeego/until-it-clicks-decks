@@ -669,5 +669,16 @@
     "subCategory": "英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_1.json"
+  },
+  {
+    "id": "eng_advanced_core_2",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "🎓 難関大英語 (Vol.2) 社会・時事・経済・国際30",
+    "note": "国際情勢・経済論説頻出の30語。",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_advanced_core_2.json"
   }
 ]
