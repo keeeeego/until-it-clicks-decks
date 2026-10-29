@@ -840,5 +840,15 @@
     "subCategory": "国語・四字熟語",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/yoji_vol5_core50.json"
+  },
+  {
+    "id": "yoji_vol6_core50",
+    "version": "1.0.0",
+    "title": "📚 四字熟語 (yoji_vol6_core50)",
+    "note": "四字熟語の重要50語を厳選！",
+    "category": "語学",
+    "subCategory": "国語・四字熟語",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/yoji_vol6_core50.json"
   }
 ]
