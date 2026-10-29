@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_high_core_6",
+  "version": "1.0.0",
+  "updatedAt": "2024-07-30",
+  "schemaVersion": 2,
+  "title": "🏫 高校英語 (Vol.6) 重要コロケーション・前置詞連動30",
+  "note": "前置詞で意味が変わる句動詞30選",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "rely on",
+      "back": "頼る、依存する",
+      "story": "relyの語源はラテン語の\"ligare\"（結びつける）。\"re-\"（再び）と\"ligare\"で「しっかり結びつける」イメージから「信頼する」へ。onは「上に乗って支えられている」感覚。まるでブランコが鎖にぶら下がるように、頼る対象に自分の重みを預けるイメージ。",
+      "searchQuery": "rely on 意味 語源 例文"
+    },
+    {
+      "id": "card_002",
+      "front": "contribute to",
+      "back": "貢献する、寄与する",
+      "story": "contributeは\"con-\"（共に）と\"tribute\"（与える）から来ています。みんなで何かを「共に与え合う」イメージが「貢献」につながります。toは「〜へ向かって」という方向。自分の努力や成果が、まるで矢のように特定の目標や集団へと「向かっていく」ことで、その達成に一役買うイメージ。",
+      "searchQuery": "contribute to 意味 例文 語源"
+    },
+    {
+      "id": "card_003",
+      "front": "refer to",
+      "back": "参照する、言及する",
+      "story": "referは\"re-\"（再び）と\"ferre\"（運ぶ）が語源。情報を「再び運んでくる」つまり「参照する」意味に。toは「〜へ」という方向。まるで図書館で本棚から目的の本を「指し示す」ように、特定の情報源や話題へと意識を向ける感覚。",
+      "searchQuery": "refer to 意味 使い方 語源"
+    },
+    {
+      "id": "card_004",
+      "front": "depend on",
+      "back": "依存する、頼る",
+      "story": "dependは\"de-\"（下に）と\"pendere\"（ぶら下がる）が語源。何かに「ぶら下がる」イメージが「依存する」につながります。onは「上に乗って支えられている」感覚。まるで天井から吊るされたシャンデリアがチェーンに「ぶら下がり」、その重みを全て預けているような依存状態。",
+      "searchQuery": "depend on 意味 例文 語源"
+    },
+    {
+      "id": "card_005",
+      "front": "consist of",
+      "back": "〜から成る",
+      "story": "consistは\"con-\"（共に）と\"sistere\"（立つ）が語源。複数の要素が「共に立つ」様子が「構成される」意味に。ofは「〜の」という所有や構成要素を表す。まるでケーキが「小麦粉や卵の（of）集合体」であるように、全体を形成する「材料」を指し示す感覚。",
+      "searchQuery": "consist of 意味 使い方 語源"
+    },
+    {
+      "id": "card_006",
+      "front": "deal with",
+      "back": "処理する、対処する",
+      "story": "dealは「分ける、分配する」が元々の意味。問題や課題を「細かく分けて扱う」イメージが「処理する」につながります。withは「〜と共に、〜を相手に」。まるで厄介な相手と「向かい合って」交渉するように、問題と真正面から向き合い、解決に導くイメージ。",
+      "searchQuery": "deal with 意味 例文 語源"
+    },
+    {
+      "id": "card_007",
+      "front": "look for",
+      "back": "探す",
+      "story": "lookは「見る」という基本的な動詞。forは「〜を求めて」という目的。まるで失くした鍵を「探し求め、目を凝らす」ように、特定の対象を見つけ出すために視線を向ける感覚。",
+      "searchQuery": "look for 意味 使い方"
+    },
+    {
+      "id": "card_008",
+      "front": "look after",
+      "back": "世話をする",
+      "story": "lookは「見る」。afterは「〜の後ろに、〜の後に」。まるで子供の「後ろから見守り」、何かあった時にすぐ対応できるように気を配るような「世話」の感覚。",
+      "searchQuery": "look after 意味 例文"
+    },
+    {
+      "id": "card_009",
+      "front": "care for",
+      "back": "世話をする、好む",
+      "story": "careは「気遣う、心配する」。forは「〜のために」。誰かの「ために心を配る」のが「世話」。また、何かを「心にかける」ほど「好き」という感情も表す。例えば、I don't care for coffee. (コーヒーは好きじゃない)のように。",
+      "searchQuery": "care for 意味 例文"
+    },
+    {
+      "id": "card_010",
+      "front": "agree with",
+      "back": "賛成する（人・意見）",
+      "story": "agreeはラテン語の\"ad-\"（〜へ）と\"gratus\"（喜ばしい）が語源。「喜ばしい方向へ」と一致するイメージ。withは「〜と共に」。まるで二つの意見が「ぴったりと並んで進む」ように、相手の考えや提案と自分の考えが一致する感覚。",
+      "searchQuery": "agree with 意味 語源"
+    },
+    {
+      "id": "card_011",
+      "front": "object to",
+      "back": "反対する",
+      "story": "objectは\"ob-\"（〜に逆らって）と\"jacere\"（投げる）が語源。意見を「投げ返す」イメージから「反対する」意味に。toは「〜に対して」という方向。まるで相手の意見に「石を投げ返す」ように、明確な意思を持って異議を唱える感覚。",
+      "searchQuery": "object to 意味 例文 語源"
+    },
+    {
+      "id": "card_012",
+      "front": "apologize for",
+      "back": "謝罪する",
+      "story": "apologizeはギリシャ語の\"apologia\"（弁明）が語源。弁明や謝罪の「理由」を明確にするのがforです。forは「〜の理由で」。まるで法廷で「何が原因で罪を犯したのか」を弁明するように、謝罪の「具体的な理由」を指し示す感覚。",
+      "searchQuery": "apologize for 意味 使い方"
+    },
+    {
+      "id": "card_013",
+      "front": "succeed in",
+      "back": "成功する",
+      "story": "succeedは\"sub-\"（次に）と\"cedere\"（行く）が語源。「次に進む」ことから「成功する」意味に。inは「〜の中に」。まるで「成功という大きな箱の中」に自分の努力が収まり、目標が達成された状態を表す感覚。",
+      "searchQuery": "succeed in 意味 例文 語源"
+    },
+    {
+      "id": "card_014",
+      "front": "account for",
+      "back": "説明する、原因となる",
+      "story": "accountは「計算、説明」。forは「〜のために、〜の理由で」。まるで会計士が「何のためにこの費用がかかったのか」を詳細に説明するように、ある事柄の「理由や原因」を明らかにする感覚。",
+      "searchQuery": "account for 意味 使い方"
+    },
+    {
+      "id": "card_015",
+      "front": "result in",
+      "back": "〜という結果になる",
+      "story": "resultは\"re-\"（再び）と\"salire\"（跳ぶ）が語源。「再び跳ね返る」つまり「結果として生じる」イメージ。inは「〜の中に」。まるで原因が「結果という箱の中へと飛び込み」、その最終的な状態を形成するような感覚。",
+      "searchQuery": "result in 意味 例文"
+    },
+    {
+      "id": "card_016",
+      "front": "result from",
+      "back": "〜から生じる",
+      "story": "resultは「結果として生じる」という意味。fromは「〜から」。まるで川が「源流から（from）流れ出す」ように、ある結果が「何という原因から発生したのか」を明確にする感覚。",
+      "searchQuery": "result from 意味 例文"
+    },
+    {
+      "id": "card_017",
+      "front": "respond to",
+      "back": "返答する、反応する",
+      "story": "respondは\"re-\"（再び）と\"spondere\"（約束する）が語源。「約束を返す」ことから「返答する」に。toは「〜に対して」という方向。まるでボールを投げられたら「それに向かって（to）打ち返す」ように、相手の行動や言葉に「応じる」感覚。",
+      "searchQuery": "respond to 意味 語源"
+    },
+    {
+      "id": "card_018",
+      "front": "lead to",
+      "back": "〜につながる",
+      "story": "leadは「導く」。toは「〜へ」という方向。まるで道が「特定の場所へと（to）続いている」ように、ある行動や状況が最終的に「どんな結果にたどり着くのか」を示す感覚。",
+      "searchQuery": "lead to 意味 例文"
+    },
+    {
+      "id": "card_019",
+      "front": "approve of",
+      "back": "承認する、賛成する",
+      "story": "approveは\"ad-\"（〜へ）と\"probare\"（試す、認める）が語源。「良いと認める」イメージ。ofは「〜について」。まるで審査員が「提出された企画の（of）内容を吟味し」、その良し悪しを判断して「認める」ような感覚。",
+      "searchQuery": "approve of 意味 語源"
+    },
+    {
+      "id": "card_020",
+      "front": "apply for",
+      "back": "申し込む、応募する",
+      "story": "applyは\"ad-\"（〜へ）と\"plicare\"（折りたたむ）が語源。書類を「折りたたんで提出する」イメージから「申し込む」に。forは「〜を求めて」。まるで「職を求めて（for）履歴書を提出する」ように、特定の目的や地位を得るために正式な手続きをする感覚。",
+      "searchQuery": "apply for 意味 例文"
+    },
+    {
+      "id": "card_021",
+      "front": "insist on",
+      "back": "主張する、言い張る",
+      "story": "insistは\"in-\"（上に）と\"sistere\"（立つ）が語源。自分の意見に「しっかりと立って動かない」イメージから「主張する」に。onは「〜の上に」。まるで自分の意見という「土台の上に（on）頑として立ち」、一歩も引かないような「固執する」感覚。",
+      "searchQuery": "insist on 意味 語源"
+    },
+    {
+      "id": "card_022",
+      "front": "prevent from",
+      "back": "〜が…するのを妨げる",
+      "story": "preventは\"prae-\"（前に）と\"venire\"（来る）が語源。「先に立って妨げる」イメージ。fromは「〜から」。まるで「危険から（from）子供を遠ざける」ように、ある行動や状態が起こるのを「阻止する」感覚。",
+      "searchQuery": "prevent from 意味 例文"
+    },
+    {
+      "id": "card_023",
+      "front": "distinguish between A and B",
+      "back": "AとBを区別する",
+      "story": "distinguishは\"dis-\"（離れて）と\"stingere\"（刺す、印をつける）が語源。「印をつけて区別する」イメージ。betweenは「〜の間」。まるで二つの異なるものを「間に線を引いて（between）はっきりと分ける」ように、その違いを認識する感覚。",
+      "searchQuery": "distinguish between 意味 語源"
+    },
+    {
+      "id": "card_024",
+      "front": "provide A with B",
+      "back": "AにBを提供する",
+      "story": "provideは\"pro-\"（前に）と\"videre\"（見る）が語源。「前もって用意する」イメージ。withは「〜を伴って」。まるで「必要な道具を（with）手渡す」ように、誰かに何かを「供給する」感覚。",
+      "searchQuery": "provide A with B 意味 例文"
+    },
+    {
+      "id": "card_025",
+      "front": "blame A for B",
+      "back": "BのことでAを非難する",
+      "story": "blameは「非難する」。forは「〜の理由で」。まるで「失敗の責任を（for）誰かに押し付ける」ように、特定の原因に対して「非難の矛先を向ける」感覚。",
+      "searchQuery": "blame A for B 意味 使い方"
+    },
+    {
+      "id": "card_026",
+      "front": "accuse A of B",
+      "back": "AをBの罪で告発する",
+      "story": "accuseは\"ad-\"（〜へ）と\"causa\"（訴訟）が語源。「訴訟に持ち込む」イメージ。ofは「〜の（罪で）」。まるで「窃盗の罪で（of）誰かを訴える」ように、具体的な「罪状や不正行為」を指し示して告発する感覚。",
+      "searchQuery": "accuse A of B 意味 語源"
+    },
+    {
+      "id": "card_027",
+      "front": "substitute A for B",
+      "back": "Bの代わりにAを使う",
+      "story": "substituteは\"sub-\"（下に）と\"statuere\"（置く）が語源。「下に置く」つまり「代わりに置く」イメージ。forは「〜の代わりに」。まるで「砂糖の代わりに（for）甘味料を使う」ように、あるものと別のものを「入れ替える」感覚。",
+      "searchQuery": "substitute A for B 意味 例文"
+    },
+    {
+      "id": "card_028",
+      "front": "suffer from",
+      "back": "〜で苦しむ",
+      "story": "sufferは\"sub-\"（下に）と\"ferre\"（運ぶ）が語源。「下から重荷を運ぶ」つまり「苦しむ」イメージ。fromは「〜から」。まるで「病気という重荷が（from）自分にのしかかり」、そこから苦痛が生じるような感覚。",
+      "searchQuery": "suffer from 意味 語源"
+    },
+    {
+      "id": "card_029",
+      "front": "specialize in",
+      "back": "専門とする",
+      "story": "specializeは「専門化する」。inは「〜の中に」。まるで「特定の分野という深い井戸の中に（in）潜り込み」、その道のプロとして知識を極めるような感覚。",
+      "searchQuery": "specialize in 意味 例文"
+    },
+    {
+      "id": "card_030",
+      "front": "attribute A to B",
+      "back": "AをBのせいにする",
+      "story": "attributeは\"ad-\"（〜へ）と\"tribuere\"（与える）が語源。「〜に与える」つまり「〜のせいにする」イメージ。toは「〜に」。まるで「功績や責任を（to）特定の人物に割り当てる」ように、ある事柄の原因や出所を「帰属させる」感覚。",
+      "searchQuery": "attribute A to B 意味 語源"
+    }
+  ]
+}
