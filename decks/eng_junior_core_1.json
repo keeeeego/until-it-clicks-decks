@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_junior_core_1",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "🏫 中学英語 (Vol.1) 超必須・日常基本動詞30",
+  "note": "中学英語の基本動詞30選を語源と感覚でマスター！",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "take",
+      "back": "手元に引き寄せる",
+      "story": "「take」は「自分の意志で何かを『掴み取る』」感覚。元は北欧の言葉で「握る」が語源。バスに乗る（take a bus）も、自分が主体的に引き寄せる行為。",
+      "searchQuery": "take 語源 意味 コア"
+    },
+    {
+      "id": "card_002",
+      "front": "get",
+      "back": "努力して獲得",
+      "story": "「get」は「努力して何かを自分のものにする」感覚。元はゲルマン語で「捕らえる」が語源。疲れる（get tired）も、努力の結果その状態になるイメージ。",
+      "searchQuery": "get 語源 意味 コア"
+    },
+    {
+      "id": "card_003",
+      "front": "have",
+      "back": "所有・状態の継続",
+      "story": "「have」は「手元に何かがある状態」が核。古英語の「habban」が由来。朝食を食べる（have breakfast）も、その時間を「持っている」感覚。",
+      "searchQuery": "have 語源 意味 コア"
+    },
+    {
+      "id": "card_004",
+      "front": "make",
+      "back": "無から有を生み出す",
+      "story": "「make」は「ゼロから何かを創り出す」感覚。古英語「macian」が語源。ケーキを作る（make a cake）も、人を幸せにする（make you happy）も、全ては「創出」のイメージ。",
+      "searchQuery": "make 語源 意味 コア"
+    },
+    {
+      "id": "card_005",
+      "front": "do",
+      "back": "行動・実行",
+      "story": "「do」は「具体的な行動を起こす」感覚。古英語「don」が語源。宿題をする（do homework）のように、漠然とした「行動」全般を指す万能動詞。",
+      "searchQuery": "do 語源 意味 コア"
+    },
+    {
+      "id": "card_006",
+      "front": "go",
+      "back": "現在地からの移動",
+      "story": "「go」は「今いる場所から別の場所へ移動する」感覚。古英語「gan」が語源。未来を表す「going to」も、その方向へ向かっているイメージから来ている。",
+      "searchQuery": "go 語源 意味 コア"
+    },
+    {
+      "id": "card_007",
+      "front": "come",
+      "back": "話し手への接近",
+      "story": "「come」は「話し手や目標地点へ近づく」感覚。古英語「cuman」が語源。「Come here!（こっちに来て！）」のように、自分の方へ引き寄せるニュアンス。",
+      "searchQuery": "come 語源 意味 コア"
+    },
+    {
+      "id": "card_008",
+      "front": "put",
+      "back": "特定の場所へ配置",
+      "story": "「put」は「何かを特定の場所へ『ポンと置く』」感覚。古英語「potian（突く）」が語源。ペンを置く（put a pen）も、服を着る（put on clothes）も、位置を定める行為。",
+      "searchQuery": "put 語源 意味 コア"
+    },
+    {
+      "id": "card_009",
+      "front": "give",
+      "back": "相手への提供",
+      "story": "「give」は「自分が持っているものを相手に差し出す」感覚。古英語「gifan」が語源。プレゼントをあげる（give a present）のように、手放して相手に渡す行為。",
+      "searchQuery": "give 語源 意味 コア"
+    },
+    {
+      "id": "card_010",
+      "front": "see",
+      "back": "自然に視界に入る",
+      "story": "「see」は「意図せず自然に視界に入ってくる」感覚。古英語「seon」が語源。だから「I see.（分かった）」は、情報が自然と頭に入ってきたイメージ。",
+      "searchQuery": "see 語源 意味 コア"
+    },
+    {
+      "id": "card_011",
+      "front": "say",
+      "back": "言葉を発する",
+      "story": "「say」は「言葉を口から出す」行為そのもの。古英語「secgan」が語源。「What did you say?（何て言ったの？）」のように、発言内容に焦点が当たる。",
+      "searchQuery": "say 語源 意味 コア"
+    },
+    {
+      "id": "card_012",
+      "front": "tell",
+      "back": "相手に情報を伝達",
+      "story": "「tell」は「特定の相手に情報を届ける」感覚。古英語「tellen（数える）」が語源。昔は物語を「語る人（teller）」が、情報を伝える役割を担っていた。",
+      "searchQuery": "tell 語源 意味 コア"
+    },
+    {
+      "id": "card_013",
+      "front": "know",
+      "back": "情報・事実の認識",
+      "story": "「know」は「情報や事実を頭の中に持っている状態」が核。古英語「cnawan」が語源。経験や学習で得た「知識」を指す。",
+      "searchQuery": "know 語源 意味 コア"
+    },
+    {
+      "id": "card_014",
+      "front": "think",
+      "back": "思考を巡らせる",
+      "story": "「think」は「頭の中で考えを組み立てる」感覚。古英語「þencan」が語源。意見を述べる時も「I think...」と、思考のプロセスを示す。",
+      "searchQuery": "think 語源 意味 コア"
+    },
+    {
+      "id": "card_015",
+      "front": "want",
+      "back": "不足を感じ欲求",
+      "story": "「want」は「何かが足りないと感じ、それを手に入れたい」感覚。古ノルド語「vanta（欠けている）」が語源。だから、欲求は「不足」から生まれる。",
+      "searchQuery": "want 語源 意味 コア"
+    },
+    {
+      "id": "card_016",
+      "front": "need",
+      "back": "不可欠な要求",
+      "story": "「need」は「生きていく上で、または目的達成のために『不可欠』」という感覚。古英語「nied」が語源。「want」よりも切迫した「必要性」を表す。",
+      "searchQuery": "need 語源 意味 コア"
+    },
+    {
+      "id": "card_017",
+      "front": "feel",
+      "back": "感覚器官で体験",
+      "story": "「feel」は「五感や心で何かを直接『感じる』」感覚。古英語「felan」が語源。触覚（feel soft）、感情（feel happy）、体調（feel sick）など広範囲に使う。",
+      "searchQuery": "feel 語源 意味 コア"
+    },
+    {
+      "id": "card_018",
+      "front": "find",
+      "back": "探し物を見つける",
+      "story": "「find」は「探していたものが『見つかる』、または偶然『発見する』」感覚。古英語「findan」が語源。失くした鍵を見つける（find keys）のように、結果としての発見。",
+      "searchQuery": "find 語源 意味 コア"
+    },
+    {
+      "id": "card_019",
+      "front": "call",
+      "back": "声で注目を引く",
+      "story": "「call」は「声を出して相手の注意を引く」感覚。古ノルド語「kalla」が語源。電話（make a call）も、声を届ける行為だからこの動詞を使う。",
+      "searchQuery": "call 語源 意味 コア"
+    },
+    {
+      "id": "card_020",
+      "front": "look",
+      "back": "意識的に視線を向ける",
+      "story": "「look」は「自分の意志で特定の対象に視線を『向ける』」感覚。古英語「locian」が語源。「Look at me!（私を見て！）」のように、能動的な行為。",
+      "searchQuery": "look 語源 意味 コア"
+    },
+    {
+      "id": "card_021",
+      "front": "hear",
+      "back": "自然に耳に入る",
+      "story": "「hear」は「音が意図せず自然に耳に『入ってくる』」感覚。古英語「heran」が語源。意識的に聞く「listen」とは異なり、受動的な聞こえ方。",
+      "searchQuery": "hear 語源 意味 コア"
+    },
+    {
+      "id": "card_022",
+      "front": "ask",
+      "back": "質問・要求を提示",
+      "story": "「ask」は「相手に質問や要求を『投げかける』」感覚。古英語「ascian」が語源。情報を求めたり、お願いしたりする行為。",
+      "searchQuery": "ask 語源 意味 コア"
+    },
+    {
+      "id": "card_023",
+      "front": "show",
+      "back": "人に見えるように提示",
+      "story": "「show」は「何かを人に見えるように『提示する』」感覚。古英語「sceawian（見る）」が語源。プレゼンで資料を「見せる」のもこれ。",
+      "searchQuery": "show 語源 意味 コア"
+    },
+    {
+      "id": "card_024",
+      "front": "try",
+      "back": "目標へ努力・試行",
+      "story": "「try」は「目標達成のために『試みる』、または『努力する』」感覚。古フランス語「trier（選ぶ）」が語源。挑戦して、結果を「選別する」イメージ。",
+      "searchQuery": "try 語源 意味 コア"
+    },
+    {
+      "id": "card_025",
+      "front": "use",
+      "back": "目的のために活用",
+      "story": "「use」は「道具や能力を『目的のために活用する』」感覚。ラテン語「usus（使用）」が語源。スマホを使う（use a smartphone）のように、何かを役立てる行為。",
+      "searchQuery": "use 語源 意味 コア"
+    },
+    {
+      "id": "card_026",
+      "front": "work",
+      "back": "目的のために活動",
+      "story": "「work」は「目的達成のために『活動する』」感覚。古英語「weorcan」が語源。人が「働く」も、機械が「機能する」も、目標に向かって動くイメージ。",
+      "searchQuery": "work 語源 意味 コア"
+    },
+    {
+      "id": "card_027",
+      "front": "play",
+      "back": "楽しみのための活動",
+      "story": "「play」は「楽しみや娯楽のために『活動する』」感覚。古英語「plegan」が語源。子供が「遊ぶ」も、楽器を「演奏する」も、楽しむ行為。",
+      "searchQuery": "play 語源 意味 コア"
+    },
+    {
+      "id": "card_028",
+      "front": "live",
+      "back": "生命活動・居住",
+      "story": "「live」は「生命を『維持する』、または特定の場所に『居住する』」感覚。古英語「libban」が語源。生命の継続と、場所への定着。",
+      "searchQuery": "live 語源 意味 コア"
+    },
+    {
+      "id": "card_029",
+      "front": "move",
+      "back": "位置・状態の変化",
+      "story": "「move」は「物理的に『位置を変える』、または感情を『揺り動かす』」感覚。ラテン語「movere」が語源。物理的な移動も、心の動きも、変化を表す。",
+      "searchQuery": "move 語源 意味 コア"
+    },
+    {
+      "id": "card_030",
+      "front": "start",
+      "back": "開始・出発",
+      "story": "「start」は「何かを『開始する』、または『動き出す』」感覚。古英語「styrtan（跳ねる）」が語源。まるでバネが「跳ねる」ように、勢いよく始まるイメージ。",
+      "searchQuery": "start 語源 意味 コア"
+    }
+  ]
+}
