@@ -602,5 +602,16 @@
     "subCategory": "英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_junior_core_1.json"
+  },
+  {
+    "id": "eng_junior_core_2",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "🏫 中学英語 (Vol.2) 感情・様子を表す形容詞＆副詞30",
+    "note": "気持ちや様子を表す描写語彙。",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_junior_core_2.json"
   }
 ]
