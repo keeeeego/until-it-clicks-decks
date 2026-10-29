@@ -613,5 +613,16 @@
     "subCategory": "英語",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_junior_core_2.json"
+  },
+  {
+    "id": "eng_junior_core_3",
+    "version": "1.0.0",
+    "updatedAt": "2026-10-29",
+    "title": "🏫 中学英語 (Vol.3) 学校・社会・生活名詞30",
+    "note": "中学教科書頻出の生活・社会名詞30選。",
+    "category": "語学",
+    "subCategory": "英語",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/eng_junior_core_3.json"
   }
 ]
