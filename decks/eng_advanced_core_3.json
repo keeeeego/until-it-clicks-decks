@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_advanced_core_3",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "🎓 難関大英語 (Vol.3) 心理・認知・哲学30",
+  "note": "心理・哲学・認知の抽象語彙で差をつける。",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "paradigm",
+      "back": "パラダイム、模範、典型",
+      "story": "ギリシャ語「para-（横に）+ deiknynai（見せる）」が語源。科学史家クーンが「パラダイムシフト」で有名に。ある時代の「常識」や「思考の枠組み」を示す概念。",
+      "searchQuery": "paradigm shift Kuhn"
+    },
+    {
+      "id": "card_002",
+      "front": "cognitive",
+      "back": "認識の、認知の",
+      "story": "ラテン語「cognoscere（知る）」に由来。脳が情報を処理し、理解する過程。心理学、AIなど学際分野の「認知科学」で中核概念。",
+      "searchQuery": "cognitive science definition"
+    },
+    {
+      "id": "card_003",
+      "front": "subconscious",
+      "back": "潜在意識の、無意識の",
+      "story": "「sub-（下に）+ conscious（意識のある）」で、意識下の領域。フロイトの精神分析で重要視され、夢や無意識の行動に影響。",
+      "searchQuery": "subconscious mind Freud"
+    },
+    {
+      "id": "card_004",
+      "front": "subjective",
+      "back": "主観的な",
+      "story": "ラテン語「subiectus（下に置かれた）」から。個人の感情や経験に基づく見方。客観的(objective)の対義語。哲学では「主体」とも。",
+      "searchQuery": "subjective vs objective philosophy"
+    },
+    {
+      "id": "card_005",
+      "front": "objective",
+      "back": "客観的な",
+      "story": "ラテン語「ob-（〜に向かって）+ iacere（投げる）」が語源。個人の感情を排し、事実に基づく見方。科学的考察の基盤。",
+      "searchQuery": "objective truth meaning"
+    },
+    {
+      "id": "card_006",
+      "front": "epistemology",
+      "back": "認識論",
+      "story": "ギリシャ語「episteme（知識）+ logos（理論）」から。知識とは何か、どう獲得し、どこまで可能かを探求する哲学分野。",
+      "searchQuery": "epistemology definition examples"
+    },
+    {
+      "id": "card_007",
+      "front": "ontology",
+      "back": "存在論",
+      "story": "ギリシャ語「on（存在するもの）+ logos（理論）」が語源。存在とは何か、実在とは何か、世界の根本構造を探る哲学分野。",
+      "searchQuery": "ontology philosophy example"
+    },
+    {
+      "id": "card_008",
+      "front": "phenomenon",
+      "back": "現象",
+      "story": "ギリシャ語「phainesthai（現れる）」に由来。知覚で捉えられる出来事。カント哲学では、認識できない「物自体（noumenon）」と対比。",
+      "searchQuery": "phenomenon vs noumenon Kant"
+    },
+    {
+      "id": "card_009",
+      "front": "noumenon",
+      "back": "物自体（カント哲学）",
+      "story": "ギリシャ語「noein（知覚する）」から。カント哲学で、人間の感覚や経験を超えた「物自体」。認識不能だが、現象の背後にあるとされる。",
+      "searchQuery": "Kant noumenon explanation"
+    },
+    {
+      "id": "card_010",
+      "front": "discourse",
+      "back": "談話、言説",
+      "story": "ラテン語「discurrere（走り回る）」が語源。あるテーマで交わされる言葉や議論の全体。フーコーの言説分析で有名に。",
+      "searchQuery": "Foucault discourse analysis"
+    },
+    {
+      "id": "card_011",
+      "front": "hermeneutics",
+      "back": "解釈学",
+      "story": "ギリシャ神話のヘルメス（神々のメッセンジャー）に由来。テクスト、文化、行動の意味を理解・解釈する方法論。哲学・文学で重要。",
+      "searchQuery": "hermeneutics philosophy examples"
+    },
+    {
+      "id": "card_012",
+      "front": "semantics",
+      "back": "意味論",
+      "story": "ギリシャ語「semantikos（意味のある）」から。言語における単語や文の意味を研究する言語学分野。「意味」の仕組みを探る。",
+      "searchQuery": "semantics linguistics definition"
+    },
+    {
+      "id": "card_013",
+      "front": "syntax",
+      "back": "統語論、構文",
+      "story": "ギリシャ語「syntaxis（一緒に配置する）」が語源。単語が文中でどう結合し文を形成するか研究する言語学分野。文の構造。",
+      "searchQuery": "syntax grammar rules"
+    },
+    {
+      "id": "card_014",
+      "front": "pragmatics",
+      "back": "語用論",
+      "story": "ギリシャ語「pragma（行為、事実）」から。文脈で言葉がどう使われ、解釈されるか研究。「実際の使い方」に注目。",
+      "searchQuery": "pragmatics linguistics examples"
+    },
+    {
+      "id": "card_015",
+      "front": "rationalism",
+      "back": "合理論",
+      "story": "ラテン語「ratio（理性）」が語源。真の知識は理性から生まれると考える哲学。デカルトが代表。経験論と対立。",
+      "searchQuery": "rationalism Descartes philosophy"
+    },
+    {
+      "id": "card_016",
+      "front": "empiricism",
+      "back": "経験論",
+      "story": "ギリシャ語「empeiria（経験）」に由来。知識は感覚的経験からのみ得られると主張する哲学。ロック、ヒュームが代表。",
+      "searchQuery": "empiricism Locke Hume"
+    },
+    {
+      "id": "card_017",
+      "front": "deduction",
+      "back": "演繹",
+      "story": "ラテン語「deducere（引き出す）」が語源。一般的な原理から個別の結論を導く推論。「人間は死ぬ。ソクラテスは人間。ゆえにソクラテスは死ぬ。」",
+      "searchQuery": "deduction logic examples"
+    },
+    {
+      "id": "card_018",
+      "front": "induction",
+      "back": "帰納",
+      "story": "ラテン語「inducere（導入する）」から。個別の事例から一般的な法則を導く推論。科学的発見に重要だが、絶対的確証は得られない。",
+      "searchQuery": "induction logic scientific method"
+    },
+    {
+      "id": "card_019",
+      "front": "metaphysics",
+      "back": "形而上学",
+      "story": "ギリシャ語「meta ta physika（自然学の後に続くもの）」が語源。アリストテレスの著作集の並びから。存在、時間、宇宙の根本原理を探る哲学分野。",
+      "searchQuery": "metaphysics Aristotle definition"
+    },
+    {
+      "id": "card_020",
+      "front": "dialectic",
+      "back": "弁証法",
+      "story": "ギリシャ語「dialegesthai（対話する）」から。対話を通じ真理に到達する方法。ヘーゲル哲学では、テーゼ・アンチテーゼ・ジンテーゼの発展過程。",
+      "searchQuery": "Hegel dialectic explanation"
+    },
+    {
+      "id": "card_021",
+      "front": "existentialism",
+      "back": "実存主義",
+      "story": "ラテン語「exsistere（外に現れる）」に由来。人間の「存在」に焦点を当て、自由と責任を強調する哲学。サルトルが有名。",
+      "searchQuery": "existentialism Sartre philosophy"
+    },
+    {
+      "id": "card_022",
+      "front": "nihilism",
+      "back": "虚無主義",
+      "story": "ラテン語「nihil（何もない）」から。人生に意味や価値がないと主張する思想。ニーチェが探求。現代社会の不安とも関連。",
+      "searchQuery": "nihilism Nietzsche meaning"
+    },
+    {
+      "id": "card_023",
+      "front": "determinism",
+      "back": "決定論",
+      "story": "ラテン語「determinare（限定する）」が語源。全ての事象は事前に決定され、自由意志は存在しないと考える哲学。物理学・脳科学でも議論。",
+      "searchQuery": "determinism free will debate"
+    },
+    {
+      "id": "card_024",
+      "front": "free will",
+      "back": "自由意志",
+      "story": "行動や選択を自由に決定できる能力。決定論と対立し、倫理学・法学の根幹。脳科学で再考中。",
+      "searchQuery": "free will neuroscience philosophy"
+    },
+    {
+      "id": "card_025",
+      "front": "consciousness",
+      "back": "意識",
+      "story": "ラテン語「con-（共に）+ scire（知る）」が語源。自己や周囲を認識する能力。哲学・脳科学最大の未解明な問い。",
+      "searchQuery": "consciousness hard problem philosophy"
+    },
+    {
+      "id": "card_026",
+      "front": "intuition",
+      "back": "直観",
+      "story": "ラテン語「intueri（内側を見る）」から。論理思考を介さず、直接的に真実や本質を把握する能力。ひらめき、洞察力。",
+      "searchQuery": "intuition philosophy psychology"
+    },
+    {
+      "id": "card_027",
+      "front": "perception",
+      "back": "知覚",
+      "story": "ラテン語「percipere（完全に捉える）」が語源。感覚器官を通じ外部情報を受け取り、意味あるものとして解釈するプロセス。",
+      "searchQuery": "perception psychology definition"
+    },
+    {
+      "id": "card_028",
+      "front": "abstraction",
+      "back": "抽象化",
+      "story": "ラテン語「abstrahere（引き離す）」が語源。個別の特徴から共通要素を取り出し、概念としてまとめる思考作用。",
+      "searchQuery": "abstraction philosophy cognitive science"
+    },
+    {
+      "id": "card_029",
+      "front": "dichotomy",
+      "back": "二分法、二者択一",
+      "story": "ギリシャ語「dikho-（二つに）+ temnein（切る）」から。あるものを二つの排他的カテゴリーに分けること。心と体、善と悪など。",
+      "searchQuery": "dichotomy examples philosophy"
+    },
+    {
+      "id": "card_030",
+      "front": "fallacy",
+      "back": "誤謬、誤った推論",
+      "story": "ラテン語「fallacia（欺瞞）」が語源。論理的に正しくない推論や主張。議論で使われるが、論理的欠陥を持つ。",
+      "searchQuery": "logical fallacies examples"
+    }
+  ]
+}
