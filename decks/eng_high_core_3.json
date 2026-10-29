@@ -1,0 +1,222 @@
+{
+  "deckId": "eng_high_core_3",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-29",
+  "schemaVersion": 2,
+  "title": "🏫 高校英語 (Vol.3) 重要抽象名詞 (概念) 30",
+  "note": "長文読解の鍵！重要概念名詞30選",
+  "category": "語学",
+  "subCategory": "英語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "perspective",
+      "back": "視点、見方",
+      "story": "「完全に（per-）見る（specere）」が語源。物事をあらゆる角度から「見通す」ことで得られる、独自の「視点」。一枚の絵も、見る位置で印象が変わるように。",
+      "searchQuery": "perspective 語源"
+    },
+    {
+      "id": "card_002",
+      "front": "attitude",
+      "back": "態度、姿勢",
+      "story": "イタリア語で「姿勢」を意味する言葉が語源。絵画で人物の「ポーズ」を表すように、心の内面が外に現れた「態度」や「構え」。",
+      "searchQuery": "attitude 意味"
+    },
+    {
+      "id": "card_003",
+      "front": "consequence",
+      "back": "結果、成り行き",
+      "story": "「共に（con-）続く（sequi）」が語源。ある行動や出来事の「必然的な結果」。ドミノ倒しのように、前の出来事に「続いて起こる」もの。",
+      "searchQuery": "consequence 例文"
+    },
+    {
+      "id": "card_004",
+      "front": "aspect",
+      "back": "側面、様相",
+      "story": "「〜の方へ（ad-）見る（specere）」が語源。物事を「ある方向から見た一面」や「特定の側面」。宝石のカット面のように、全体の一部を切り取って見るイメージ。",
+      "searchQuery": "aspect 類語"
+    },
+    {
+      "id": "card_005",
+      "front": "implication",
+      "back": "暗示、含意",
+      "story": "「中に（im-）折り畳む（plicare）」が語源。言葉や行動の「内側に隠された、言外の意味」。手紙を折り畳んで渡すように、直接は言わないが「ほのめかされていること」。",
+      "searchQuery": "implication 語源"
+    },
+    {
+      "id": "card_006",
+      "front": "approach",
+      "back": "取り組み方、接近法",
+      "story": "「〜の方へ（ad-）近づく（propiare）」が語源。物理的な「接近」から転じて、問題や課題への「対処法」や「考え方」。目標にどう「近づくか」という道筋。",
+      "searchQuery": "approach 使い方"
+    },
+    {
+      "id": "card_007",
+      "front": "significance",
+      "back": "重要性、意義",
+      "story": "「しるし（signum）を作る（facere）」が語源。歴史に残る「しるし」となるほど、「重要な意味」や「価値」を持つこと。その存在自体が大きな「意義」を示す。",
+      "searchQuery": "significance 類義語"
+    },
+    {
+      "id": "card_008",
+      "front": "distinction",
+      "back": "区別、相違",
+      "story": "「離れて（dis-）刺す（stingere）」が語源。元は「点をつけて区別する」意。二つのものの「はっきりとした違い」や「明確な区別」。白と黒のように、際立った「相違点」。",
+      "searchQuery": "distinction between"
+    },
+    {
+      "id": "card_009",
+      "front": "assumption",
+      "back": "仮定、前提",
+      "story": "「〜の方へ（ad-）取る（sumere）」が語源。証拠がなくても「当然のこととして受け入れる」考え。議論の土台となるが、検証が必要な「仮定」。",
+      "searchQuery": "assumption 例文"
+    },
+    {
+      "id": "card_010",
+      "front": "premise",
+      "back": "前提、根拠",
+      "story": "「前に（prae-）送る（mittere）」が語源。議論や理論の「出発点として提示される主張」。建物で言えば「基礎」にあたり、これが崩れると全体が成り立たない。",
+      "searchQuery": "premise assumption 違い"
+    },
+    {
+      "id": "card_011",
+      "front": "notion",
+      "back": "漠然とした考え、概念",
+      "story": "ラテン語で「知ること」が語源。まだ形になっていない「漠然とした考え」や「意見」。頭の中に浮かんだ、ぼんやりとした「イメージ」に近い。",
+      "searchQuery": "notion concept 違い"
+    },
+    {
+      "id": "card_012",
+      "front": "concept",
+      "back": "明確な概念、構想",
+      "story": "「共に（con-）取る（capere）」が語源。複数の事柄から共通点を抜き出し、「抽象的にまとめ上げた明確な考え」。設計図のように、具体的な形になる前の「構想」。",
+      "searchQuery": "concept 意味"
+    },
+    {
+      "id": "card_013",
+      "front": "framework",
+      "back": "枠組み、構造",
+      "story": "frame（骨組み）とwork（仕事）の組み合わせ。議論や計画の「骨格となる構造」や「基本的な考え方」。建物の基礎や柱のように、全体を支える「枠組み」。",
+      "searchQuery": "framework 使い方"
+    },
+    {
+      "id": "card_014",
+      "front": "criterion",
+      "back": "判断基準、尺度",
+      "story": "ギリシャ語で「判断するための手段」が語源。物事を評価したり、選択したりする際の「根拠となる標準」。合格か不合格かを決める「判断基準」。",
+      "searchQuery": "criterion 複数形"
+    },
+    {
+      "id": "card_015",
+      "front": "principle",
+      "back": "原理、原則",
+      "story": "ラテン語で「最初の、主要な」が語源。行動や思考の「根本となるルール」や「真理」。揺るぎない「信条」や、自然界の「法則」のようなもの。",
+      "searchQuery": "principle 語源"
+    },
+    {
+      "id": "card_016",
+      "front": "factor",
+      "back": "要因、要素",
+      "story": "ラテン語で「行う、作る」が語源。ある結果を「引き起こす原因」や、全体を「構成する要素」。成功や失敗を左右する「決定的な要因」。",
+      "searchQuery": "factor 例文"
+    },
+    {
+      "id": "card_017",
+      "front": "tendency",
+      "back": "傾向、性向",
+      "story": "ラテン語で「伸びる、傾く」が語源。特定の方向へ「自然と向かう性質」や「癖」。重いものが下へ「傾く」ように、ある方向へ進む「傾向」。",
+      "searchQuery": "tendency toward"
+    },
+    {
+      "id": "card_018",
+      "front": "capacity",
+      "back": "能力、収容力",
+      "story": "ラテン語で「つかむ、含む」が語源。何かを「受け入れられる最大量」や「潜在的な能力」。コップの「容量」から、人の学習「能力」まで。",
+      "searchQuery": "capacity 意味"
+    },
+    {
+      "id": "card_019",
+      "front": "potential",
+      "back": "可能性、潜在能力",
+      "story": "ラテン語で「力のある」が語源。まだ表面化していないが、「将来的に実現し得る力」や「可能性」。種の中に「秘められた」成長する力のように。",
+      "searchQuery": "potential energy"
+    },
+    {
+      "id": "card_020",
+      "front": "outcome",
+      "back": "最終結果、成果",
+      "story": "out（外へ）とcome（来る）の組み合わせ。あるプロセスや計画を経て「最終的に現れる結果」や「達成された成果」。試合の「結果」やプロジェクトの「結末」。",
+      "searchQuery": "outcome consequence 違い"
+    },
+    {
+      "id": "card_021",
+      "front": "impact",
+      "back": "強い影響、衝撃",
+      "story": "「中に（im-）固定する（pangere）」が語源。元は「強くぶつかる」意。そこから、人や物事に与える「強い影響」や「衝撃」。隕石の衝突のように、大きな「打撃」。",
+      "searchQuery": "impact on"
+    },
+    {
+      "id": "card_022",
+      "front": "correlation",
+      "back": "相関関係",
+      "story": "co-（共に）+ relation（関係）の組み合わせ。二つ以上のものが「互いに影響し合っている」状態。気温が上がるとアイスの売上が伸びるような「関連性」。",
+      "searchQuery": "correlation causation 違い"
+    },
+    {
+      "id": "card_023",
+      "front": "dimension",
+      "back": "側面、次元",
+      "story": "「離れて（dis-）測る（metiri）」が語源。物事の「異なる側面」や「要素」。立方体に縦・横・高さがあるように、多角的に見る「次元」。",
+      "searchQuery": "dimension 意味"
+    },
+    {
+      "id": "card_024",
+      "front": "component",
+      "back": "構成要素、部品",
+      "story": "「共に（com-）置く（ponere）」が語源。全体を「構成する個々の部分」や「部品」。機械の「パーツ」のように、集まって一つを成す「要素」。",
+      "searchQuery": "component parts"
+    },
+    {
+      "id": "card_025",
+      "front": "feature",
+      "back": "特徴、特色",
+      "story": "ラテン語で「作る」が語源。人の「顔立ち」や、物事の「際立った特性」。その製品を他と区別する「目玉機能」や「特徴」。",
+      "searchQuery": "feature 類語"
+    },
+    {
+      "id": "card_026",
+      "front": "essence",
+      "back": "本質、核心",
+      "story": "ラテン語で「存在する」が語源。物事の「最も重要な部分」や「根本的な性質」。それがなければ、そのもの自体が成り立たない「核心」。",
+      "searchQuery": "essence 語源"
+    },
+    {
+      "id": "card_027",
+      "front": "validity",
+      "back": "妥当性、正当性",
+      "story": "ラテン語で「強い、有効な」が語源。主張や理論が「論理的に正しく、根拠がしっかりしている」こと。その結論が「有効である」と認められる「妥当性」。",
+      "searchQuery": "validity reliability 違い"
+    },
+    {
+      "id": "card_028",
+      "front": "credibility",
+      "back": "信頼性、信憑性",
+      "story": "ラテン語で「信じる」が語源。情報源や人物が「信じるに足る」こと。その情報が「どれだけ信用できるか」という「信憑性」。",
+      "searchQuery": "credibility gap"
+    },
+    {
+      "id": "card_029",
+      "front": "priority",
+      "back": "優先事項",
+      "story": "ラテン語で「前の」が語源。他のものよりも「先に、あるいは重要に扱われるべきこと」。限られた時間で「真っ先にすべきこと」。",
+      "searchQuery": "priority order"
+    },
+    {
+      "id": "card_030",
+      "front": "constraint",
+      "back": "制約、制限",
+      "story": "「共に（con-）縛る（stringere）」が語源。行動や選択を「制限する要因」や「束縛」。予算や時間の「制約」のように、自由を奪う「制限」。",
+      "searchQuery": "constraint 例文"
+    }
+  ]
+}
