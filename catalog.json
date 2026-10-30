@@ -758,5 +758,15 @@
     "subCategory": "美容師国家試験・香粧品化学",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/beautician_chem_1.json"
+  },
+  {
+    "id": "beautician_bio_1",
+    "version": "1.0.0",
+    "title": "✂️ 美容師国家試験 (Vol.2) 人体・毛髪・皮膚科学の完全理解 30",
+    "note": "人体・毛髪・皮膚科学の最重要30題を厳選。",
+    "category": "資格・検定",
+    "subCategory": "美容師国家試験・人体・毛髪科学",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/beautician_bio_1.json"
   }
 ]
