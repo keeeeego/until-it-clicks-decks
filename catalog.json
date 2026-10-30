@@ -748,5 +748,15 @@
     "subCategory": "東洋史・中国史",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/world_history_china_8.json"
+  },
+  {
+    "id": "beautician_chem_1",
+    "version": "1.0.0",
+    "title": "✂️ 美容師国家試験 (Vol.1) 香粧品化学・パーマ＆カラー理論 30",
+    "note": "パーマ・カラーの化学反応を学ぶ",
+    "category": "資格・検定",
+    "subCategory": "美容師国家試験・香粧品化学",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/beautician_chem_1.json"
   }
 ]
