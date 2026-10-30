@@ -728,5 +728,15 @@
     "subCategory": "フランス語・アルファベット・発音",
     "cardCount": 35,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/fr_alphabet_intro_1.json"
+  },
+  {
+    "id": "fr_basic_vocab_1",
+    "version": "1.0.0",
+    "title": "🇫🇷 フランス語 (入門 Vol.1) 小学校レベルの超キホン生活単語50",
+    "note": "フランス語の超基礎単語50選。",
+    "category": "語学",
+    "subCategory": "フランス語・超基本単語",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/fr_basic_vocab_1.json"
   }
 ]
