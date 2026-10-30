@@ -718,5 +718,15 @@
     "subCategory": "国語・四字熟語",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/yoji_standard_4.json"
+  },
+  {
+    "id": "fr_alphabet_intro_1",
+    "version": "1.0.0",
+    "title": "🇫🇷 フランス語 (入門) アルファベット・アクサン・基本発音35",
+    "note": "フランス語アルファベットと発音の基礎",
+    "category": "語学",
+    "subCategory": "フランス語・アルファベット・発音",
+    "cardCount": 35,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/fr_alphabet_intro_1.json"
   }
 ]
