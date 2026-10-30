@@ -1,0 +1,360 @@
+{
+  "deckId": "fr_basic_vocab_1",
+  "version": "1.0.0",
+  "title": "🇫🇷 フランス語 (入門 Vol.1) 小学校レベルの超キホン生活単語50",
+  "note": "フランス語の超基礎単語50選。",
+  "category": "語学",
+  "subCategory": "フランス語・超基本単語",
+  "cards": [
+    {
+      "id": "card_001",
+      "front": "Bonjour",
+      "back": "こんにちは、おはよう（発音: ボンジュール）",
+      "story": "一日中使える挨拶！「Bon」は良い、「jour」は日。良い一日を、という意味が込められています。",
+      "searchQuery": "Bonjour フランス語 発音 意味"
+    },
+    {
+      "id": "card_002",
+      "front": "Bonsoir",
+      "back": "こんばんは（発音: ボンソワール）",
+      "story": "夕方以降の挨拶。「Bon」は良い、「soir」は夜。良い夜を、という意味で、英語のGood eveningにあたります。",
+      "searchQuery": "Bonsoir フランス語 使い方"
+    },
+    {
+      "id": "card_003",
+      "front": "Bonne nuit",
+      "back": "おやすみなさい（発音: ボンヌニュイ）",
+      "story": "寝る前の挨拶。女性名詞の「nuit」(夜)に合わせて「bonne」(良い)も女性形になるのがポイントです。",
+      "searchQuery": "Bonne nuit フランス語 発音"
+    },
+    {
+      "id": "card_004",
+      "front": "Merci",
+      "back": "ありがとう（発音: メルシー）",
+      "story": "感謝の気持ちを伝える超基本フレーズ。英語の「mercy」(慈悲)と同語源で、元は「感謝」の意味でした。",
+      "searchQuery": "Merci フランス語 語源"
+    },
+    {
+      "id": "card_005",
+      "front": "S'il vous plaît",
+      "back": "お願いします、どうぞ（発音: スィルヴプレ）",
+      "story": "丁寧な依頼や提案に使う表現。「もしあなたを喜ばせるならば」が直訳で、英語のPleaseにあたります。",
+      "searchQuery": "S'il vous plaît 丁寧 フランス語"
+    },
+    {
+      "id": "card_006",
+      "front": "Oui",
+      "back": "はい（発音: ウィ）",
+      "story": "英語のYesにあたる肯定の返事。口をすぼめて「ウ」と発音するのが、フランス語らしい発音のコツです。",
+      "searchQuery": "Oui フランス語 発音 コツ"
+    },
+    {
+      "id": "card_007",
+      "front": "Non",
+      "back": "いいえ（発音: ノン）",
+      "story": "英語のNoにあたる否定の返事。鼻にかかる「オン」の音を意識すると、より自然な発音になります。",
+      "searchQuery": "Non フランス語 発音"
+    },
+    {
+      "id": "card_008",
+      "front": "Au revoir",
+      "back": "さようなら（発音: オルヴォワール）",
+      "story": "「また会うまで」という意味の、別れの挨拶で最も一般的な表現。少し丁寧な印象を与えます。",
+      "searchQuery": "Au revoir フランス語 意味"
+    },
+    {
+      "id": "card_009",
+      "front": "un",
+      "back": "1（男性名詞につく不定冠詞）発音: アン",
+      "story": "数字の「1」と男性名詞の不定冠詞の両方に使われます。鼻にかかる「アン」の音が特徴です。",
+      "searchQuery": "un フランス語 数字 冠詞"
+    },
+    {
+      "id": "card_010",
+      "front": "deux",
+      "back": "2（発音: ドゥ）",
+      "story": "数字の「2」。語尾の「x」は通常発音しません。英語のtwoと比べて音の響きが異なります。",
+      "searchQuery": "deux フランス語 発音"
+    },
+    {
+      "id": "card_011",
+      "front": "trois",
+      "back": "3（発音: トロワ）",
+      "story": "数字の「3」。フランス語のRの音を意識して、のどを鳴らすように発音してみましょう。",
+      "searchQuery": "trois フランス語 発音"
+    },
+    {
+      "id": "card_012",
+      "front": "quatre",
+      "back": "4（発音: キャトル）",
+      "story": "数字の「4」。語尾の「re」は軽く、ほとんど発音しないようにすると、よりフランス語らしくなります。",
+      "searchQuery": "quatre フランス語 発音"
+    },
+    {
+      "id": "card_013",
+      "front": "cinq",
+      "back": "5（発音: サンク）",
+      "story": "数字の「5」。語尾の「q」は、日本語の「ク」のように発音されるのが特徴です。",
+      "searchQuery": "cinq フランス語 発音"
+    },
+    {
+      "id": "card_014",
+      "front": "six",
+      "back": "6（発音: スィス）",
+      "story": "数字の「6」。単独で発音するときは「スィス」ですが、後続の母音とリエゾンすることもあります。",
+      "searchQuery": "six フランス語 発音 リエゾン"
+    },
+    {
+      "id": "card_015",
+      "front": "sept",
+      "back": "7（発音: セット）",
+      "story": "数字の「7」。語尾の「p」は発音しないのが一般的です。英語のsevenに似た響きが少しあります。",
+      "searchQuery": "sept フランス語 発音"
+    },
+    {
+      "id": "card_016",
+      "front": "huit",
+      "back": "8（発音: ユイット）",
+      "story": "数字の「8」。Hは発音しませんが、リエゾンしない「無音のh」なので、注意が必要です。",
+      "searchQuery": "huit フランス語 発音"
+    },
+    {
+      "id": "card_017",
+      "front": "neuf",
+      "back": "9（発音: ヌフ）",
+      "story": "数字の「9」。語尾の「f」の音をしっかり発音することが、聞き取りやすくするポイントです。",
+      "searchQuery": "neuf フランス語 発音"
+    },
+    {
+      "id": "card_018",
+      "front": "dix",
+      "back": "10（発音: ディス）",
+      "story": "数字の「10」。単独で発音するときは「ディス」ですが、後続の母音とリエゾンすることもあります。",
+      "searchQuery": "dix フランス語 発音 リエゾン"
+    },
+    {
+      "id": "card_019",
+      "front": "rouge",
+      "back": "赤（発音: ルージュ）",
+      "story": "色の「赤」。この単語は男性名詞にも女性名詞にも同じ形で使われる（男女同形）のが特徴です。",
+      "searchQuery": "rouge フランス語 色"
+    },
+    {
+      "id": "card_020",
+      "front": "bleu",
+      "back": "青（発音: ブルー）",
+      "story": "色の「青」。男性名詞にはbleu、女性名詞にはbleueと、形が変わることに注意しましょう。",
+      "searchQuery": "bleu bleue フランス語"
+    },
+    {
+      "id": "card_021",
+      "front": "jaune",
+      "back": "黄色（発音: ジョーヌ）",
+      "story": "色の「黄色」。rougeと同じく男女同形なので、名詞の性別によって形は変わりません。",
+      "searchQuery": "jaune フランス語 色"
+    },
+    {
+      "id": "card_022",
+      "front": "vert",
+      "back": "緑（発音: ヴェール）",
+      "story": "色の「緑」。男性名詞はvert、女性名詞はverteと、形が変わる色の一つです。",
+      "searchQuery": "vert verte フランス語"
+    },
+    {
+      "id": "card_023",
+      "front": "blanc",
+      "back": "白（発音: ブラン）",
+      "story": "色の「白」。男性名詞はblanc、女性名詞はblancheと、大きく形が変わる特殊な変化をします。",
+      "searchQuery": "blanc blanche フランス語"
+    },
+    {
+      "id": "card_024",
+      "front": "noir",
+      "back": "黒（発音: ノワール）",
+      "story": "色の「黒」。男性名詞はnoir、女性名詞はnoireと、最後に「e」が付く形に変わります。",
+      "searchQuery": "noir noire フランス語"
+    },
+    {
+      "id": "card_025",
+      "front": "un chien",
+      "back": "一匹の犬（発音: アン シヤン）",
+      "story": "「犬」は男性名詞なので、不定冠詞は「un」を使います。英語の「canine」(犬の)と同語源です。",
+      "searchQuery": "chien フランス語 男性名詞"
+    },
+    {
+      "id": "card_026",
+      "front": "un chat",
+      "back": "一匹の猫（発音: アン シャ）",
+      "story": "「猫」も男性名詞なので、不定冠詞は「un」です。語尾の「t」は発音しないことが多いです。",
+      "searchQuery": "chat フランス語 発音"
+    },
+    {
+      "id": "card_027",
+      "front": "un oiseau",
+      "back": "一羽の鳥（発音: アン ノワゾー）",
+      "story": "「鳥」は男性名詞。「o」で始まるので、不定冠詞の「un」とリエゾンして「アン ノワゾー」と聞こえます。",
+      "searchQuery": "oiseau フランス語 リエゾン"
+    },
+    {
+      "id": "card_028",
+      "front": "un poisson",
+      "back": "一匹の魚（発音: アン ポワソン）",
+      "story": "「魚」は男性名詞なので、不定冠詞は「un」です。英語の「fish」にあたる単語です。",
+      "searchQuery": "poisson フランス語"
+    },
+    {
+      "id": "card_029",
+      "front": "papa",
+      "back": "パパ、お父さん（発音: パパ）",
+      "story": "英語の「papa」と同じく、子供が親しみを込めて呼ぶ言葉です。家族の基本的な呼び方。",
+      "searchQuery": "papa フランス語 家族"
+    },
+    {
+      "id": "card_030",
+      "front": "maman",
+      "back": "ママ、お母さん（発音: ママン）",
+      "story": "英語の「mama」と同じく、子供が親しみを込めて呼ぶ言葉です。こちらも家族の基本単語。",
+      "searchQuery": "maman フランス語 家族"
+    },
+    {
+      "id": "card_031",
+      "front": "un ami",
+      "back": "一人の友達（男性）（発音: アン ナミ）",
+      "story": "「友達」は男性名詞。女性の友達の場合は「une amie (ユン ナミ)」となり、冠詞と形が変わります。",
+      "searchQuery": "ami amie フランス語"
+    },
+    {
+      "id": "card_032",
+      "front": "un bébé",
+      "back": "一人の赤ちゃん（発音: アン ベベ）",
+      "story": "「赤ちゃん」は男性名詞なので、不定冠詞は「un」です。英語の「baby」と似ていますね。",
+      "searchQuery": "bébé フランス語"
+    },
+    {
+      "id": "card_033",
+      "front": "une pomme",
+      "back": "一つのリンゴ（発音: ユン ポム）",
+      "story": "「リンゴ」は女性名詞なので、不定冠詞は「une」を使います。フランスのデザートによく登場します。",
+      "searchQuery": "pomme フランス語 女性名詞"
+    },
+    {
+      "id": "card_034",
+      "front": "du pain",
+      "back": "パン（の一部）（発音: デュ パン）",
+      "story": "「パン」は男性名詞で数えられないので、部分冠詞「du」を使います。「パンを食べる」といった時に使われます。",
+      "searchQuery": "du pain フランス語 部分冠詞"
+    },
+    {
+      "id": "card_035",
+      "front": "de l'eau",
+      "back": "水（の一部）（発音: ドゥ ロー）",
+      "story": "「水」は女性名詞で母音始まりなので、部分冠詞「de l'」を使います。「水を飲む」でよく使う表現です。",
+      "searchQuery": "de l'eau フランス語 部分冠詞"
+    },
+    {
+      "id": "card_036",
+      "front": "du lait",
+      "back": "牛乳（の一部）（発音: デュ レ）",
+      "story": "「牛乳」は男性名詞で数えられないので、部分冠詞「du」を使います。「牛乳を飲む」でよく使う表現です。",
+      "searchQuery": "du lait フランス語 部分冠詞"
+    },
+    {
+      "id": "card_037",
+      "front": "de la viande",
+      "back": "肉（の一部）（発音: ドゥ ラ ヴィアンドゥ）",
+      "story": "「肉」は女性名詞で数えられないので、部分冠詞「de la」を使います。「肉を食べる」でよく使う表現です。",
+      "searchQuery": "de la viande フランス語 部分冠詞"
+    },
+    {
+      "id": "card_038",
+      "front": "un gâteau",
+      "back": "一つのケーキ（発音: アン ガトー）",
+      "story": "「ケーキ」は男性名詞なので、不定冠詞は「un」です。フランスのお菓子は見た目も美しいものが多いです。",
+      "searchQuery": "gâteau フランス語 男性名詞"
+    },
+    {
+      "id": "card_039",
+      "front": "du chocolat",
+      "back": "チョコレート（の一部）（発音: デュ ショコラ）",
+      "story": "「チョコレート」は男性名詞で数えられないので、部分冠詞「du」を使います。「チョコレートを食べる」で使います。",
+      "searchQuery": "du chocolat フランス語 部分冠詞"
+    },
+    {
+      "id": "card_040",
+      "front": "du fromage",
+      "back": "チーズ（の一部）（発音: デュ フロマージュ）",
+      "story": "「チーズ」は男性名詞で数えられないので、部分冠詞「du」を使います。フランスはチーズ大国として有名です。",
+      "searchQuery": "du fromage フランス語 部分冠詞"
+    },
+    {
+      "id": "card_041",
+      "front": "un livre",
+      "back": "一冊の本（発音: アン リーヴル）",
+      "story": "「本」は男性名詞なので、不定冠詞は「un」です。英語の「library」(図書館)と同語源です。",
+      "searchQuery": "livre フランス語 男性名詞"
+    },
+    {
+      "id": "card_042",
+      "front": "une maison",
+      "back": "一軒の家（発音: ユン メゾン）",
+      "story": "「家」は女性名詞なので、不定冠詞は「une」です。英語の「mansion」と同語源で、豪華な家を指すことも。",
+      "searchQuery": "maison フランス語 女性名詞"
+    },
+    {
+      "id": "card_043",
+      "front": "une école",
+      "back": "一つの学校（発音: ユン ネコル）",
+      "story": "「学校」は女性名詞。「e」で始まるので不定冠詞「une」とリエゾンして「ユン ネコル」と聞こえます。",
+      "searchQuery": "école フランス語 リエゾン"
+    },
+    {
+      "id": "card_044",
+      "front": "une voiture",
+      "back": "一台の車（発音: ユン ヴォワテュール）",
+      "story": "「車」は女性名詞なので、不定冠詞は「une」です。フランスは自動車産業も盛んな国です。",
+      "searchQuery": "voiture フランス語 女性名詞"
+    },
+    {
+      "id": "card_045",
+      "front": "un ballon",
+      "back": "一つのボール（発音: アン バロン）",
+      "story": "「ボール」は男性名詞なので、不定冠詞は「un」です。サッカーボールなどもこの単語で表現します。",
+      "searchQuery": "ballon フランス語 男性名詞"
+    },
+    {
+      "id": "card_046",
+      "front": "un lit",
+      "back": "一つのベッド（発音: アン リ）",
+      "story": "「ベッド」は男性名詞なので、不定冠詞は「un」です。語尾の「t」は発音しないことが多いです。",
+      "searchQuery": "lit フランス語 男性名詞"
+    },
+    {
+      "id": "card_047",
+      "front": "manger",
+      "back": "食べる（発音: マンジェ）",
+      "story": "動詞の原形です。「食べること」という意味もあります。フランスは美食の国として知られています。",
+      "searchQuery": "manger フランス語 動詞"
+    },
+    {
+      "id": "card_048",
+      "front": "boire",
+      "back": "飲む（発音: ボワール）",
+      "story": "動詞の原形です。「飲むこと」という意味もあります。水やワインなどを飲むときに使う基本的な動詞です。",
+      "searchQuery": "boire フランス語 動詞"
+    },
+    {
+      "id": "card_049",
+      "front": "aimer",
+      "back": "好きである、愛する（発音: エメ）",
+      "story": "動詞の原形です。人にも物にも使える便利な動詞。「Je t'aime (ジュ テーム)」は「愛してる」の意味。",
+      "searchQuery": "aimer フランス語 動詞"
+    },
+    {
+      "id": "card_050",
+      "front": "dormir",
+      "back": "眠る（発音: ドルミール）",
+      "story": "動詞の原形です。「眠ること」という意味もあります。十分な睡眠は、健康的な生活に不可欠ですね。",
+      "searchQuery": "dormir フランス語 動詞"
+    }
+  ]
+}
