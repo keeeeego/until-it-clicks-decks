@@ -738,5 +738,15 @@
     "subCategory": "フランス語・超基本単語",
     "cardCount": 50,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/fr_basic_vocab_1.json"
+  },
+  {
+    "id": "fr_basic_vocab_2",
+    "version": "1.0.0",
+    "title": "🇫🇷 フランス語 (入門 Vol.2) 小学校レベルの超キホン生活単語50",
+    "note": "仏語入門。小学校レベルの基本語彙50選。",
+    "category": "語学",
+    "subCategory": "フランス語・超基本単語",
+    "cardCount": 50,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/fr_basic_vocab_2.json"
   }
 ]
