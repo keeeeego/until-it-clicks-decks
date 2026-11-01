@@ -778,5 +778,15 @@
     "subCategory": "美容師国家試験・衛生管理",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/beautician_hygiene_1.json"
+  },
+  {
+    "id": "auto_20261102_964",
+    "version": "1.0.0",
+    "title": "🧠 意思決定の罠！認知バイアス30選",
+    "note": "🧠 意思決定の罠！認知バイアス30選（全30問）",
+    "category": "教養・科学",
+    "subCategory": "心理学・認知バイアス",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/auto_20261102_964.json"
   }
 ]
