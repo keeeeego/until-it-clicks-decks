@@ -183,8 +183,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "難関大英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "難関大英語"
     },
     "title": "🎓 難関大英語 (Vol.1) 学術・論説・アカデミック30",
     "note": "早慶・旧帝大の学術論説文で頻出する重要学術語30語。hypothesis, synthesize, empirical, paradox等。例文と語源小話を含めて作成してください。",
@@ -199,8 +199,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "難関大英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "難関大英語"
     },
     "title": "🎓 難関大英語 (Vol.2) 社会・時事・経済・国際30",
     "note": "国際情勢・経済論説で頻出する上級時事語彙30語。leverage, fluctuate, deficit, sanction等。例文と語源小話を含めて作成してください。",
@@ -215,8 +215,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "難関大英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "難関大英語"
     },
     "title": "🎓 難関大英語 (Vol.3) 心理・認知・哲学30",
     "note": "心理学・言語学・哲学論説で差がつく抽象語彙30語。paradigm, cognitive, subconscious, subjective等。例文と語源小話を含めて作成してください。",
@@ -231,8 +231,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "難関大英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "難関大英語"
     },
     "title": "🎓 難関大英語 (Vol.4) 英検準1級・頻出語彙30",
     "note": "英検準1級・TOEIC800点突破の頻出難単語30語。vulnerable, lucrative, ambiguous, plausible等。例文と語源小話を含めて作成してください。",
@@ -247,8 +247,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "難関大英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "難関大英語"
     },
     "title": "🎓 難関大英語 (Vol.5) ネイティブ教養・比喩表現30",
     "note": "英米の知識層が好んで使う比喩的成句・表現30語。catalyst, scapegoat, bottleneck, hurdle等。例文と語源小話を含めて作成してください。",
@@ -263,8 +263,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "難関大英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "難関大英語"
     },
     "title": "🎓 難関大英語 (Vol.6) 難関大・差がつく最難関ラスト30",
     "note": "最難関私大・国公立2次で差がつくハイレベル語彙30語。ubiquitous, ephemeral, pragmatic, resilient等。例文と語源小話を含めて作成してください。",
@@ -279,8 +279,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "高校英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "高校英語"
     },
     "title": "🏫 高校英語 (Vol.1) 読解コア動詞 (基礎) 30",
     "note": "共通テスト読解の骨格となる最重要基本動詞30語。affect, achieve, require, provide等。例文と語源小話を含めて作成してください。",
@@ -295,8 +295,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "高校英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "高校英語"
     },
     "title": "🏫 高校英語 (Vol.2) 読解コア動詞 (応用) 30",
     "note": "論説文で主旨を正確に読み解くための展開動詞30語。indicate, distinguish, represent, appreciate等。例文と語源小話を含めて作成してください。",
@@ -311,8 +311,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "高校英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "高校英語"
     },
     "title": "🏫 高校英語 (Vol.3) 重要抽象名詞 (概念) 30",
     "note": "視点、態度、結果など長文の論理構造を握る名詞30語。perspective, attitude, consequence, aspect等。例文と語源小話を含めて作成してください。",
@@ -327,8 +327,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "高校英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "高校英語"
     },
     "title": "🏫 高校英語 (Vol.4) 重要抽象名詞 (社会・科学) 30",
     "note": "科学論説や社会問題テーマで頻出する客観名詞30語。phenomenon, evidence, principle, institution等。例文と語源小話を含めて作成してください。",
@@ -343,8 +343,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "高校英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "高校英語"
     },
     "title": "🏫 高校英語 (Vol.5) 多義語・文脈判断キラー30",
     "note": "知っている単語の意外な意味で差がつく最重要語30語。run「経営する」、fire「解雇する」、sound「賢明な」等。例文と語源小話を含めて作成してください。",
@@ -359,8 +359,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "高校英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "高校英語"
     },
     "title": "🏫 高校英語 (Vol.6) 重要コロケーション・前置詞連動30",
     "note": "動詞＋前置詞のカタマリで反射的に意味を捉える表現30語。rely on, contribute to, refer to等。例文と語源小話を含めて作成してください。",
@@ -375,8 +375,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "高校英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "高校英語"
     },
     "title": "🏫 高校英語 (Vol.7) 論説文で頻出する形容詞30",
     "note": "筆者の評価や重要度を瞬時に見抜くキー形容詞30語。significant, essential, relevant, evident等。例文と語源小話を含めて作成してください。",
@@ -391,8 +391,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "高校英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "高校英語"
     },
     "title": "🏫 高校英語 (Vol.8) 文脈をひっくり返す副詞・接続表現30",
     "note": "逆接・結論・必然性を導くパラグラフ読解の要となる副詞・接続表現30語。nevertheless, consequently, inevitably等。例文と小話を含めて作成してください。",
@@ -407,8 +407,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "中学英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "中学英語"
     },
     "title": "🏫 中学英語 (Vol.1) 超必須・日常基本動詞30",
     "note": "take, get, have, make 等の基本動詞と語源の感覚。例文と語源小話を含めて作成してください。",
@@ -423,8 +423,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "中学英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "中学英語"
     },
     "title": "🏫 中学英語 (Vol.2) 感情・様子を表す形容詞＆副詞30",
     "note": "気持ちや情景を表現する中学必須の描写語彙。例文と語源小話を含めて作成してください。",
@@ -439,8 +439,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "中学英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "中学英語"
     },
     "title": "🏫 中学英語 (Vol.3) 学校・社会・生活名詞30",
     "note": "高校入試・中学教科書頻出の生活・社会名詞30語。例文と小話を含めて作成してください。",
@@ -455,8 +455,8 @@
     "hierarchy": {
       "level1": "語学",
       "level2": "英語",
-      "level3": "中学英語",
-      "level4": null
+      "level3": "レベル別",
+      "level4": "中学英語"
     },
     "title": "🏫 中学英語 (Vol.4) 高校入試・差がつく頻出派生語30",
     "note": "高校入試で狙われる重要派生語・語形変化30語。例文と小話を含めて作成してください。",
