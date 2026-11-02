@@ -1,7 +1,7 @@
 {
   "deckId": "preset_g_kentei_50",
   "ttsLang": "ja-JP",
-  "version": "1.1.0",
+  "version": "1.3.0",
   "updatedAt": "2026-10-26",
   "schemaVersion": 3,
   "title": "🤖 G検定・頻出重要キーワード50",
@@ -94,7 +94,7 @@
     },
     {
       "id": "gk_013",
-      "front": "適合率（Precision）と再現率（Recall）",
+      "front": "適合率と再現率",
       "back": "適合率: 陽性と判定した中で本当に陽性だった割合 / 再現率: 本当の陽性のうち陽性と当てられた割合",
       "story": "解説: トレードオフ関係にあります。がん検診など「見逃し厳禁」は再現率重視、迷惑メール判定など「誤検知厳禁」は適合率重視。調和平均はF値。",
       "searchQuery": "G検定 公式テキスト AI"
@@ -150,7 +150,7 @@
     },
     {
       "id": "gk_021",
-      "front": "バッチ正規化（Batch Normalization）",
+      "front": "バッチ正規化",
       "back": "ミニバッチごとに各層の出力を平均0・分散1に正規化して学習を安定・加速させる手法",
       "story": "解説: 内部共変量シフトを抑え、学習率を大きく設定でき、初期値への依存度を激減させる万能テクニック。",
       "searchQuery": "G検定 公式テキスト AI"
@@ -185,7 +185,7 @@
     },
     {
       "id": "gk_026",
-      "front": "物体検出：YOLO（You Only Look Once）",
+      "front": "物体検出：YOLO",
       "back": "画像全体をグリッド分割し、位置特定（BBox）とクラス分類を1回のニューラルネット処理で高速実行する手法",
       "story": "解説: Faster R-CNNのような2段階（領域候補選定→分類）検出に比べ、動画のリアルタイム検出が可能なほど超高速。",
       "searchQuery": "G検定 公式テキスト AI"
@@ -199,7 +199,7 @@
     },
     {
       "id": "gk_028",
-      "front": "LSTM（Long Short-Term Memory）",
+      "front": "LSTM",
       "back": "入力ゲート・忘却ゲート・出力ゲートとセル状態を持ち、長期の依存関係を記憶できるようにしたRNNの拡張",
       "story": "解説: 1997年にホックライターらが提案。後に構造をシンプルにした「GRU（Gated Recurrent Unit）」も登場しました。",
       "searchQuery": "G検定 公式テキスト AI"
@@ -234,7 +234,7 @@
     },
     {
       "id": "gk_033",
-      "front": "GPT（Generative Pre-trained Transformer）",
+      "front": "GPT",
       "back": "Transformerのデコーダを用い、左から右へ「次に来る単語」を自己回帰的に予測する生成特化モデル",
       "story": "解説: パラメータ数と学習データを巨大化させることで、創発（Emergent Ability）が起き、自然な対話や論理的思考が可能になりました。",
       "searchQuery": "G検定 公式テキスト AI"
@@ -332,7 +332,7 @@
     },
     {
       "id": "gk_047",
-      "front": "蒸留（Knowledge Distillation）",
+      "front": "知識蒸留",
       "back": "巨大で高精度な「教師モデル」の知識（出力確率分布）を、軽量で小さな「生徒モデル」に学習させる圧縮手法",
       "story": "解説: スマホやエッジ端末で高速に動く軽量AIを作る際に必須となるモデル軽量化テクニックです。",
       "searchQuery": "G検定 公式テキスト AI"

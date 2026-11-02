@@ -1,6 +1,6 @@
 {
   "deckId": "g_kentei_nlp_genai_1",
-  "version": "1.1.0",
+  "version": "1.3.0",
   "updatedAt": "2026-10-29",
   "schemaVersion": 3,
   "title": "💬 G検定 (Vol.3) 自然言語処理・Transformer・生成AI 50",
@@ -31,30 +31,30 @@
     },
     {
       "id": "card_004",
-      "front": "位置エンコーディング (Positional Encoding)",
+      "front": "位置エンコーディング",
       "back": "Transformerで単語の順序情報を付与する技術",
-      "story": "Transformerは並列処理のため、単語の順序が失われます。そこで「位置エンコーディング」により、各単語の絶対的・相対的な位置情報を埋め込みベクトルに加えることで、順序をモデルに伝えます。",
+      "story": "Transformerは並列処理のため、単語の順序が失われます。そこで「位置エンコーディング」により、各単語の絶対的・相対的な位置情報を埋め込みベクトルに加えることで、順序をモデルに伝えます。\n正式名称: Positional Encoding",
       "searchQuery": "Transformer 位置エンコーディング"
     },
     {
       "id": "card_005",
-      "front": "BERT (Bidirectional Encoder Representations from Transformers)",
+      "front": "BERT",
       "back": "Googleが開発した双方向Transformerベースの事前学習モデル",
-      "story": "「BERT」は、文脈を双方向から学習することで、より高い精度を実現しました。穴埋め問題（Masked Language Model）と次文予測（Next Sentence Prediction）で事前学習されます。",
+      "story": "「BERT」は、文脈を双方向から学習することで、より高い精度を実現しました。穴埋め問題（Masked Language Model）と次文予測（Next Sentence Prediction）で事前学習されます。\n正式名称: Bidirectional Encoder Representations from Transformers",
       "searchQuery": "BERT 仕組み MLM NSP"
     },
     {
       "id": "card_006",
-      "front": "GPT (Generative Pre-trained Transformer)",
+      "front": "GPT",
       "back": "OpenAIが開発したTransformerベースの自己回帰型言語モデル",
-      "story": "「GPT」は、Transformerのデコーダー部分を使い、前の単語から次の単語を予測する自己回帰的に文章を生成します。そのため、自然な文章生成能力に優れています。",
+      "story": "「GPT」は、Transformerのデコーダー部分を使い、前の単語から次の単語を予測する自己回帰的に文章を生成します。そのため、自然な文章生成能力に優れています。\n正式名称: Generative Pre-trained Transformer",
       "searchQuery": "GPT 自己回帰 生成AI"
     },
     {
       "id": "card_007",
-      "front": "大規模言語モデル (LLM: Large Language Model)",
+      "front": "大規模言語モデル（LLM）",
       "back": "数十億〜数千億パラメータを持つ巨大な言語モデル",
-      "story": "「LLM」は、膨大なテキストデータで学習され、驚くほどの言語理解・生成能力を持ちます。パラメータ数が増えるほど、創発的な能力（Emergent Abilities）が生まれることが指摘されています。",
+      "story": "「LLM」は、膨大なテキストデータで学習され、驚くほどの言語理解・生成能力を持ちます。パラメータ数が増えるほど、創発的な能力（Emergent Abilities）が生まれることが指摘されています。\n正式名称: LLM: Large Language Model",
       "searchQuery": "LLM 特徴 創発的"
     },
     {
@@ -73,16 +73,16 @@
     },
     {
       "id": "card_010",
-      "front": "RAG (Retrieval-Augmented Generation)",
+      "front": "RAG",
       "back": "外部知識を検索して回答生成に活用する手法",
-      "story": "「RAG」は、LLMが知らない情報や最新情報を補うため、外部DBから関連情報を検索し、参考に回答を生成。ハルシネーション（幻覚）を減らす効果も期待されます。",
+      "story": "「RAG」は、LLMが知らない情報や最新情報を補うため、外部DBから関連情報を検索し、参考に回答を生成。ハルシネーション（幻覚）を減らす効果も期待されます。\n正式名称: Retrieval-Augmented Generation",
       "searchQuery": "RAG 仕組み LLM ハルシネーション"
     },
     {
       "id": "card_011",
-      "front": "LoRA (Low-Rank Adaptation)",
+      "front": "LoRA",
       "back": "大規模モデルの効率的なファインチューニング手法",
-      "story": "「LoRA」は、大規模モデルの全パラメータ更新ではなく、ごく一部の低ランク行列を追加・学習することで、計算コストとメモリ消費を大幅削減し、性能を維持します。",
+      "story": "「LoRA」は、大規模モデルの全パラメータ更新ではなく、ごく一部の低ランク行列を追加・学習することで、計算コストとメモリ消費を大幅削減し、性能を維持します。\n正式名称: Low-Rank Adaptation",
       "searchQuery": "LoRA ファインチューニング PEFT"
     },
     {
@@ -94,9 +94,9 @@
     },
     {
       "id": "card_013",
-      "front": "プロンプトエンジニアリング (Prompt Engineering)",
+      "front": "プロンプトエンジニアリング",
       "back": "生成AIから望む出力を得るための指示文の工夫",
-      "story": "「プロンプトエンジニアリング」は、AIへの指示文（プロンプト）をいかに工夫して書くかという技術です。これにより、AIの潜在能力を最大限に引き出し、より精度の高い回答を得られます。",
+      "story": "「プロンプトエンジニアリング」は、AIへの指示文（プロンプト）をいかに工夫して書くかという技術です。これにより、AIの潜在能力を最大限に引き出し、より精度の高い回答を得られます。\n正式名称: Prompt Engineering",
       "searchQuery": "プロンプトエンジニアリング コツ LLM"
     },
     {
@@ -122,9 +122,9 @@
     },
     {
       "id": "card_017",
-      "front": "自己教師あり学習 (Self-supervised Learning)",
+      "front": "自己教師あり学習",
       "back": "ラベル付けされていないデータから、自分自身で教師信号を生成して学習する手法",
-      "story": "「自己教師あり学習」は、大量のラベルなしデータから、一部を隠したり加工したりして問題を生成し、それを予測することで学習を進めます。BERTの穴埋め問題などが代表例です。",
+      "story": "「自己教師あり学習」は、大量のラベルなしデータから、一部を隠したり加工したりして問題を生成し、それを予測することで学習を進めます。BERTの穴埋め問題などが代表例です。\n正式名称: Self-supervised Learning",
       "searchQuery": "自己教師あり学習 事前学習"
     },
     {
@@ -143,16 +143,16 @@
     },
     {
       "id": "card_020",
-      "front": "ゼロショット学習 (Zero-shot Learning)",
+      "front": "ゼロショット学習",
       "back": "未知のタスクやクラスに対し、一度も学習せずに推論する能力",
-      "story": "「ゼロショット学習」は、例えば「見たことのない動物」を言葉による説明だけで識別するような能力です。LLMは大量の事前学習により、この能力を持つことがあります。",
+      "story": "「ゼロショット学習」は、例えば「見たことのない動物」を言葉による説明だけで識別するような能力です。LLMは大量の事前学習により、この能力を持つことがあります。\n正式名称: Zero-shot Learning",
       "searchQuery": "ゼロショット学習 LLM"
     },
     {
       "id": "card_021",
-      "front": "フューショット学習 (Few-shot Learning)",
+      "front": "Few-shot学習",
       "back": "少数の具体例（数ショット）を与えることで、未知のタスクを解く能力",
-      "story": "「フューショット学習」は、LLMにタスクの例を数個だけ提示することで、そのタスクのルールを理解させ、新たな問題に対応させる手法です。プロンプトエンジニアリングと密接に関わります。",
+      "story": "「フューショット学習」は、LLMにタスクの例を数個だけ提示することで、そのタスクのルールを理解させ、新たな問題に対応させる手法です。プロンプトエンジニアリングと密接に関わります。\n正式名称: Few-shot Learning",
       "searchQuery": "フューショット学習 LLM プロンプト"
     },
     {
@@ -171,30 +171,30 @@
     },
     {
       "id": "card_024",
-      "front": "PEFT (Parameter-Efficient Fine-Tuning)",
+      "front": "PEFT",
       "back": "大規模モデルのファインチューニングを効率化する手法群",
-      "story": "「PEFT」は、LoRAのように、モデル全体を再学習するのではなく、ごく一部のパラメータのみを学習させることで、計算コストやメモリ消費を大幅に削減し、効率的なチューニングを可能にします。",
+      "story": "「PEFT」は、LoRAのように、モデル全体を再学習するのではなく、ごく一部のパラメータのみを学習させることで、計算コストやメモリ消費を大幅に削減し、効率的なチューニングを可能にします。\n正式名称: Parameter-Efficient Fine-Tuning",
       "searchQuery": "PEFT LoRA 効率化"
     },
     {
       "id": "card_025",
-      "front": "敵対的生成ネットワーク (GAN: Generative Adversarial Network)",
+      "front": "敵対的生成ネットワーク（GAN）",
       "back": "生成器と識別器が競い合いながら学習する生成モデル",
-      "story": "「GAN」は、偽画像を生成する「生成器」と、本物か見分ける「識別器」が競い合い学習することで、非常にリアルな画像を生成できるようになる画期的な手法です。",
+      "story": "「GAN」は、偽画像を生成する「生成器」と、本物か見分ける「識別器」が競い合い学習することで、非常にリアルな画像を生成できるようになる画期的な手法です。\n正式名称: GAN: Generative Adversarial Network",
       "searchQuery": "GAN 仕組み 生成器 識別器"
     },
     {
       "id": "card_026",
-      "front": "VQ-VAE (Vector Quantized Variational AutoEncoder)",
+      "front": "VQ-VAE",
       "back": "離散的な潜在表現を持つ変分オートエンコーダ",
-      "story": "「VQ-VAE」は、画像を圧縮して離散的なコード（デジタルな表現）に変換し、それを元に画像を再構築します。DALL-Eなどの画像生成モデルの基盤技術の一つです。",
+      "story": "「VQ-VAE」は、画像を圧縮して離散的なコード（デジタルな表現）に変換し、それを元に画像を再構築します。DALL-Eなどの画像生成モデルの基盤技術の一つです。\n正式名称: Vector Quantized Variational AutoEncoder",
       "searchQuery": "VQ-VAE DALL-E 離散"
     },
     {
       "id": "card_027",
-      "front": "CLIP (Contrastive Language-Image Pre-training)",
+      "front": "CLIP",
       "back": "画像とテキストの関連性を学習するモデル",
-      "story": "「CLIP」は、インターネット上の大量の画像とテキストのペアから学習し、画像とテキストのどちらからも同じ意味空間に埋め込むことで、両者の関連性を理解します。画像検索やゼロショット分類に活用されます。",
+      "story": "「CLIP」は、インターネット上の大量の画像とテキストのペアから学習し、画像とテキストのどちらからも同じ意味空間に埋め込むことで、両者の関連性を理解します。画像検索やゼロショット分類に活用されます。\n正式名称: Contrastive Language-Image Pre-training",
       "searchQuery": "CLIP 画像認識 テキスト"
     },
     {
@@ -241,51 +241,51 @@
     },
     {
       "id": "card_034",
-      "front": "RNN (Recurrent Neural Network)",
+      "front": "RNN",
       "back": "時系列データ処理に用いられる再帰型ニューラルネットワーク",
-      "story": "「RNN」は、過去の情報を内部状態（隠れ状態）として保持し、次の入力に利用することで、文章や音声のような時系列データを処理できます。しかし、長距離の依存関係は苦手でした。",
+      "story": "「RNN」は、過去の情報を内部状態（隠れ状態）として保持し、次の入力に利用することで、文章や音声のような時系列データを処理できます。しかし、長距離の依存関係は苦手でした。\n正式名称: Recurrent Neural Network",
       "searchQuery": "RNN 時系列 隠れ状態"
     },
     {
       "id": "card_035",
-      "front": "LSTM (Long Short-Term Memory)",
+      "front": "LSTM",
       "back": "RNNの課題を解決した長期記憶を持つニューラルネットワーク",
-      "story": "「LSTM」は、RNNの勾配消失問題を解決し、セル状態とゲート機構（入力、忘却、出力）により、より長い期間の情報を記憶・利用できるように改良されました。",
+      "story": "「LSTM」は、RNNの勾配消失問題を解決し、セル状態とゲート機構（入力、忘却、出力）により、より長い期間の情報を記憶・利用できるように改良されました。\n正式名称: Long Short-Term Memory",
       "searchQuery": "LSTM 勾配消失 長期記憶"
     },
     {
       "id": "card_036",
-      "front": "Seq2Seqモデル (Sequence to Sequence model)",
+      "front": "Seq2Seqモデル",
       "back": "ある系列データから別の系列データを生成するモデル",
-      "story": "「Seq2Seqモデル」は、翻訳のように、入力の系列（例：英語の文）から出力の系列（例：日本語の文）を生成するモデルです。エンコーダーとデコーダーで構成されます。",
+      "story": "「Seq2Seqモデル」は、翻訳のように、入力の系列（例：英語の文）から出力の系列（例：日本語の文）を生成するモデルです。エンコーダーとデコーダーで構成されます。\n正式名称: Sequence to Sequence model",
       "searchQuery": "Seq2Seq 翻訳 エンコーダー デコーダー"
     },
     {
       "id": "card_037",
-      "front": "エンコーダー・デコーダー (Encoder-Decoder)",
+      "front": "エンコーダー・デコーダー",
       "back": "Seq2Seqモデルにおける入力解釈と出力生成の役割",
-      "story": "「エンコーダー」は入力系列を固定長のベクトル（文脈ベクトル）に変換し、「デコーダー」はそのベクトルと過去の出力を基に新しい系列を生成します。Transformerもこの構造を拡張しています。",
+      "story": "「エンコーダー」は入力系列を固定長のベクトル（文脈ベクトル）に変換し、「デコーダー」はそのベクトルと過去の出力を基に新しい系列を生成します。Transformerもこの構造を拡張しています。\n正式名称: Encoder-Decoder",
       "searchQuery": "エンコーダー デコーダー Seq2Seq"
     },
     {
       "id": "card_038",
-      "front": "プロンプトチューニング (Prompt Tuning)",
+      "front": "プロンプトチューニング",
       "back": "モデルの入力に特定の「プロンプト」を追加して性能を向上させる手法",
-      "story": "「プロンプトチューニング」は、モデルの重みを変更せず、入力シーケンスの前に小さな学習可能なベクトル（ソフトプロンプト）を追加することで、特定のタスクにモデルを適応させるPEFTの一種です。",
+      "story": "「プロンプトチューニング」は、モデルの重みを変更せず、入力シーケンスの前に小さな学習可能なベクトル（ソフトプロンプト）を追加することで、特定のタスクにモデルを適応させるPEFTの一種です。\n正式名称: Prompt Tuning",
       "searchQuery": "プロンプトチューニング PEFT ソフトプロンプト"
     },
     {
       "id": "card_039",
-      "front": "RLHF (Reinforcement Learning from Human Feedback)",
+      "front": "RLHF",
       "back": "人間のフィードバックでAIモデルを改善する強化学習手法",
-      "story": "「RLHF」は、人間がAI出力の良し悪しを評価し、そのフィードバックを報酬信号としてモデルを学習させる強化学習。InstructGPTやChatGPTの性能向上に貢献しました。",
+      "story": "「RLHF」は、人間がAI出力の良し悪しを評価し、そのフィードバックを報酬信号としてモデルを学習させる強化学習。InstructGPTやChatGPTの性能向上に貢献しました。\n正式名称: Reinforcement Learning from Human Feedback",
       "searchQuery": "RLHF 強化学習 人間フィードバック"
     },
     {
       "id": "card_040",
-      "front": "創発的能力 (Emergent Abilities)",
+      "front": "創発的能力",
       "back": "大規模モデルが特定のスケールを超えた時に突如現れる能力",
-      "story": "「創発的能力」は、モデルの規模が大きくなるにつれて、それまでの小さなモデルには見られなかったような、予期せぬ新しい能力が突然現れる現象を指します。複雑な推論などがその例です。",
+      "story": "「創発的能力」は、モデルの規模が大きくなるにつれて、それまでの小さなモデルには見られなかったような、予期せぬ新しい能力が突然現れる現象を指します。複雑な推論などがその例です。\n正式名称: Emergent Abilities",
       "searchQuery": "創発的能力 LLM スケール"
     },
     {
@@ -311,9 +311,9 @@
     },
     {
       "id": "card_044",
-      "front": "音声生成 (Text-to-Speech, TTS)",
+      "front": "音声生成（TTS）",
       "back": "AIがテキストやパラメーターから自然な音声を創り出すこと",
-      "story": "「音声生成」は、テキストを人間のような自然な音声に変換する技術（TTS）や、特定の声質を模倣したり、新しいメロディを生成したりする技術を含みます。",
+      "story": "「音声生成」は、テキストを人間のような自然な音声に変換する技術（TTS）や、特定の声質を模倣したり、新しいメロディを生成したりする技術を含みます。\n正式名称: Text-to-Speech, TTS",
       "searchQuery": "音声生成 TTS AI"
     },
     {
@@ -332,9 +332,9 @@
     },
     {
       "id": "card_047",
-      "front": "モデルの透明性 (Interpretability/Explainability)",
+      "front": "モデルの透明性",
       "back": "AIモデルの意思決定プロセスを人間が理解できること",
-      "story": "「モデルの透明性」は、AIがなぜその判断を下したかを人間が理解できるかという課題。医療や金融など、高い信頼性が求められる分野で重要視されます。",
+      "story": "「モデルの透明性」は、AIがなぜその判断を下したかを人間が理解できるかという課題。医療や金融など、高い信頼性が求められる分野で重要視されます。\n正式名称: Interpretability/Explainability",
       "searchQuery": "AI 透明性 説明可能性"
     },
     {
@@ -353,9 +353,9 @@
     },
     {
       "id": "card_050",
-      "front": "学習済みモデル (Pre-trained Model)",
+      "front": "学習済みモデル",
       "back": "大規模データで事前に訓練された汎用的なAIモデル",
-      "story": "「学習済みモデル」は、インターネット上の膨大なデータで事前に学習されており、様々なタスクの基礎能力を持っています。これをファインチューニングすることで、特定のタスクに特化させることができます。",
+      "story": "「学習済みモデル」は、インターネット上の膨大なデータで事前に学習されており、様々なタスクの基礎能力を持っています。これをファインチューニングすることで、特定のタスクに特化させることができます。\n正式名称: Pre-trained Model",
       "searchQuery": "学習済みモデル 転移学習 事前学習"
     }
   ],

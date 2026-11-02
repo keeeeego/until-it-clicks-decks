@@ -1,6 +1,6 @@
 {
   "deckId": "g_kentei_50_1",
-  "version": "1.1.0",
+  "version": "1.3.0",
   "updatedAt": "2026-10-29",
   "schemaVersion": 3,
   "title": "🤖 G検定・頻出重要キーワード50",
@@ -262,9 +262,9 @@
     },
     {
       "id": "card_037",
-      "front": "Adam (Adaptive Moment Estimation)",
+      "front": "Adam",
       "back": "勾配降下法の一種で、学習率を適応的に調整する最適化アルゴリズム",
-      "story": "効率的な学習を可能にし、多くのディープラーニングモデルで標準的に使われる。賢く坂道を下る方法だね。",
+      "story": "効率的な学習を可能にし、多くのディープラーニングモデルで標準的に使われる。賢く坂道を下る方法だね。\n正式名称: Adaptive Moment Estimation",
       "searchQuery": "Adam 最適化"
     },
     {
