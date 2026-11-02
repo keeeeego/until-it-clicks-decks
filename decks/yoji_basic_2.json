@@ -1,10 +1,10 @@
 {
   "deckId": "yoji_basic_2",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "🀄 四字熟語・初級 (Vol.2) 定番故事成語50",
   "note": "定番四字熟語50選。故事成語で知識を深める。",
   "category": "語学",
-  "subCategory": "国語・四字熟語",
+  "subCategory": "日本語",
   "cards": [
     {
       "id": "card_001",
@@ -356,5 +356,12 @@
       "story": "孔子の言葉に由来し、古いものを大切にしつつ、それを現代に活かすことで新たな発見や進歩を促すという意味。歴史から学ぶことの大切さ。",
       "searchQuery": "温故知新 孔子"
     }
-  ]
+  ],
+  "schemaVersion": 3,
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "日本語",
+    "level3": "四字熟語",
+    "level4": null
+  }
 }

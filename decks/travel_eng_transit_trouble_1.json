@@ -3,7 +3,7 @@
   "ttsLang": "en-US",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🚨 旅行英語 (Vol.5) 街歩き・交通・緊急トラブル",
   "note": "タクシー・電車の乗り方、道案内、体調不良・紛失",
   "category": "語学",
@@ -185,5 +185,11 @@
       "story": "解説: 数字、場所の名前、複雑な案内を聞き取れない時、書いてもらうのが一番確実で間違いがありません。",
       "searchQuery": "海外旅行 交通 英会話"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

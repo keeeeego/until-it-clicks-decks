@@ -1,8 +1,8 @@
 {
   "deckId": "kanken_2_writing_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "💮 漢検2級 (Vol.1) 頻出・書き取り＆同音異義語50",
   "note": "漢検2級の頻出書き取り問題を厳選！",
   "category": "資格・検定",
@@ -358,5 +358,11 @@
       "story": "「恐」は恐れる、「縮」は身が縮む。相手の厚意や配慮に対し、恐れ多く、申し訳ないと感じる気持ち。まるで、身に余る光栄に、恐縮して身をすくめるような謙虚な感情です。",
       "searchQuery": "恐縮 意味"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "資格・検定",
+    "level2": "漢検",
+    "level3": null,
+    "level4": null
+  }
 }

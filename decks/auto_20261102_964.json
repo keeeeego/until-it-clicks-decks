@@ -1,9 +1,9 @@
 {
   "deckId": "auto_20261102_964",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "🧠 意思決定の罠！認知バイアス30選",
-  "category": "教養・科学",
-  "subCategory": "心理学・認知バイアス",
+  "category": "教養・サイエンス",
+  "subCategory": "心理学",
   "note": "🧠 意思決定の罠！認知バイアス30選（全30問）",
   "cards": [
     {
@@ -246,5 +246,12 @@
       "status": "new",
       "success_count": 0
     }
-  ]
+  ],
+  "schemaVersion": 3,
+  "hierarchy": {
+    "level1": "教養・サイエンス",
+    "level2": "心理学",
+    "level3": "認知バイアス",
+    "level4": null
+  }
 }

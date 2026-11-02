@@ -3,7 +3,7 @@
   "ttsLang": "ja-JP",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🇨🇳 世界史・中国史 (Vol.1) 先秦〜秦・漢50",
   "note": "文明の起源・諸子百家から秦漢帝国の成立まで必須50選",
   "category": "世界史",
@@ -360,5 +360,11 @@
       "story": "小話: これにより魏・蜀・呉が覇を競う本格的な「三国時代」へ突入。中国は長い分裂の魏晋南北朝時代へと向かいます。",
       "searchQuery": "後漢滅亡 曹丕 禅譲 三国時代"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "世界史",
+    "level2": "中国史",
+    "level3": null,
+    "level4": null
+  }
 }

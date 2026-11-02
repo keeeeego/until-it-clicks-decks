@@ -1,10 +1,10 @@
 {
   "deckId": "yoji_vol6_core50",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "📚 四字熟語 (yoji_vol6_core50)",
   "note": "四字熟語の重要50語を厳選！",
   "category": "語学",
-  "subCategory": "国語・四字熟語",
+  "subCategory": "日本語",
   "cards": [
     {
       "id": "card_001",
@@ -356,5 +356,12 @@
       "story": "平安時代に提唱された思想で、日本固有の精神や文化を大切にしつつ、中国から伝わった高度な学問や技術を学ぶべきだという考え方です。単なる模倣ではなく、日本の精神的基盤の上に外来の知識を取り入れることで、独自の文化を築こうとした精神を表します。",
       "searchQuery": "和魂漢才 意味 平安時代"
     }
-  ]
+  ],
+  "schemaVersion": 3,
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "日本語",
+    "level3": "四字熟語",
+    "level4": null
+  }
 }

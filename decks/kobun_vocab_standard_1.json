@@ -3,11 +3,11 @@
   "ttsLang": "ja-JP",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "📜 古文単語・中級 (Vol.1) 心理・描写50",
   "note": "登場人物の心情や情景描写を読み解く標準50選",
   "category": "語学",
-  "subCategory": "古文",
+  "subCategory": "日本語",
   "cardCount": 50,
   "cards": [
     {
@@ -360,5 +360,11 @@
       "story": "解説: 実際以上に物事を大げさに仕立てたり、振る舞いが仰々しいこと。",
       "searchQuery": "古文単語 大学受験 参考書"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "日本語",
+    "level3": "古文",
+    "level4": "古文基礎"
+  }
 }

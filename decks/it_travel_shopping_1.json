@@ -1,8 +1,8 @@
 {
   "deckId": "it_travel_shopping_1",
   "ttsLang": "it-IT",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🇮🇹 旅行イタリア語 (Vol.4) 買い物・市場・免税25",
   "note": "試着、サイズ確認、市場の量り売り、スーパーのルールと決済",
   "category": "語学",
@@ -183,5 +183,11 @@
       "story": "解説: 大型スーパーやデパートで支払い場所を探すときの一言。「Cassa」の看板を探しましょう。",
       "searchQuery": "イタリア語 レジ お会計"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "イタリア語",
+    "level3": "旅行イタリア語",
+    "level4": null
+  }
 }

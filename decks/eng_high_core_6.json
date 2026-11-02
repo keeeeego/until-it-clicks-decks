@@ -1,8 +1,8 @@
 {
   "deckId": "eng_high_core_6",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2024-07-30",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🏫 高校英語 (Vol.6) 重要コロケーション・前置詞連動30",
   "note": "前置詞で意味が変わる句動詞30選",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "attributeは\"ad-\"（〜へ）と\"tribuere\"（与える）が語源。「〜に与える」つまり「〜のせいにする」イメージ。toは「〜に」。まるで「功績や責任を（to）特定の人物に割り当てる」ように、ある事柄の原因や出所を「帰属させる」感覚。",
       "searchQuery": "attribute A to B 意味 語源"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

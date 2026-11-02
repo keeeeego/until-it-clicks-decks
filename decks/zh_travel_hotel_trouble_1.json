@@ -1,8 +1,8 @@
 {
   "deckId": "zh_travel_hotel_trouble_1",
   "ttsLang": "zh-CN",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🇨🇳 旅行中国語 (Vol.5) ホテル滞在＆緊急トラブル25",
   "note": "チェックイン、Wi-Fi、荷物預け、紛失・体調不良のレスキュー25選",
   "category": "語学",
@@ -208,5 +208,11 @@
       "story": "解説: 早口の中国語で話しかけられてお手上げの時の最強ワード。笑顔で「听不懂」と言えば筆談や翻訳アプリに切り替えてくれます。",
       "searchQuery": "中国語 わかりません 筆談"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "中国語",
+    "level3": "中国語キホン",
+    "level4": null
+  }
 }

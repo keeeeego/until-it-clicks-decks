@@ -145,5 +145,13 @@
       "story": "入国審査を行う係官。パスポートの確認や入国目的の質問などを通して、入国許可を判断する重要な役割を担います。",
       "searchQuery": "Immigration officer questions, how to answer immigration questions"
     }
-  ]
+  ],
+  "version": "1.1.0",
+  "schemaVersion": 3,
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

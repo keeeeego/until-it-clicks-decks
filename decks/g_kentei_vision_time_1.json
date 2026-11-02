@@ -1,12 +1,12 @@
 {
   "deckId": "g_kentei_vision_time_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "👁️ G検定 (Vol.2) CNN・画像認識＆時系列50",
   "note": "CNN、画像認識、RNN、時系列の必須用語",
-  "category": "資格・AI",
-  "subCategory": "G検定",
+  "category": "資格・検定",
+  "subCategory": "IT・テクノロジー",
   "cards": [
     {
       "id": "card_001",
@@ -358,5 +358,11 @@
       "story": "特徴量エンジニアリングは、まるで料理の腕前を上げるために、素材（データ）を切ったり、混ぜたり、味付けしたりするようなものです。モデルの性能は、どんなに優れたアルゴリズムを使っても、良い特徴量がなければ向上しません。",
       "searchQuery": "特徴量エンジニアリング 定義"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "資格・検定",
+    "level2": "IT・テクノロジー",
+    "level3": "G検定",
+    "level4": null
+  }
 }

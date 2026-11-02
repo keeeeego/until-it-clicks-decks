@@ -1,8 +1,8 @@
 {
   "deckId": "eng_advanced_core_3",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🎓 難関大英語 (Vol.3) 心理・認知・哲学30",
   "note": "心理・哲学・認知の抽象語彙で差をつける。",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "ラテン語「fallacia（欺瞞）」が語源。論理的に正しくない推論や主張。議論で使われるが、論理的欠陥を持つ。",
       "searchQuery": "logical fallacies examples"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

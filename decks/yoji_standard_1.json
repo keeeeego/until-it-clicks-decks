@@ -1,10 +1,10 @@
 {
   "deckId": "yoji_standard_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "🀄 四字熟語・中級 (Vol.1) 実用・重要表現50",
   "note": "実用的な四字熟語50選。背景知識も深掘り。",
   "category": "語学",
-  "subCategory": "国語・四字熟語",
+  "subCategory": "日本語",
   "cards": [
     {
       "id": "card_001",
@@ -356,5 +356,12 @@
       "story": "「横行」は横柄に歩き回る、「闊歩」は堂々と大股で歩く。本来は堂々とした歩き方を指しましたが、転じて、他を顧みず、傍若無人に振る舞う様子を批判的に表すようになりました。",
       "searchQuery": "横行闊歩 意味"
     }
-  ]
+  ],
+  "schemaVersion": 3,
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "日本語",
+    "level3": "四字熟語",
+    "level4": null
+  }
 }

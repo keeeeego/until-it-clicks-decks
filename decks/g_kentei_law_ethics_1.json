@@ -1,12 +1,12 @@
 {
   "deckId": "g_kentei_law_ethics_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "⚖️ G検定 (Vol.4) 強化学習・法律・倫理・社会実装40",
   "note": "G検定重要テーマを厳選！",
-  "category": "資格・AI",
-  "subCategory": "G検定",
+  "category": "資格・検定",
+  "subCategory": "IT・テクノロジー",
   "cards": [
     {
       "id": "card_001",
@@ -288,5 +288,11 @@
       "story": "AIが社会に深く浸透する中で、その「暴走」を防ぎ、倫理的・法的に正しく使われるようにするための統治の仕組みがAIガバナンスです。安全なAI社会を築くための羅針盤となります。",
       "searchQuery": "AIガバナンス 目的"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "資格・検定",
+    "level2": "IT・テクノロジー",
+    "level3": "G検定",
+    "level4": null
+  }
 }

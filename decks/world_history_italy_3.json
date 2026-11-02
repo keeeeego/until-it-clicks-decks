@@ -1,8 +1,8 @@
 {
   "deckId": "world_history_italy_3",
   "ttsLang": "ja-JP",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🏛️ 世界史・イタリア史 (Vol.3) 中世イタリアと都市国家の興亡50",
   "note": "教皇領・カノッサの屈辱からヴェネツィア・ジェノヴァ東方貿易まで50選",
   "category": "世界史",
@@ -358,5 +358,11 @@
       "story": "解説: キリスト教の来世観を鮮烈に描きつつ、生前の政敵や腐敗した教皇たちを容赦なく地獄に落として痛烈に批判しました。",
       "searchQuery": "ダンテ 神曲 あらすじ ベアトリーチェ"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "世界史",
+    "level2": "イタリア史",
+    "level3": null,
+    "level4": null
+  }
 }

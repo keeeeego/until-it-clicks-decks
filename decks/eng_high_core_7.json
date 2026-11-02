@@ -1,8 +1,8 @@
 {
   "deckId": "eng_high_core_7",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2024-07-30",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🏫 高校英語 (Vol.7) 論説文で頻出する形容詞30",
   "note": "論説文で評価・重要度を見抜くキー形容詞",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "「wide（広い）」と「spread（広がる）」の組み合わせ。地理的、あるいは社会的に「広く普及している」状態を表す。多くの場所や人々に及ぶ。",
       "searchQuery": "widespread phenomenon common"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

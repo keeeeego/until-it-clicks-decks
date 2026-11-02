@@ -3,11 +3,11 @@
   "ttsLang": "ja-JP",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "📜 古文単語・初級 (Vol.1) 超必須キホン50",
   "note": "現代語トラップ＆超頻出の最重要古語50選",
   "category": "語学",
-  "subCategory": "古文",
+  "subCategory": "日本語",
   "cardCount": 50,
   "cards": [
     {
@@ -360,5 +360,11 @@
       "story": "解説: 「見るに忍びない」という同情・哀れみの感情。そこから弱くて守ってあげたい「愛おしい」へ派生。",
       "searchQuery": "古文単語 基礎 単語帳"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "日本語",
+    "level3": "古文",
+    "level4": "古文基礎"
+  }
 }

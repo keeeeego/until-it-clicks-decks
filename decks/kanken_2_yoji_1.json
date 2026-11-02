@@ -1,8 +1,8 @@
 {
   "deckId": "kanken_2_yoji_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "💮 漢検2級 (Vol.3) 得点源にする必須四字熟語50",
   "note": "漢検2級の最重要四字熟語50選",
   "category": "資格・検定",
@@ -358,5 +358,11 @@
       "story": "「面目」は世間への体面や名誉、「躍如」は生き生きと現れる様子。世間の評価や期待通りに活躍し、その実力をはっきりと示すこと。",
       "searchQuery": "面目躍如 意味 活躍"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "資格・検定",
+    "level2": "漢検",
+    "level3": null,
+    "level4": null
+  }
 }

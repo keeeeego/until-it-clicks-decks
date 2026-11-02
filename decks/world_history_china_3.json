@@ -3,7 +3,7 @@
   "ttsLang": "ja-JP",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🇨🇳 世界史・中国史 (Vol.3) 宋・元50",
   "note": "文治政治・北方征服王朝からモンゴル大帝国まで50選",
   "category": "世界史",
@@ -360,5 +360,11 @@
       "story": "小話: 「現世の苦しみを救うため弥勒菩薩が救世主として現れる」と説き、元末の紅巾の乱や清代の白蓮教徒の乱など大反乱の母体となりました。",
       "searchQuery": "白蓮教 弥勒信仰 紅巾の乱"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "世界史",
+    "level2": "中国史",
+    "level3": null,
+    "level4": null
+  }
 }

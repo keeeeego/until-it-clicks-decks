@@ -1,8 +1,8 @@
 {
   "deckId": "zh_travel_dining_1",
   "ttsLang": "zh-CN",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🇨🇳 旅行中国語 (Vol.2) 必食グルメ・屋台・注文25",
   "note": "买单(お会計)、おすすめ、パクチー抜き、氷水など即戦力25選",
   "category": "語学",
@@ -208,5 +208,11 @@
       "story": "解説: 最も上品なトイレの呼び方。「洗手间在哪里？（お手洗いはどこですか？）」は食事中の最重要サバイバル表現。",
       "searchQuery": "中国語 トイレ 場所"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "中国語",
+    "level3": "中国語キホン",
+    "level4": null
+  }
 }

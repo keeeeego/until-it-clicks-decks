@@ -1,8 +1,8 @@
 {
   "deckId": "eng_high_core_2",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🏫 高校英語 (Vol.2) 読解コア動詞 (応用) 30",
   "note": "論説文読解に必須の動詞30選",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "ラテン語の「postulare（要求する）」が語源。まるで「これは議論の出発点として、無条件に受け入れてほしい」と、証明抜きで「基本的な真理として要求し、仮定する」イメージ。科学や数学の「公理」のような存在。",
       "searchQuery": "postulate 語源 論文"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

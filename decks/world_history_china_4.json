@@ -3,7 +3,7 @@
   "ttsLang": "ja-JP",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🇨🇳 世界史・中国史 (Vol.4) 明・清（前・中期）50",
   "note": "皇帝独裁・一条鞭法・地丁銀から康乾盛世まで50選",
   "category": "世界史",
@@ -360,5 +360,11 @@
       "story": "小話: 西洋の遠近法や明暗法と中国の伝統画法を融合。円明園の西洋楼を設計したことでも有名です。",
       "searchQuery": "カスティリオーネ 郎世寧 円明園 西洋画法"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "世界史",
+    "level2": "中国史",
+    "level3": null,
+    "level4": null
+  }
 }

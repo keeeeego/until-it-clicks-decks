@@ -1,8 +1,8 @@
 {
   "deckId": "kanken_2_reading_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "💮 漢検2級 (Vol.2) 差がつく同訓異字＆送り仮名50",
   "note": "同訓異字と送り仮名の要点50問",
   "category": "資格・検定",
@@ -358,5 +358,11 @@
       "story": "「堅」は「堅実」の「堅」。精神的に「しっかりしている」、確実で「信用できる」。「口が堅い」「堅い守り」など、抽象的な意味で使う。",
       "searchQuery": "固い 硬い 堅い 違い"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "資格・検定",
+    "level2": "漢検",
+    "level3": null,
+    "level4": null
+  }
 }

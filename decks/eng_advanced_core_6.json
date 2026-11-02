@@ -1,8 +1,8 @@
 {
   "deckId": "eng_advanced_core_6",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🎓 難関大英語 (Vol.6) 難関大・差がつく最難関ラスト30",
   "note": "最難関大で差がつくハイレベル語彙30選",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "ラテン語「sagax（賢い）」が語源。まるで老賢者のように、経験と知識に基づき、物事の本質を見抜き「賢明な」判断を下せる洞察力を指します。",
       "searchQuery": "sagacious 語源 例文"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

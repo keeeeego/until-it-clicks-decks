@@ -1,8 +1,8 @@
 {
   "deckId": "eng_junior_core_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🏫 中学英語 (Vol.1) 超必須・日常基本動詞30",
   "note": "中学英語の基本動詞30選を語源と感覚でマスター！",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "「start」は「何かを『開始する』、または『動き出す』」感覚。古英語「styrtan（跳ねる）」が語源。まるでバネが「跳ねる」ように、勢いよく始まるイメージ。",
       "searchQuery": "start 語源 意味 コア"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

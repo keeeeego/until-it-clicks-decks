@@ -1,8 +1,8 @@
 {
   "deckId": "it_vocab_core_1",
   "ttsLang": "it-IT",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🇮🇹 イタリア語キホン単語 (Vol.6) 最重要・基礎動詞＆形容詞50",
   "note": "andare, fare, essere, avere など最重要動詞と基本形容詞50選",
   "category": "語学",
@@ -358,5 +358,11 @@
       "story": "解説: カクテルの「ネグローニ・スバリアート（間違えてスパークリングを入れちゃったネグローニ）」でおなじみ。",
       "searchQuery": "イタリア カクテル ネグローニ スバリアート"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "イタリア語",
+    "level3": "イタリア語キホン",
+    "level4": null
+  }
 }

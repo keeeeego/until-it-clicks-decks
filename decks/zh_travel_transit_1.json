@@ -1,8 +1,8 @@
 {
   "deckId": "zh_travel_transit_1",
   "ttsLang": "zh-CN",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🇨🇳 旅行中国語 (Vol.4) 街歩き・地下鉄・タクシー25",
   "note": "ここへ行って、トイレはどこ？、切符購入と移動の決定版",
   "category": "語学",
@@ -208,5 +208,11 @@
       "story": "解説: 商業施設や駅の出口表示。駅にはA出口、B出口などアルファベットが振られています。",
       "searchQuery": "中国語 駅 出口 案内"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "中国語",
+    "level3": "中国語キホン",
+    "level4": null
+  }
 }

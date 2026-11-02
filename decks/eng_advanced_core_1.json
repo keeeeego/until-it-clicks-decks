@@ -1,8 +1,8 @@
 {
   "deckId": "eng_advanced_core_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🎓 難関大英語 (Vol.1) 学術・論説・アカデミック30",
   "note": "難関大の学術論説文を読み解く重要英単語30選。",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "ラテン語「arbiter（仲裁人）」が語源。明確な理由や論理がなく、「個人の気分や独断で勝手に決められる」こと。",
       "searchQuery": "arbitrary decision subjective"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

@@ -1,10 +1,10 @@
 {
   "deckId": "yoji_vol5_core50",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "📚 四字熟語 (yoji_vol5_core50)",
   "note": "厳選四字熟語50選。教養を深めよう！",
   "category": "語学",
-  "subCategory": "国語・四字熟語",
+  "subCategory": "日本語",
   "cards": [
     {
       "id": "card_001",
@@ -356,5 +356,12 @@
       "story": "「二束」はわらを二束、「三文」はわずかな金銭。束ねた品物が二束分あっても、たった三文にしかならないほど安い、という意味から来ています。安価で無価値なものを指します。",
       "searchQuery": "二束三文 語源 価値"
     }
-  ]
+  ],
+  "schemaVersion": 3,
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "日本語",
+    "level3": "四字熟語",
+    "level4": null
+  }
 }

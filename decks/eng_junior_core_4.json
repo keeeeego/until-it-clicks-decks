@@ -1,8 +1,8 @@
 {
   "deckId": "eng_junior_core_4",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🏫 中学英語 (Vol.4) 高校入試・差がつく頻出派生語30",
   "note": "高校入試頻出の重要派生語30選！",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "「真実の」trueから「真実」のtruth。-thは質や状態を表す名詞を作る接尾辞で、warmth（暖かさ）なども同じパターン。",
       "searchQuery": "true truth 語源"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

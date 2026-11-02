@@ -3,7 +3,7 @@
   "ttsLang": "ja-JP",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🤖 G検定・頻出重要キーワード50",
   "note": "AIの歴史・機械学習・法律倫理の最重要50選",
   "cardCount": 50,
@@ -358,5 +358,13 @@
       "story": "解説: 歩行者を助けるためにハンドルを切って搭乗者を危険に晒すかなど、アルゴリズムに人間の生死判断をどう組み込むべきかの哲学的議論。",
       "searchQuery": "G検定 公式テキスト AI"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "資格・検定",
+    "level2": "IT・テクノロジー",
+    "level3": "G検定",
+    "level4": null
+  },
+  "category": "資格・検定",
+  "subCategory": "IT・テクノロジー"
 }

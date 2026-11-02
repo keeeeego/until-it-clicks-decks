@@ -1,8 +1,8 @@
 {
   "deckId": "it_travel_dining_1",
   "ttsLang": "it-IT",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🇮🇹 旅行イタリア語 (Vol.2) バール＆トラットリア・注文・グルメ25",
   "note": "カウンター注文、ガス入り/なし水、エスプレッソ文化、お会計",
   "category": "語学",
@@ -183,5 +183,11 @@
       "story": "解説: 食事前・退店前の必須サバイバルフレーズ。レストラン奥にあるトイレを借りてから出発するのが旅の鉄則。",
       "searchQuery": "イタリア トイレ 場所 レストラン"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "イタリア語",
+    "level3": "旅行イタリア語",
+    "level4": null
+  }
 }

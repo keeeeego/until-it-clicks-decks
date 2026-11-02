@@ -1,8 +1,8 @@
 {
   "deckId": "world_history_italy_1",
   "ttsLang": "ja-JP",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🏛️ 世界史・イタリア史 (Vol.1) 古代ローマの成立と共和政50",
   "note": "建国神話・身分闘争・ポエニ戦争からカエサルと内乱の1世紀まで50選",
   "category": "世界史",
@@ -358,5 +358,11 @@
       "story": "解説: 前30年にエジプトを属州化。前27年にオクタウィアヌスが元老院から「アウグストゥス」の尊称を受け、古代ローマ帝国が始動します。",
       "searchQuery": "ローマ帝国 成立 元首政 始まり"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "世界史",
+    "level2": "イタリア史",
+    "level3": null,
+    "level4": null
+  }
 }

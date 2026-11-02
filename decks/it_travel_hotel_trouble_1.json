@@ -1,8 +1,8 @@
 {
   "deckId": "it_travel_hotel_trouble_1",
   "ttsLang": "it-IT",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🇮🇹 旅行イタリア語 (Vol.5) ホテル滞在・美術館予約・緊急トラブル25",
   "note": "チェックイン、美術館予約、スリ・荷物紛失・体調不良のSOS",
   "category": "語学",
@@ -183,5 +183,11 @@
       "story": "解説: 通行人や店員に困りごとを助けてほしい時の丁寧なアプローチ表現。",
       "searchQuery": "イタリア語 お願い 助け"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "イタリア語",
+    "level3": "旅行イタリア語",
+    "level4": null
+  }
 }

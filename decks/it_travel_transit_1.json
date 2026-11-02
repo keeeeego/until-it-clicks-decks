@@ -1,8 +1,8 @@
 {
   "deckId": "it_travel_transit_1",
   "ttsLang": "it-IT",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🇮🇹 旅行イタリア語 (Vol.3) 街歩き・鉄道（トレニタリア）・移動25",
   "note": "打刻機の罠、道案内、駅・切符購入、トイレの場所とサバイバル",
   "category": "語学",
@@ -183,5 +183,11 @@
       "story": "解説: 駅や地下鉄、観光地で流れる注意アナウンス。borseggiatore は「スリ」。バッグは必ず体の前で抱えましょう。",
       "searchQuery": "イタリア 旅行 スリ 対策 治安"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "イタリア語",
+    "level3": "旅行イタリア語",
+    "level4": null
+  }
 }

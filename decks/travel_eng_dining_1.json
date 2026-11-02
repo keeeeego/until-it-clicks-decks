@@ -3,7 +3,7 @@
   "ttsLang": "en-US",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🍽️ 旅行英語 (Vol.3) レストラン・カフェ・食事",
   "note": "入店から注文、カスタムオーダー、お会計まで",
   "category": "語学",
@@ -185,5 +185,11 @@
       "story": "解説: 欧米のレストランは量が多いのが当たり前なので、持ち帰り（To-go）を頼むのは普通のことです。",
       "searchQuery": "レストラン 注文 英会話"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

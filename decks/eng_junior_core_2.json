@@ -1,8 +1,8 @@
 {
   "deckId": "eng_junior_core_2",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2024-07-20",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🏫 中学英語 (Vol.2) 感情・様子を表す形容詞＆副詞30",
   "note": "気持ちや様子を表す描写語彙。",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "suddenは「突然の」ですが、suddenlyは「突然に」という動作の様子。まるで雷が落ちるように、何の予告もなく急に起こる出来事を表します。Suddenly, it started to rain. (突然、雨が降り始めた。)",
       "searchQuery": "suddenly 語源 英語"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

@@ -1,10 +1,10 @@
 {
   "deckId": "fr_basic_vocab_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "🇫🇷 フランス語 (入門 Vol.1) 小学校レベルの超キホン生活単語50",
   "note": "フランス語の超基礎単語50選。",
   "category": "語学",
-  "subCategory": "フランス語・超基本単語",
+  "subCategory": "フランス語",
   "cards": [
     {
       "id": "card_001",
@@ -356,5 +356,12 @@
       "story": "動詞の原形です。「眠ること」という意味もあります。十分な睡眠は、健康的な生活に不可欠ですね。",
       "searchQuery": "dormir フランス語 動詞"
     }
-  ]
+  ],
+  "schemaVersion": 3,
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "フランス語",
+    "level3": "超基本単語",
+    "level4": null
+  }
 }

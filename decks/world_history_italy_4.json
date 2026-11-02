@@ -1,8 +1,8 @@
 {
   "deckId": "world_history_italy_4",
   "ttsLang": "ja-JP",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🏛️ 世界史・イタリア史 (Vol.4) ルネサンスの開花とイタリア戦争50",
   "note": "フィレンツェ・メディチ家、三大巨匠からマキァヴェリ、主権国家への激動50選",
   "category": "世界史",
@@ -358,5 +358,11 @@
       "story": "解説: 『聖マタイの召命』など。聖人を市井の汚れた服の労働者として描き論争に。殺人を犯して逃亡生活を送るなど波乱万丈の生涯。",
       "searchQuery": "カラヴァッジョ 明暗対比 聖マタイの召命"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "世界史",
+    "level2": "イタリア史",
+    "level3": null,
+    "level4": null
+  }
 }

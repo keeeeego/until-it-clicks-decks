@@ -1,10 +1,10 @@
 {
   "deckId": "yoji_vol2_advance50",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "📚 四字熟語 (Vol.2) 応用・重要50",
   "note": "応用・重要度が高い四字熟語50選",
   "category": "語学",
-  "subCategory": "国語・四字熟語",
+  "subCategory": "日本語",
   "cards": [
     {
       "id": "card_001",
@@ -356,5 +356,12 @@
       "story": "「優柔」は決断をためらうこと、「不断」は決断できないことを意味します。中国の古典『韓非子』に「優柔」という言葉が見られ、決断が遅く、なかなか物事を決められない人の性格や態度を表すのに使われます。",
       "searchQuery": "優柔不断 意味、優柔不断 語源"
     }
-  ]
+  ],
+  "schemaVersion": 3,
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "日本語",
+    "level3": "四字熟語",
+    "level4": null
+  }
 }

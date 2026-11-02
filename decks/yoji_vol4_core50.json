@@ -1,10 +1,10 @@
 {
   "deckId": "yoji_vol4_core50",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "📚 四字熟語 (yoji_vol4_core50)",
   "note": "厳選四字熟語50選で語彙力アップ！",
   "category": "語学",
-  "subCategory": "国語・四字熟語",
+  "subCategory": "日本語",
   "cards": [
     {
       "id": "card_001",
@@ -356,5 +356,12 @@
       "story": "小さな違いや対立を超え、共通の大きな目的のために、多くの人々が力を合わせることを指します。政治や社会運動などで、多様な勢力が一致協力する際に使われる言葉です。個々の利害を超えた、より高次の目標達成を目指す精神を表します。",
       "searchQuery": "大同団結 意味 協力"
     }
-  ]
+  ],
+  "schemaVersion": 3,
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "日本語",
+    "level3": "四字熟語",
+    "level4": null
+  }
 }

@@ -3,7 +3,7 @@
   "ttsLang": "en-US",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🏨 旅行英語 (Vol.2) ホテル・滞在チェックイン",
   "note": "チェックイン/アウト、備品リクエスト、荷物預け",
   "category": "語学",
@@ -185,5 +185,11 @@
       "story": "解説: チェックアウトの去り際に伝える最高の感謝フレーズ。チップを渡す際にも使えます。",
       "searchQuery": "ホテル 旅行英会話 教材"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

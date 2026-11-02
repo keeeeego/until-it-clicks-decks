@@ -1,8 +1,8 @@
 {
   "deckId": "eng_high_core_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🏫 高校英語 (Vol.1) 読解コア動詞 (基礎) 30",
   "note": "共通テスト読解コア動詞30選",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "ラテン語「tendere (伸ばす)」が語源。ある方向へ「伸びていく」ことから「〜する傾向がある」。また、注意を「向ける」から、子供や植物を「世話をする」という意味にも派生。",
       "searchQuery": "tend 語源 傾向"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

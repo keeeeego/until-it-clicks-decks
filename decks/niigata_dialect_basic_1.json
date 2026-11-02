@@ -3,11 +3,11 @@
   "ttsLang": "ja-JP",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🌾 新潟弁・日常キホン会話（初級 Vol.1）",
   "note": "日常でそのまま使える定番の一言・短文フレーズ20選",
-  "category": "教養・カルチャー",
-  "subCategory": "方言",
+  "category": "教養・サイエンス",
+  "subCategory": "日本語",
   "cardCount": 20,
   "cards": [
     {
@@ -150,5 +150,11 @@
       "story": "解説: 「〜いきなせ＝〜していきなさい・どうぞ」。相手をもてなすときに使う温かい語尾表現です。",
       "searchQuery": "新潟弁 方言 辞典"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "教養・サイエンス",
+    "level2": "日本語",
+    "level3": "方言",
+    "level4": "新潟弁日常会話"
+  }
 }

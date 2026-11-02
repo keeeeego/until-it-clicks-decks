@@ -1,8 +1,8 @@
 {
   "deckId": "zh_travel_shopping_1",
   "ttsLang": "zh-CN",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🇨🇳 旅行中国語 (Vol.3) 買い物・値引き・スマホ決済25",
   "note": "いくら？、安くして、アリペイ・WeChat Payの必須フレーズ",
   "category": "語学",
@@ -208,5 +208,11 @@
       "story": "解説: 「要（欲しい・決めた）」。購入の意思を店員にはっきり伝える決定打フレーズ。",
       "searchQuery": "中国語 購入 決定"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "中国語",
+    "level3": "中国語キホン",
+    "level4": null
+  }
 }

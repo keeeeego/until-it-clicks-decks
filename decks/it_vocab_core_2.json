@@ -1,8 +1,8 @@
 {
   "deckId": "it_vocab_core_2",
   "ttsLang": "it-IT",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🇮🇹 イタリア語キホン単語 (Vol.7) 生活名詞＆日常表現50",
   "note": "街・時間・家族・食べ物など日常会話の基盤となる名詞50選",
   "category": "語学",
@@ -358,5 +358,11 @@
       "story": "解説: 映画『La vita è bella（ライフ・イズ・ビューティフル）』や『La dolce vita（甘い生活）』でおなじみの言葉。",
       "searchQuery": "イタリア 映画 ライフイズビューティフル 意味"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "イタリア語",
+    "level3": "イタリア語キホン",
+    "level4": null
+  }
 }

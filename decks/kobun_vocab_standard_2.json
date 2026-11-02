@@ -3,11 +3,11 @@
   "ttsLang": "ja-JP",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "📜 古文単語・中級 (Vol.2) 重要動作・日常50",
   "note": "ストーリー展開を握る重要動詞と生活習慣50選",
   "category": "語学",
-  "subCategory": "古文",
+  "subCategory": "日本語",
   "cardCount": 50,
   "cards": [
     {
@@ -360,5 +360,11 @@
       "story": "解説: 「余儀（他の方法・手段）」が無いこと。ほかに選択肢がなくそうするしかない状況。",
       "searchQuery": "古文単語 大学受験 参考書"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "日本語",
+    "level3": "古文",
+    "level4": "古文基礎"
+  }
 }

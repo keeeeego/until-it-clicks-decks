@@ -1,8 +1,8 @@
 {
   "deckId": "kanken_2_antonym_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2024-07-20",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "💮 漢検2級 (Vol.4) 瞬発力・対義語＆類義語50",
   "note": "漢検2級対義語・類義語を瞬発力UP！",
   "category": "資格・検定",
@@ -358,5 +358,11 @@
       "story": "「利点」は、物事の良い面や、有利な点。「欠点」は、足りない面や、改善すべき点。製品を選ぶ際も、両方を比較検討する。",
       "searchQuery": "利点 欠点 対義語 漢検2級"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "資格・検定",
+    "level2": "漢検",
+    "level3": null,
+    "level4": null
+  }
 }

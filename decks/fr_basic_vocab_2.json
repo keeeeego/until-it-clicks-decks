@@ -1,10 +1,10 @@
 {
   "deckId": "fr_basic_vocab_2",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "🇫🇷 フランス語 (入門 Vol.2) 小学校レベルの超キホン生活単語50",
   "note": "仏語入門。小学校レベルの基本語彙50選。",
   "category": "語学",
-  "subCategory": "フランス語・超基本単語",
+  "subCategory": "フランス語",
   "cards": [
     {
       "id": "card_001",
@@ -356,5 +356,12 @@
       "story": "「走る」を意味する動詞です。ラテン語の\"currere\"が語源で、英語の\"current\"（流れ）や\"courier\"（急使）と関連。発音は「クーリール」と「ou」は「ウ」の音です。",
       "searchQuery": "courir フランス語 活用"
     }
-  ]
+  ],
+  "schemaVersion": 3,
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "フランス語",
+    "level3": "超基本単語",
+    "level4": null
+  }
 }

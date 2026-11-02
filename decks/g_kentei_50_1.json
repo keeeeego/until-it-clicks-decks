@@ -2,11 +2,11 @@
   "deckId": "g_kentei_50_1",
   "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🤖 G検定・頻出重要キーワード50",
   "note": "G検定対策！AIの歴史・技術・倫理を網羅。",
-  "category": "資格・AI",
-  "subCategory": "一般",
+  "category": "資格・検定",
+  "subCategory": "IT・テクノロジー",
   "cards": [
     {
       "id": "card_001",
@@ -358,5 +358,11 @@
       "story": "訓練データに含まれる偏りや、アルゴリズム設計の不備によって生じる。差別の温床となる可能性があり、対策が急務だよ。",
       "searchQuery": "アルゴリズムバイアス 原因"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "資格・検定",
+    "level2": "IT・テクノロジー",
+    "level3": "G検定",
+    "level4": null
+  }
 }

@@ -3,7 +3,7 @@
   "ttsLang": "en-US",
   "version": "1.1.0",
   "updatedAt": "2026-10-26",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🛫 旅行英語 (Vol.1) 空港・機内・入国審査",
   "note": "出国から入国審査、機内・乗継ぎの必須フレーズ",
   "category": "語学",
@@ -185,5 +185,11 @@
       "story": "解説: 空港のインフォメーションカウンターで確認する表現。最も安い方法なら「cheapest way」に変えられます。",
       "searchQuery": "空港 旅行英会話 教材"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

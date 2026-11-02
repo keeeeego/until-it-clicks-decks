@@ -1,8 +1,8 @@
 {
   "deckId": "kanken_2_correction_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2024-07-30",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "💮 漢検2級 (Vol.5) 誤字訂正＆熟語の構成50",
   "note": "漢検2級の誤字訂正と熟語の構成を、思考コスト最小で攻略！",
   "category": "資格・検定",
@@ -358,5 +358,11 @@
       "story": "「急」が「増」を修飾し、「急に増える」という意味になる。日本語の「急に増える」と同じ構造で、前の漢字が後ろの漢字の様子を詳しく説明する。まるで「急」が「増」にスピード感を与えているようだ。",
       "searchQuery": "漢検2級 熟語の構成 急増"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "資格・検定",
+    "level2": "漢検",
+    "level3": null,
+    "level4": null
+  }
 }

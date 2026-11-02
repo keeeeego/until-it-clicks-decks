@@ -1,8 +1,8 @@
 {
   "deckId": "zh_vocab_core_1",
   "ttsLang": "zh-CN",
-  "version": "1.0.0",
-  "schemaVersion": 2,
+  "version": "1.1.0",
+  "schemaVersion": 3,
   "title": "🇨🇳 中国語キホン単語 (Vol.6) 最重要・基礎動詞＆形容詞50",
   "note": "行く・見る・食べる・大きい・忙しいなどHSK1〜2級レベルの基礎50選",
   "category": "語学",
@@ -408,5 +408,11 @@
       "story": "解説: 事実や答えが合っていること。「你说得对（あなたの言う通りだ）」。",
       "searchQuery": "中国語 正しい 合っている"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "中国語",
+    "level3": "中国語キホン",
+    "level4": null
+  }
 }

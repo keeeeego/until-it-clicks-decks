@@ -1,12 +1,12 @@
 {
   "deckId": "g_kentei_nlp_genai_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "💬 G検定 (Vol.3) 自然言語処理・Transformer・生成AI 50",
   "note": "G検定向け自然言語処理・生成AI用語集",
-  "category": "資格・AI",
-  "subCategory": "G検定",
+  "category": "資格・検定",
+  "subCategory": "IT・テクノロジー",
   "cards": [
     {
       "id": "card_001",
@@ -358,5 +358,11 @@
       "story": "「学習済みモデル」は、インターネット上の膨大なデータで事前に学習されており、様々なタスクの基礎能力を持っています。これをファインチューニングすることで、特定のタスクに特化させることができます。",
       "searchQuery": "学習済みモデル 転移学習 事前学習"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "資格・検定",
+    "level2": "IT・テクノロジー",
+    "level3": "G検定",
+    "level4": null
+  }
 }

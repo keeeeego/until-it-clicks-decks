@@ -1,8 +1,8 @@
 {
   "deckId": "eng_high_core_5",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🏫 高校英語 (Vol.5) 多義語・文脈判断キラー30",
   "note": "多義語で差をつける最重要30語",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "名詞の「問題」とは別の動詞。元は「外へ出る、流れ出る」という意味。新聞や雑誌が「発行される」ように、何かを公式に「世に出す」イメージ。問題（issue）も、心の中から「湧き出てくる」ものですね。",
       "searchQuery": "issue 動詞 発行"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }

@@ -1,8 +1,8 @@
 {
   "deckId": "eng_high_core_4",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updatedAt": "2026-10-29",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "🏫 高校英語 (Vol.4) 重要抽象名詞 (社会・科学) 30",
   "note": "科学・社会テーマの頻出抽象名詞30選。",
   "category": "語学",
@@ -218,5 +218,11 @@
       "story": "ラテン語で「回転する、元に戻る」が語源。地球が自転するように「一気に大きく回転し、元の状態とは全く異なる新しい体制や状況に根本から変わる」こと。急激で劇的な変化を指す。",
       "searchQuery": "revolution history social change"
     }
-  ]
+  ],
+  "hierarchy": {
+    "level1": "語学",
+    "level2": "英語",
+    "level3": null,
+    "level4": null
+  }
 }
