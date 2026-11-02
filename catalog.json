@@ -1262,5 +1262,21 @@
     "note": "日常生活やビジネスにおける意思決定に影響を与える、代表的な認知バイアスを30問選出してください。表面はバイアスの名称と簡単なキーワード（例: 「アンカリング効果」→「最初に提示された情報に引きずられる」）を提示し、学習者がその概念を想起できるようにします。裏面Storyでは、各バイアスがどのような心理メカニズムで生じるのか、具体的な事例を交えて分かりやすく解説してください。また、そのバイアスが私たちの意思決定や行動にどう影響し、どのように意識することでより良い判断を下せるかについても簡潔に触れてください。確証バイアス、サンクコスト効果、アンカリング効果、ハロー効果、フレーミング効果、ダニング＝クルーガー効果、バンドワゴン効果、現状維持バイアス、自己奉仕バイアスなどを中心に選定してください。",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/auto_20261102_964.json"
+  },
+  {
+    "id": "auto_20261102_874",
+    "version": "1.1.0",
+    "updatedAt": "2026-11-02",
+    "schemaVersion": 3,
+    "hierarchy": {
+      "level1": "語学",
+      "level2": "英語",
+      "level3": "語源・語彙",
+      "level4": null
+    },
+    "title": "🧐 英語の語源 (Vol.1) 意外なルーツに納得！30選",
+    "note": "語源から英語の単語を深く理解。",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/auto_20261102_874.json"
   }
 ]
