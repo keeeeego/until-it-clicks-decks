@@ -1278,5 +1278,21 @@
     "note": "語源から英語の単語を深く理解。",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/auto_20261102_874.json"
+  },
+  {
+    "id": "auto_20261103_512",
+    "version": "1.1.0",
+    "updatedAt": "2026-11-03",
+    "schemaVersion": 3,
+    "hierarchy": {
+      "level1": "教養・サイエンス",
+      "level2": "サイエンス",
+      "level3": "宇宙科学",
+      "level4": "天体・現象"
+    },
+    "title": "🌌 宇宙の不思議 (Vol.1) 天体と現象30選",
+    "note": "宇宙の基本を学ぶ30の天体と現象",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/auto_20261103_512.json"
   }
 ]
