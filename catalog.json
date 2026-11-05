@@ -1374,5 +1374,21 @@
     "note": "日常に潜む無意識の行動原理30選",
     "cardCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/trivia_20261105_710.json"
+  },
+  {
+    "id": "automotive_sw_terms_1",
+    "version": "1.3.0",
+    "updatedAt": "2026-11-05",
+    "schemaVersion": 3,
+    "hierarchy": {
+      "level1": "資格・検定",
+      "level2": "IT・テクノロジー",
+      "level3": "車載ソフトウェア",
+      "level4": null
+    },
+    "title": "🚗 車載ソフトウェア (Vol.1) 構造・開発必須用語30",
+    "note": "車載ソフトウェア開発の必須用語30選。構造・開発の基礎を網羅。",
+    "cardCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/automotive_sw_terms_1.json"
   }
 ]
