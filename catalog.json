@@ -1407,5 +1407,22 @@
     "version": "1.3.0",
     "updatedAt": "2026-11-05",
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/auto_20261105_491.json"
+  },
+  {
+    "id": "greek_alphabet_complete_1",
+    "title": "🇬🇷 ギリシャ語 (完全版) アルファベット全24文字と重要記号35",
+    "note": "🇬🇷 ギリシャ語 (完全版) アルファベット全24文字と重要記号35（全35問）",
+    "category": "語学",
+    "subCategory": "ギリシャ語",
+    "hierarchy": {
+      "level1": "語学",
+      "level2": "ギリシャ語",
+      "level3": "アルファベット",
+      "level4": "なし"
+    },
+    "cardCount": 35,
+    "version": "1.0.0",
+    "updatedAt": "2026-11-09",
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/greek_alphabet_complete_1.json"
   }
 ]
