@@ -1424,5 +1424,22 @@
     "version": "1.0.0",
     "updatedAt": "2026-11-09",
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/greek_alphabet_complete_1.json"
+  },
+  {
+    "id": "bonji_complete_siddham_1",
+    "title": "🪷 梵字・悉曇 (完全版) 五十音のルーツ50字と守護仏種子25",
+    "note": "🪷 梵字・悉曇 (完全版) 五十音のルーツ50字と守護仏種子25（全75問）",
+    "category": "語学",
+    "subCategory": "サンスクリット・梵字",
+    "hierarchy": {
+      "level1": "語学",
+      "level2": "サンスクリット・梵字",
+      "level3": "五十音と種子",
+      "level4": "なし"
+    },
+    "cardCount": 75,
+    "version": "1.0.0",
+    "updatedAt": "2026-11-09",
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/bonji_complete_siddham_1.json"
   }
 ]
