@@ -1585,5 +1585,23 @@
     "version": "1.3.0",
     "updatedAt": "2026-11-13",
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/auto_20261113_122.json"
+  },
+  {
+    "id": "auto_20261113_674",
+    "ttsLang": "ja-JP",
+    "title": "💡知的好奇心くすぐる！言葉の語源探訪30選",
+    "note": "💡知的好奇心くすぐる！言葉の語源探訪30選（全30問）",
+    "category": "カルチャー",
+    "subCategory": "雑学・教養",
+    "hierarchy": {
+      "level1": "カルチャー",
+      "level2": "雑学・教養",
+      "level3": "一般",
+      "level4": null
+    },
+    "cardCount": 30,
+    "version": "1.3.0",
+    "updatedAt": "2026-11-13",
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/auto_20261113_674.json"
   }
 ]
