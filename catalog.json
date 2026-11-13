@@ -1621,5 +1621,23 @@
     "version": "1.3.0",
     "updatedAt": "2026-11-14",
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/auto_20261114_400.json"
+  },
+  {
+    "id": "auto_20261114_354",
+    "ttsLang": "ja-JP",
+    "title": "世界の食文化🌍意外なルーツを探る！",
+    "note": "世界の食文化🌍意外なルーツを探る！（全30問）",
+    "category": "カルチャー",
+    "subCategory": "雑学・教養",
+    "hierarchy": {
+      "level1": "カルチャー",
+      "level2": "雑学・教養",
+      "level3": "一般",
+      "level4": null
+    },
+    "cardCount": 30,
+    "version": "1.3.0",
+    "updatedAt": "2026-11-14",
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/auto_20261114_354.json"
   }
 ]
