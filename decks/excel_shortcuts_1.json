@@ -1,0 +1,286 @@
+{
+  "deckId": "excel_shortcuts_1",
+  "version": "1.3.0",
+  "schemaVersion": 3,
+  "ttsLang": "ja-JP",
+  "title": "📊 Excel爆速ショートカット厳選30",
+  "hierarchy": {
+    "level1": "テクノロジー",
+    "level2": "IT・ビジネス",
+    "level3": "Excel",
+    "level4": "ショートカット"
+  },
+  "note": "📊 Excel爆速ショートカット厳選30（全30問）",
+  "cards": [
+    {
+      "id": "excel_shortcuts_1_001",
+      "front": "セルの表示形式や罫線を設定",
+      "back": "Ctrl+1",
+      "story": "「1」は「一番重要な設定」と覚えると良いでしょう。数値、日付、通貨、罫線、塗りつぶしなど、セルの見た目と振る舞いを細かく調整する際に必須のショートカットです。マウス操作よりも格段に速く設定画面を開けます。",
+      "searchQuery": "Ctrl+1 セルの書式設定",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_002",
+      "front": "アクティブセルの内容を編集",
+      "back": "F2",
+      "story": "F2は「ファンクションキーの2番目」で、文字通り「編集」を意味します。セルをダブルクリックする代わりにキーボードで素早く編集モードに入れるため、データ入力や数式修正の効率が劇的に向上します。",
+      "searchQuery": "F2 編集",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_003",
+      "front": "直前の操作を繰り返す",
+      "back": "F4",
+      "story": "F4は「Repeat」のRと形が似ているからと覚える人もいます。セルの色付け、行の挿入、書式設定など、同じ操作を複数回行う場合に絶大な効果を発揮し、作業時間を大幅に短縮できます。",
+      "searchQuery": "F4 直前操作の繰り返し",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_004",
+      "front": "数式内の参照形式を切り替える",
+      "back": "F4",
+      "story": "数式入力中にF4キーを押すたびに、相対参照、複合参照（行固定、列固定）、絶対参照が順番に切り替わります。ドル記号($)を手入力する手間が省け、数式作成の正確性と速度が向上します。",
+      "searchQuery": "F4 絶対参照切替",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_005",
+      "front": "セル内で文章を改行する",
+      "back": "Alt+Enter",
+      "story": "通常のEnterキーは次のセルに移動しますが、Altキーと組み合わせることでセル内でテキストを複数行に分割できます。長い文章や箇条書きを一つのセルにきれいに収めたいときに非常に便利です。",
+      "searchQuery": "Alt+Enter セル内改行",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_006",
+      "front": "現在の日付をセルに入力する",
+      "back": "Ctrl+;",
+      "story": "セミコロン(;)の形がカレンダーのアイコンに似ているからと覚える人もいます。タイムスタンプや日報作成時に手入力する手間を省き、入力ミスも防げるため、非常に実用的なショートカットです。",
+      "searchQuery": "Ctrl+; 今日の日付",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_007",
+      "front": "現在の時刻をセルに入力する",
+      "back": "Ctrl+:",
+      "story": "コロン(:)は時刻表示によく使われる記号なので、覚えやすいでしょう。日付と同様、タイムスタンプや作業ログの記録に役立ち、正確な時刻を瞬時に入力できます。",
+      "searchQuery": "Ctrl+: 現在時刻",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_008",
+      "front": "アクティブセルの内容を下方向にコピー",
+      "back": "Ctrl+D",
+      "story": "「Down」のDと覚えれば簡単です。選択範囲の上端にあるセル内容や数式を、選択範囲全体の下方向のセルに一括でコピーできます。大量のデータ入力や数式適用時に大活躍します。",
+      "searchQuery": "Ctrl+D 下コピー",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_009",
+      "front": "アクティブセルの内容を右方向にコピー",
+      "back": "Ctrl+R",
+      "story": "「Right」のRと覚えれば簡単です。選択範囲の左端にあるセル内容や数式を、選択範囲全体を右方向のセルに一括でコピーできます。Ctrl+Dと合わせて使うことで、入力効率が飛躍的に向上します。",
+      "searchQuery": "Ctrl+R 右コピー",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_010",
+      "front": "貼り付けオプションを選択してペースト",
+      "back": "Ctrl+Alt+V",
+      "story": "通常の貼り付け(Ctrl+V)では書式も一緒にコピーされますが、このショートカットを使えば「値のみ」「書式のみ」「数式のみ」など、必要な要素だけを選んで貼り付けられます。複数要素を組み合わせたVは「選択肢」を意味すると覚えましょう。",
+      "searchQuery": "Ctrl+Alt+V 形式を選択して貼り付け",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_011",
+      "front": "データ入力済みの領域の端へ移動",
+      "back": "Ctrl+矢印",
+      "story": "大量のデータの中から特定の場所へ瞬時に移動したいときに便利です。矢印キー単独だと1セルずつですが、Ctrlキーと組み合わせることで、データが途切れるまで一気にジャンプできます。",
+      "searchQuery": "Ctrl+矢印 端まで移動",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_012",
+      "front": "データ入力済みの領域の端まで選択",
+      "back": "Ctrl+Shift+矢印",
+      "story": "Ctrl+矢印で移動しつつ、Shiftキーで選択範囲を広げるイメージです。表全体や特定の列・行を素早く選択する際に非常に有効で、マウスでドラッグする手間を省けます。",
+      "searchQuery": "Ctrl+Shift+矢印 端まで選択",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_013",
+      "front": "現在の表全体またはシート全体を選択",
+      "back": "Ctrl+A",
+      "story": "「All」のAと覚えれば簡単です。アクティブセルが表内にある場合はその表全体を、表外にある場合はシート全体を選択します。データ範囲が不明な場合でも一発で選択できるため便利です。",
+      "searchQuery": "Ctrl+A 表全体選択",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_014",
+      "front": "アクティブセルを含む行全体を選択",
+      "back": "Shift+Space",
+      "story": "Spaceキーは「空間」を意味し、Shiftと組み合わせることで「行」という広大な空間を選択するイメージです。行全体をコピー、削除、非表示にする際にマウスを使わずに素早く操作できます。",
+      "searchQuery": "Shift+Space 行選択",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_015",
+      "front": "アクティブセルを含む列全体を選択",
+      "back": "Ctrl+Space",
+      "story": "Shift+Spaceが行選択、Ctrl+Spaceが列選択とセットで覚えましょう。列全体をコピー、削除、非表示にする際にマウスを使わずに素早く操作でき、作業効率が向上します。",
+      "searchQuery": "Ctrl+Space 列選択",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_016",
+      "front": "選択した場所に新しい行や列を挿入",
+      "back": "Ctrl+Shift++",
+      "story": "プラス記号(+)は「追加」を意味するので覚えやすいでしょう。行や列を選択した状態でこのショートカットを使えば、メニューを開かずに瞬時に挿入できます。データ整理に不可欠です。",
+      "searchQuery": "Ctrl+Shift++ 行・列挿入",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_017",
+      "front": "選択した行や列を削除する",
+      "back": "Ctrl+-",
+      "story": "マイナス記号(-)は「削除」を意味するので覚えやすいでしょう。不要な行や列を素早く消したいときに役立ちます。Ctrl+Shift++とセットで覚えておくと便利です。",
+      "searchQuery": "Ctrl+- 行・列削除",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_018",
+      "front": "選択した行を非表示にする",
+      "back": "Ctrl+9",
+      "story": "「9」は数字の並びで「隠す」というイメージはありませんが、「非表示」を意味するショートカットとして覚えてしまいましょう。一時的に特定の行を見えなくして、表をスッキリさせたいときに使います。",
+      "searchQuery": "Ctrl+9 行非表示",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_019",
+      "front": "選択した列を非表示にする",
+      "back": "Ctrl+0",
+      "story": "「0」は「ゼロにする」「見えなくする」というイメージで覚えやすいかもしれません。重要な列を一時的に隠して作業スペースを確保したり、特定のデータだけを見せたい場合に重宝します。",
+      "searchQuery": "Ctrl+0 列非表示",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_020",
+      "front": "データにフィルターを設定・解除",
+      "back": "Ctrl+Shift+L",
+      "story": "「List」のLと覚えれば簡単です。Excelでデータを絞り込んだり並べ替えたりする際に、このショートカットを使えば瞬時にフィルターボタンをオン・オフできます。データ分析の必須機能です。",
+      "searchQuery": "Ctrl+Shift+L フィルター",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_021",
+      "front": "選択範囲をテーブルとして設定",
+      "back": "Ctrl+T",
+      "story": "「Table」のTと覚えれば簡単です。データをテーブルに変換すると、自動的に書式が適用され、フィルターや集計行が簡単に設定できるようになります。データ管理と分析が格段に楽になります。",
+      "searchQuery": "Ctrl+T テーブル化",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_022",
+      "front": "選択範囲の合計値を自動入力",
+      "back": "Alt+Shift+=",
+      "story": "数式バーの「Σ」（シグマ）ボタンと同じ機能です。「=」（イコール）は数式の始まりを意味し、AltとShiftで「自動的に合計する」と覚えると良いでしょう。数値の集計作業を劇的に高速化します。",
+      "searchQuery": "Alt+Shift+= オートSUM",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_023",
+      "front": "入力パターンを自動認識し一括入力",
+      "back": "Ctrl+E",
+      "story": "「Easy Fill」のEと覚えれば簡単です。例えば、氏名から姓だけを抽出したり、複数のセルデータを結合したりする際に、最初の数例を入力するだけでExcelがパターンを学習し、残りを自動で埋めてくれます。",
+      "searchQuery": "Ctrl+E フラッシュフィル",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_024",
+      "front": "シート内の特定の文字列を検索",
+      "back": "Ctrl+F",
+      "story": "「Find」のFと覚えれば簡単です。膨大なデータの中から目的の情報を素早く見つけ出す際に使います。検索ボックスにキーワードを入力するだけで、瞬時に該当箇所へジャンプできます。",
+      "searchQuery": "Ctrl+F 検索",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_025",
+      "front": "特定の文字列を別の文字列に置換",
+      "back": "Ctrl+H",
+      "story": "「Replace」のH...ではなく、「Find and Replace」の「Replace」の「H」と覚えてください。検索(Ctrl+F)とセットで使われることが多く、データの修正や整形作業を効率化します。",
+      "searchQuery": "Ctrl+H 置換",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_026",
+      "front": "次のシートへ移動する",
+      "back": "Ctrl+PageDown",
+      "story": "PageDownは「ページを下に送る」イメージで、シートのタブが右方向に並んでいることから「右へ移動」と覚えられます。複数のシートを行き来する際にマウス操作なしで素早く切り替えられます。",
+      "searchQuery": "Ctrl+PageDown シート移動",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_027",
+      "front": "前のシートへ移動する",
+      "back": "Ctrl+PageUp",
+      "story": "PageUpは「ページを上に送る」イメージで、シートのタブが左方向に並んでいることから「左へ移動」と覚えられます。Ctrl+PageDownとセットで覚えることで、シート間の移動が自由自在になります。",
+      "searchQuery": "Ctrl+PageUp シート移動",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_028",
+      "front": "開いている別のブックへ切り替える",
+      "back": "Ctrl+Tab",
+      "story": "Webブラウザでタブを切り替えるように、Excelでも複数のブックを開いている場合にこのショートカットで瞬時に切り替えられます。複数のファイルを参照しながら作業する際に非常に便利です。",
+      "searchQuery": "Ctrl+Tab ブック切替",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_029",
+      "front": "セル内の数式を直接表示する",
+      "back": "Ctrl+Shift+@",
+      "story": "@マークが数式記号と関連付けられることは少ないですが、この組み合わせで「数式モード」に切り替わると覚えましょう。数式のエラーチェックや構造確認をしたいときに、結果値ではなく数式そのものを表示できます。",
+      "searchQuery": "Ctrl+Shift+@ 数式表示",
+      "status": "new",
+      "success_count": 0
+    },
+    {
+      "id": "excel_shortcuts_1_030",
+      "front": "現在のファイルを上書き保存する",
+      "back": "Ctrl+S",
+      "story": "「Save」のSと覚えれば最も簡単です。作業内容を失わないためにも、こまめな保存が重要です。無意識レベルでこのショートカットを使えるようになれば、安全に作業を進められます。",
+      "searchQuery": "Ctrl+S 上書き保存",
+      "status": "new",
+      "success_count": 0
+    }
+  ]
+}
