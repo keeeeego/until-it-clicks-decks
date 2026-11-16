@@ -1711,5 +1711,23 @@
     "version": "1.3.0",
     "updatedAt": "2026-11-16",
     "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/auto_20261116_475.json"
+  },
+  {
+    "id": "excel_shortcuts_1",
+    "ttsLang": "ja-JP",
+    "title": "📊 Excel爆速ショートカット厳選30",
+    "note": "📊 Excel爆速ショートカット厳選30（全30問）",
+    "category": "テクノロジー",
+    "subCategory": "IT・ビジネス",
+    "hierarchy": {
+      "level1": "テクノロジー",
+      "level2": "IT・ビジネス",
+      "level3": "Excel",
+      "level4": "ショートカット"
+    },
+    "cardCount": 30,
+    "version": "1.3.0",
+    "updatedAt": "2026-11-16",
+    "downloadUrl": "https://raw.githubusercontent.com/keeeeego/until-it-clicks-decks/main/decks/excel_shortcuts_1.json"
   }
 ]
